@@ -1,0 +1,38 @@
+Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Scoring_XPM,Scoring_XPA,Scoring_XP%,Scoring_FGM,Scoring_FGA,Scoring_FG%,Scoring_TD,Scoring_Pts,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Player
+2019,2019-10-06,5,5,23.180,LAC,,DEN,L 13-20,False,1,1,100.0,2,3,66.7,0,7,0,0%,0,0%,8,30%,False,Chase McLaughlin
+2019,2019-10-13,6,6,23.187,LAC,,PIT,L 17-24,False,2,2,100.0,1,2,50.0,0,5,0,0%,0,0%,8,31%,False,Chase McLaughlin
+2019,2019-10-20,7,7,23.194,LAC,@,TEN,L 20-23,False,2,2,100.0,2,2,100.0,0,8,0,0%,0,0%,10,42%,True,Chase McLaughlin
+2019,2019-10-27,8,8,23.201,LAC,@,CHI,W 17-16,False,2,2,100.0,1,2,50.0,0,5,0,0%,0,0%,8,31%,True,Chase McLaughlin
+2019,2019-11-11,9,10,23.216,SFO,,SEA,L 24-27,False,1,1,100.0,3,4,75.0,0,10,0,0%,0,0%,6,17%,False,Chase McLaughlin
+2019,2019-11-17,10,11,23.222,SFO,,ARI,W 36-26,False,3,3,100.0,1,1,100.0,0,6,0,0%,0,0%,4,15%,False,Chase McLaughlin
+2019,2019-11-24,11,12,23.229,SFO,,GNB,W 37-8,False,4,4,100.0,3,3,100.0,0,13,0,0%,0,0%,7,27%,False,Chase McLaughlin
+2019,2019-12-01,12,13,,SFO,@,BAL,L 17-20,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Chase McLaughlin
+2019,2019-12-08,13,14,23.243,IND,@,TAM,L 35-38,False,3,3,100.0,2,3,66.7,0,9,0,0%,0,0%,6,19%,True,Chase McLaughlin
+2019,2019-12-16,14,15,23.251,IND,@,NOR,L 7-34,False,1,1,100.0,,,,0,1,0,0%,0,0%,1,4%,True,Chase McLaughlin
+2019,2019-12-22,15,16,23.257,IND,,CAR,W 38-6,False,5,5,100.0,1,1,100.0,0,8,0,0%,0,0%,6,23%,False,Chase McLaughlin
+2019,2019-12-29,16,17,23.264,IND,@,JAX,L 20-38,False,2,2,100.0,2,2,100.0,0,8,0,0%,0,0%,4,15%,True,Chase McLaughlin
+2020,2020-11-15,9,10,24.220,JAX,@,GNB,L 20-24,False,2,2,100.0,2,2,100.0,0,8,0,0%,0,0%,4,13%,True,Chase McLaughlin
+2020,2020-11-22,10,11,24.227,JAX,,PIT,L 3-27,False,,,,1,1,100.0,0,3,0,0%,0,0%,1,4%,False,Chase McLaughlin
+2020,2020-11-29,11,12,,JAX,,CLE,L 25-27,True,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,False,Chase McLaughlin
+2020,2020-12-06,12,13,24.241,JAX,@,MIN,L 24-27,False,1,2,50.0,1,2,50.0,0,4,0,0%,0,0%,4,12%,True,Chase McLaughlin
+2020,2020-12-20,14,15,,NYJ,@,LAR,W 23-20,True,Exempt List,Exempt List,Exempt List,Exempt List,Exempt List,Exempt List,Exempt List,Exempt List,Exempt List,Exempt List,Exempt List,Exempt List,Exempt List,Exempt List,True,Chase McLaughlin
+2020,2020-12-27,15,16,,NYJ,,CLE,W 23-16,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Chase McLaughlin
+2020,2021-01-03,16,17,24.269,NYJ,@,NWE,L 14-28,False,2,2,100.0,,,,0,2,0,0%,0,0%,5,19%,True,Chase McLaughlin
+2021,2021-09-12,1,1,25.156,CLE,@,KAN,L 29-33,False,3,3,100.0,,,,0,3,0,0%,0,0%,8,33%,True,Chase McLaughlin
+2021,2021-09-19,2,2,25.163,CLE,,HOU,W 31-21,False,4,4,100.0,1,1,100.0,0,7,0,0%,0,0%,11,44%,False,Chase McLaughlin
+2021,2021-09-26,3,3,25.170,CLE,,CHI,W 26-6,False,2,2,100.0,4,4,100.0,0,14,0,0%,0,0%,13,48%,False,Chase McLaughlin
+2021,2021-10-03,4,4,25.177,CLE,@,MIN,W 14-7,False,,,,2,2,100.0,0,6,0,0%,0,0%,6,27%,True,Chase McLaughlin
+2021,2021-10-10,5,5,25.184,CLE,@,LAC,L 42-47,False,4,4,100.0,2,2,100.0,0,10,0,0%,0,0%,13,41%,True,Chase McLaughlin
+2021,2021-10-17,6,6,25.191,CLE,,ARI,L 14-37,False,2,2,100.0,,,,0,2,0,0%,0,0%,4,17%,False,Chase McLaughlin
+2021,2021-10-21,7,7,25.195,CLE,,DEN,W 17-14,False,2,2,100.0,1,2,50.0,0,5,0,0%,0,0%,8,40%,False,Chase McLaughlin
+2021,2021-10-31,8,8,25.205,CLE,,PIT,L 10-15,False,1,1,100.0,1,1,100.0,0,4,0,0%,0,0%,5,26%,False,Chase McLaughlin
+2021,2021-11-07,9,9,25.212,CLE,@,CIN,W 41-16,False,5,5,100.0,2,3,66.7,0,11,0,0%,0,0%,16,57%,True,Chase McLaughlin
+2021,2021-11-14,10,10,25.219,CLE,@,NWE,L 7-45,False,1,1,100.0,,,,0,1,0,0%,0,0%,3,13%,True,Chase McLaughlin
+2021,2021-11-21,11,11,25.226,CLE,,DET,W 13-10,False,1,2,50.0,,1,0.0,0,1,0,0%,0,0%,6,27%,False,Chase McLaughlin
+2021,2021-11-28,12,12,25.233,CLE,@,BAL,L 10-16,False,1,1,100.0,1,2,50.0,0,4,0,0%,0,0%,6,25%,True,Chase McLaughlin
+2021,2021-12-12,13,14,25.247,CLE,,BAL,W 24-22,False,3,3,100.0,1,2,50.0,0,6,0,0%,0,0%,10,32%,False,Chase McLaughlin
+2021,2021-12-20,14,15,25.255,CLE,,LVR,L 14-16,False,2,2,100.0,,1,0.0,0,2,0,0%,0,0%,6,23%,False,Chase McLaughlin
+2021,2021-12-25,15,16,,CLE,@,GNB,L 22-24,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Chase McLaughlin
+2021,2022-01-03,16,17,25.269,CLE,@,PIT,L 14-26,False,2,2,100.0,,,,0,2,0,0%,0,0%,5,16%,True,Chase McLaughlin
+2021,2022-01-09,17,18,25.275,CLE,,CIN,W 21-16,False,3,3,100.0,,,,0,3,0,0%,0,0%,7,28%,False,Chase McLaughlin
+,31 Games,,,,,,,12-19-0,False,67,69,97.1,37,49,75.5,0,178,,,,,,,False,Chase McLaughlin

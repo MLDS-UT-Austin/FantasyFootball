@@ -1,0 +1,19 @@
+Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Scoring_XPM,Scoring_XPA,Scoring_XP%,Scoring_FGM,Scoring_FGA,Scoring_FG%,Scoring_TD,Scoring_Pts,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Player
+2020,2020-12-07,12,13,24.260,PIT,,WAS,L 17-23,False,2,2,100.0,1,1,100.0,0,5,0,0%,0,0%,7,22%,False,Matthew Wright
+2020,2020-12-27,15,16,24.280,PIT,,IND,W 28-24,False,4,4,100.0,,,,0,4,0,0%,0,0%,9,30%,False,Matthew Wright
+2020,2021-01-03,16,17,24.287,PIT,@,CLE,L 22-24,False,1,1,100.0,3,3,100.0,0,10,0,0%,0,0%,10,40%,True,Matthew Wright
+2021,2021-09-30,4,4,25.192,JAX,@,CIN,L 21-24,False,3,3,100.0,,,,0,3,0,0%,0,0%,3,13%,True,Matthew Wright
+2021,2021-10-10,5,5,25.202,JAX,,TEN,L 19-37,False,1,2,50.0,,1,0.0,0,1,0,0%,0,0%,3,12%,False,Matthew Wright
+2021,2021-10-17,6,6,25.209,JAX,,MIA,W 23-20,False,2,2,100.0,3,3,100.0,0,11,0,0%,0,0%,5,18%,False,Matthew Wright
+2021,2021-10-31,7,8,25.223,JAX,@,SEA,L 7-31,False,1,1,100.0,,,,0,1,0,0%,0,0%,3,13%,True,Matthew Wright
+2021,2021-11-07,8,9,25.230,JAX,,BUF,W 9-6,False,,,,3,4,75.0,0,9,0,0%,0,0%,9,43%,False,Matthew Wright
+2021,2021-11-14,9,10,25.237,JAX,@,IND,L 17-23,False,,1,0.0,1,2,50.0,0,3,0,0%,0,0%,6,19%,True,Matthew Wright
+2021,2021-11-21,10,11,25.244,JAX,,SFO,L 10-30,False,1,1,100.0,1,1,100.0,0,4,0,0%,0,0%,5,22%,False,Matthew Wright
+2021,2021-11-28,11,12,25.251,JAX,,ATL,L 14-21,False,,,,2,2,100.0,0,6,0,0%,0,0%,6,27%,False,Matthew Wright
+2021,2021-12-05,12,13,25.258,JAX,@,LAR,L 7-37,False,1,1,100.0,,,,0,1,0,0%,0,0%,3,12%,True,Matthew Wright
+2021,2021-12-12,13,14,25.265,JAX,@,TEN,L 0-20,False,,,,,,,0,0,0,0%,0,0%,1,5%,True,Matthew Wright
+2021,2021-12-19,14,15,25.272,JAX,,HOU,L 16-30,False,1,1,100.0,3,3,100.0,0,10,0,0%,0,0%,6,19%,False,Matthew Wright
+2021,2021-12-26,15,16,25.279,JAX,@,NYJ,L 21-26,False,,,,3,3,100.0,0,9,0,0%,0,0%,4,17%,True,Matthew Wright
+2021,2022-01-02,16,17,25.286,JAX,@,NWE,L 10-50,False,1,1,100.0,1,1,100.0,0,4,0,0%,0,0%,5,19%,True,Matthew Wright
+2021,2022-01-09,17,18,25.293,JAX,,IND,W 26-11,False,2,2,100.0,4,4,100.0,0,14,0,0%,0,0%,12,55%,False,Matthew Wright
+,17 Games,,,,,,,4-13-0,False,20,22,90.9,25,28,89.3,0,95,,,,,,,False,Matthew Wright

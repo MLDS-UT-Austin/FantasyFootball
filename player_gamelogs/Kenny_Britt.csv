@@ -1,0 +1,145 @@
+Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Receiving_Tgt,Receiving_Rec,Receiving_Yds,Receiving_Y/R,Receiving_TD,Receiving_Ctch%,Receiving_Y/Tgt,Rushing_Att,Rushing_Yds,Rushing_Y/A,Rushing_TD,Kick Returns_Rt,Kick Returns_Yds,Kick Returns_Y/Rt,Kick Returns_TD,Scoring_2PM,Scoring_TD,Scoring_Pts,Fumbles_Fmb,Fumbles_FL,Fumbles_FF,Fumbles_FR,Fumbles_Yds,Fumbles_TD,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Player
+2009,2009-09-10,1,1,20.356,TEN,@,PIT,L 10-13,False,6,4,85,21.25,0,66.7%,14.17,0,0,,0,0,0,,0,,0,0,0,,0,0,0,0,,,,,,,True,Kenny Britt
+2009,2009-09-20,2,2,21.001,TEN,,HOU,L 31-34,False,2,2,22,11.00,0,100.0%,11.00,0,0,,0,0,0,,0,,0,0,0,,0,0,0,0,,,,,,,False,Kenny Britt
+2009,2009-09-27,3,3,21.008,TEN,@,NYJ,L 17-24,False,6,4,59,14.75,0,66.7%,9.83,0,0,,0,0,0,,0,,0,0,0,,0,0,0,0,,,,,,,True,Kenny Britt
+2009,2009-10-04,4,4,21.015,TEN,@,JAX,L 17-37,False,11,7,105,15.00,0,63.6%,9.55,0,0,,0,0,0,,0,,0,0,0,,0,0,0,0,,,,,,,True,Kenny Britt
+2009,2009-10-11,5,5,21.022,TEN,,IND,L 9-31,False,5,2,18,9.00,0,40.0%,3.60,0,0,,0,0,0,,0,,0,0,0,,0,0,0,0,,,,,,,False,Kenny Britt
+2009,2009-10-18,6,6,21.029,TEN,@,NWE,L 0-59,False,4,0,0,,0,0.0%,0.00,,,,,,,,,,0,0,0,,,0,0,0,,,,,,,True,Kenny Britt
+2009,2009-11-01,7,8,21.043,TEN,,JAX,W 30-13,False,1,1,7,7.00,0,100.0%,7.00,0,0,,0,0,0,,0,,0,0,0,,0,0,0,0,,,,,,,False,Kenny Britt
+2009,2009-11-08,8,9,21.050,TEN,@,SFO,W 34-27,False,,,,,,0.0%,,,,,,,,,,,0,0,0,,,0,0,0,,,,,,,True,Kenny Britt
+2009,2009-11-15,9,10,21.057,TEN,,BUF,W 41-17,True,4,2,55,27.50,0,50.0%,13.75,0,0,,0,0,0,,0,,0,0,0,,0,0,0,0,,,,,,,False,Kenny Britt
+2009,2009-11-23,10,11,21.065,TEN,@,HOU,W 20-17,True,5,4,42,10.50,1,80.0%,8.40,0,0,,0,0,0,,0,,1,6,0,,0,0,0,0,,,,,,,True,Kenny Britt
+2009,2009-11-29,11,12,21.071,TEN,,ARI,W 20-17,True,11,7,128,18.29,1,63.6%,11.64,0,0,,0,2,58,29.00,0,,1,6,1,1,0,0,0,0,,,,,,,False,Kenny Britt
+2009,2009-12-06,12,13,21.078,TEN,@,IND,L 17-27,True,9,3,46,15.33,1,33.3%,5.11,0,0,,0,5,175,35.00,0,,1,6,0,,0,0,0,0,,,,,,,True,Kenny Britt
+2009,2009-12-13,13,14,21.085,TEN,,STL,W 47-7,True,2,2,75,37.50,0,100.0%,37.50,0,0,,0,2,49,24.50,0,,0,0,0,,0,0,0,0,,,,,,,False,Kenny Britt
+2009,2009-12-20,14,15,21.092,TEN,,MIA,W 27-24,True,2,2,32,16.00,0,100.0%,16.00,0,0,,0,4,72,18.00,0,,0,0,0,,0,0,0,0,,,,,,,False,Kenny Britt
+2009,2009-12-25,15,16,21.097,TEN,,SDG,L 17-42,False,6,1,13,13.00,0,16.7%,2.17,0,0,,0,7,96,13.71,0,,0,0,0,,0,0,0,0,,,,,,,False,Kenny Britt
+2009,2010-01-03,16,17,21.106,TEN,@,SEA,W 17-13,False,1,1,14,14.00,0,100.0%,14.00,0,0,,0,4,73,18.25,0,,0,0,0,0,0,0,0,0,,,,,,,True,Kenny Britt
+2010,2010-09-12,1,1,21.358,TEN,,OAK,W 38-13,False,,,,,,0.0%,,,,,,,,,,,0,0,0,,,0,0,0,,,,,,,False,Kenny Britt
+2010,2010-09-19,2,2,22.000,TEN,,PIT,L 11-19,False,7,5,41,8.20,0,71.4%,5.86,0,0,,0,0,0,,0,1,0,2,0,,0,0,0,0,,,,,,,False,Kenny Britt
+2010,2010-09-26,3,3,22.007,TEN,@,NYG,W 29-10,False,2,2,26,13.00,1,100.0%,13.00,0,0,,0,0,0,,0,,1,6,0,,0,0,0,0,,,,,,,True,Kenny Britt
+2010,2010-10-03,4,4,22.014,TEN,,DEN,L 20-26,False,7,3,23,7.67,1,42.9%,3.29,0,0,,0,0,0,,0,,1,6,0,,0,0,0,0,,,,,,,False,Kenny Britt
+2010,2010-10-10,5,5,22.021,TEN,@,DAL,W 34-27,True,6,4,86,21.50,1,66.7%,14.33,0,0,,0,0,0,,0,,1,6,0,,0,0,0,0,,,,,,,True,Kenny Britt
+2010,2010-10-18,6,6,22.029,TEN,@,JAX,W 30-3,True,5,2,33,16.50,1,40.0%,6.60,0,0,,0,0,0,,0,,1,6,0,,0,0,0,0,,,,,,,True,Kenny Britt
+2010,2010-10-24,7,7,22.035,TEN,,PHI,W 37-19,False,10,7,225,32.14,3,70.0%,22.50,0,0,,0,0,0,,0,,3,18,0,,0,0,0,0,,,,,,,False,Kenny Britt
+2010,2010-10-31,8,8,22.042,TEN,@,SDG,L 25-33,True,1,0,0,,0,0.0%,0.00,,,,,,,,,,0,0,0,,,0,0,0,,,,,,,True,Kenny Britt
+2010,2010-11-14,9,10,,TEN,@,MIA,L 17-29,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Kenny Britt
+2010,2010-11-21,10,11,,TEN,,WAS,L 16-19,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Kenny Britt
+2010,2010-11-28,11,12,,TEN,@,HOU,L 0-20,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Kenny Britt
+2010,2010-12-05,12,13,,TEN,,JAX,L 6-17,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Kenny Britt
+2010,2010-12-09,13,14,22.081,TEN,,IND,L 28-30,True,8,4,39,9.75,0,50.0%,4.88,0,0,,0,0,0,,0,,0,0,1,1,0,0,0,0,,,,,,,False,Kenny Britt
+2010,2010-12-19,14,15,22.091,TEN,,HOU,W 31-17,True,9,6,128,21.33,0,66.7%,14.22,0,0,,0,0,0,,0,,0,0,0,,0,0,0,0,,,,,,,False,Kenny Britt
+2010,2010-12-26,15,16,22.098,TEN,@,KAN,L 14-34,True,9,4,89,22.25,1,44.4%,9.89,0,0,,0,0,0,,0,,1,6,0,,0,0,0,0,,,,,,,True,Kenny Britt
+2010,2011-01-02,16,17,22.105,TEN,@,IND,L 20-23,True,9,5,85,17.00,1,55.6%,9.44,0,0,,0,0,0,,0,,1,6,0,,0,0,0,0,,,,,,,True,Kenny Britt
+2011,2011-09-11,1,1,22.357,TEN,@,JAX,L 14-16,True,10,5,136,27.20,2,50.0%,13.60,0,0,,0,0,0,,0,,2,12,0,,0,0,0,0,,,,,,,True,Kenny Britt
+2011,2011-09-18,2,2,22.364,TEN,,BAL,W 26-13,True,13,9,135,15.00,1,69.2%,10.38,0,0,,0,0,0,,0,,1,6,0,,0,0,0,0,,,,,,,False,Kenny Britt
+2011,2011-09-25,3,3,23.006,TEN,,DEN,W 17-14,True,3,3,18,6.00,0,100.0%,6.00,0,0,,0,0,0,,0,,0,0,1,1,0,0,0,0,,,,,,,False,Kenny Britt
+2011,2011-10-02,4,4,,TEN,@,CLE,W 31-13,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Kenny Britt
+2011,2011-10-09,5,5,,TEN,@,PIT,L 17-38,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Kenny Britt
+2011,2011-10-23,6,7,,TEN,,HOU,L 7-41,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Kenny Britt
+2011,2011-10-30,7,8,,TEN,,IND,W 27-10,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Kenny Britt
+2011,2011-11-06,8,9,,TEN,,CIN,L 17-24,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Kenny Britt
+2011,2011-11-13,9,10,,TEN,@,CAR,W 30-3,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Kenny Britt
+2011,2011-11-20,10,11,,TEN,@,ATL,L 17-23,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Kenny Britt
+2011,2011-11-27,11,12,,TEN,,TAM,W 23-17,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Kenny Britt
+2011,2011-12-04,12,13,,TEN,@,BUF,W 23-17,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Kenny Britt
+2011,2011-12-11,13,14,,TEN,,NOR,L 17-22,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Kenny Britt
+2011,2011-12-18,14,15,,TEN,@,IND,L 13-27,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Kenny Britt
+2011,2011-12-24,15,16,,TEN,,JAX,W 23-17,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Kenny Britt
+2011,2012-01-01,16,17,,TEN,@,HOU,W 23-22,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Kenny Britt
+2012,2012-09-09,1,1,,TEN,,NWE,L 13-34,True,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,False,Kenny Britt
+2012,2012-09-16,2,2,23.363,TEN,@,SDG,L 10-38,False,2,1,5,5.00,0,50.0%,2.50,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,19,48%,0,0%,0,0%,True,Kenny Britt
+2012,2012-09-23,3,3,24.004,TEN,,DET,W 44-41,True,11,6,55,9.17,0,54.5%,5.00,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,37,59%,0,0%,0,0%,False,Kenny Britt
+2012,2012-09-30,4,4,,TEN,@,HOU,L 14-38,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Kenny Britt
+2012,2012-10-07,5,5,24.018,TEN,@,MIN,L 7-30,False,5,2,23,11.50,0,40.0%,4.60,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,28,39%,0,0%,0,0%,True,Kenny Britt
+2012,2012-10-11,6,6,24.022,TEN,,PIT,W 26-23,False,11,4,62,15.50,1,36.4%,5.64,0,0,,0,0,0,,0,,1,6,1,0,0,1,0,0,45,63%,0,0%,0,0%,False,Kenny Britt
+2012,2012-10-21,7,7,24.032,TEN,@,BUF,W 35-34,True,6,4,30,7.50,0,66.7%,5.00,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,44,69%,0,0%,0,0%,True,Kenny Britt
+2012,2012-10-28,8,8,24.039,TEN,,IND,L 13-19,True,5,3,34,11.33,0,60.0%,6.80,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,38,64%,0,0%,0,0%,False,Kenny Britt
+2012,2012-11-04,9,9,24.046,TEN,,CHI,L 20-51,True,8,5,67,13.40,0,62.5%,8.38,0,0,,0,0,0,,0,1,0,2,1,1,0,0,0,0,43,75%,0,0%,0,0%,False,Kenny Britt
+2012,2012-11-11,10,10,24.053,TEN,@,MIA,W 37-3,True,6,2,36,18.00,0,33.3%,6.00,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,33,54%,0,0%,0,0%,True,Kenny Britt
+2012,2012-11-25,11,12,24.067,TEN,@,JAX,L 19-24,True,5,3,25,8.33,1,60.0%,5.00,0,0,,0,0,0,,0,,1,6,0,0,0,1,-2,0,54,76%,0,0%,0,0%,True,Kenny Britt
+2012,2012-12-02,12,13,24.074,TEN,,HOU,L 10-24,True,8,2,40,20.00,1,25.0%,5.00,0,0,,0,0,0,,0,,1,6,0,0,0,0,0,0,66,88%,0,0%,0,0%,False,Kenny Britt
+2012,2012-12-09,13,14,24.081,TEN,@,IND,L 23-27,True,9,8,143,17.88,0,88.9%,15.89,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,52,80%,0,0%,0,0%,True,Kenny Britt
+2012,2012-12-17,14,15,24.089,TEN,,NYJ,W 14-10,True,3,1,7,7.00,0,33.3%,2.33,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,52,88%,0,0%,0,0%,False,Kenny Britt
+2012,2012-12-23,15,16,24.095,TEN,@,GNB,L 7-55,True,6,2,41,20.50,1,33.3%,6.83,0,0,,0,0,0,,0,,1,6,0,0,0,0,0,0,54,92%,0,0%,0,0%,True,Kenny Britt
+2012,2012-12-30,16,17,24.102,TEN,,JAX,W 38-20,True,5,2,21,10.50,0,40.0%,4.20,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,35,65%,0,0%,1,3%,False,Kenny Britt
+2013,2013-09-08,1,1,24.354,TEN,@,PIT,W 16-9,True,2,1,15,15.00,0,50.0%,7.50,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,43,64%,0,0%,0,0%,True,Kenny Britt
+2013,2013-09-15,2,2,24.361,TEN,@,HOU,L 24-30,True,9,4,28,7.00,0,44.4%,3.11,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,60,86%,0,0%,0,0%,True,Kenny Britt
+2013,2013-09-22,3,3,25.003,TEN,,SDG,W 20-17,True,5,0,0,,0,0.0%,0.00,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,38,55%,0,0%,0,0%,False,Kenny Britt
+2013,2013-09-29,4,4,,TEN,,NYJ,W 38-13,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Kenny Britt
+2013,2013-10-06,5,5,25.017,TEN,,KAN,L 17-26,False,6,1,9,9.00,0,16.7%,1.50,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,35,51%,0,0%,0,0%,False,Kenny Britt
+2013,2013-10-13,6,6,25.024,TEN,@,SEA,L 13-20,False,1,1,7,7.00,0,100.0%,7.00,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,2,4%,0,0%,0,0%,True,Kenny Britt
+2013,2013-10-20,7,7,25.031,TEN,,SFO,L 17-31,False,2,1,8,8.00,0,50.0%,4.00,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,20,33%,0,0%,0,0%,False,Kenny Britt
+2013,2013-11-03,8,9,25.045,TEN,@,STL,W 28-21,False,1,0,0,,0,0.0%,0.00,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,10,16%,0,0%,0,0%,True,Kenny Britt
+2013,2013-11-10,9,10,25.052,TEN,,JAX,L 27-29,False,1,0,0,,0,0.0%,0.00,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,9,12%,0,0%,0,0%,False,Kenny Britt
+2013,2013-11-14,10,11,25.056,TEN,,IND,L 27-30,False,,,,,,0.0%,,,,,,,,,,,0,0,0,,,0,0,0,14,25%,0,0%,0,0%,False,Kenny Britt
+2013,2013-11-24,11,12,25.066,TEN,@,OAK,W 23-19,False,2,0,0,,0,0.0%,0.00,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,5,6%,0,0%,0,0%,True,Kenny Britt
+2013,2013-12-01,12,13,25.073,TEN,@,IND,L 14-22,False,,,,,,0.0%,,,,,,,,,,,0,0,0,,,0,0,0,1,1%,0,0%,0,0%,True,Kenny Britt
+2013,2013-12-08,13,14,,TEN,@,DEN,L 28-51,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Kenny Britt
+2013,2013-12-15,14,15,25.087,TEN,,ARI,L 34-37,False,6,3,29,9.67,0,50.0%,4.83,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,62,72%,0,0%,0,0%,False,Kenny Britt
+2013,2013-12-22,15,16,,TEN,@,JAX,W 20-16,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Kenny Britt
+2013,2013-12-29,16,17,,TEN,,HOU,W 16-10,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Kenny Britt
+2014,2014-09-07,1,1,25.353,STL,,MIN,L 6-34,True,3,0,0,,0,0.0%,0.00,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,41,61%,0,0%,0,0%,False,Kenny Britt
+2014,2014-09-14,2,2,25.360,STL,@,TAM,W 19-17,False,1,1,17,17.00,0,100.0%,17.00,1,12,12.00,0,0,0,,0,,0,0,0,0,0,0,0,0,41,67%,0,0%,0,0%,True,Kenny Britt
+2014,2014-09-21,3,3,26.002,STL,,DAL,L 31-34,False,7,5,69,13.80,0,71.4%,9.86,1,2,2.00,0,0,0,,0,,0,0,0,0,0,0,0,0,46,61%,0,0%,0,0%,False,Kenny Britt
+2014,2014-10-05,4,5,26.016,STL,@,PHI,L 28-34,False,6,3,68,22.67,1,50.0%,11.33,0,0,,0,0,0,,0,,1,6,0,0,0,0,0,0,47,60%,0,0%,0,0%,True,Kenny Britt
+2014,2014-10-13,5,6,26.024,STL,,SFO,L 17-31,True,6,3,39,13.00,0,50.0%,6.50,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,51,69%,0,0%,1,3%,False,Kenny Britt
+2014,2014-10-19,6,7,26.030,STL,,SEA,W 28-26,True,3,2,4,2.00,0,66.7%,1.33,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,30,61%,0,0%,1,4%,False,Kenny Britt
+2014,2014-10-26,7,8,26.037,STL,@,KAN,L 7-34,True,5,2,52,26.00,0,40.0%,10.40,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,41,79%,0,0%,0,0%,True,Kenny Britt
+2014,2014-11-02,8,9,26.044,STL,@,SFO,W 13-10,True,4,2,32,16.00,1,50.0%,8.00,0,0,,0,0,0,,0,,1,6,0,0,0,0,0,0,52,95%,0,0%,0,0%,True,Kenny Britt
+2014,2014-11-09,9,10,26.051,STL,@,ARI,L 14-31,True,5,3,31,10.33,0,60.0%,6.20,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,57,92%,0,0%,0,0%,True,Kenny Britt
+2014,2014-11-16,10,11,26.058,STL,,DEN,W 22-7,True,7,4,128,32.00,1,57.1%,18.29,0,0,,0,0,0,,0,,1,6,0,0,0,0,0,0,58,89%,0,0%,0,0%,False,Kenny Britt
+2014,2014-11-23,11,12,26.065,STL,@,SDG,L 24-27,True,6,2,37,18.50,0,33.3%,6.17,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,59,92%,0,0%,0,0%,True,Kenny Britt
+2014,2014-11-30,12,13,26.072,STL,,OAK,W 52-0,True,1,1,13,13.00,0,100.0%,13.00,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,41,80%,0,0%,0,0%,False,Kenny Britt
+2014,2014-12-07,13,14,26.079,STL,@,WAS,W 24-0,True,5,2,52,26.00,0,40.0%,10.40,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,53,85%,0,0%,0,0%,True,Kenny Britt
+2014,2014-12-11,14,15,26.083,STL,,ARI,L 6-12,True,9,5,65,13.00,0,55.6%,7.22,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,58,92%,0,0%,0,0%,False,Kenny Britt
+2014,2014-12-21,15,16,26.093,STL,,NYG,L 27-37,True,11,9,103,11.44,0,81.8%,9.36,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,53,87%,0,0%,1,3%,False,Kenny Britt
+2014,2014-12-28,16,17,26.100,STL,@,SEA,L 6-20,True,5,4,38,9.50,0,80.0%,7.60,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,55,89%,0,0%,0,0%,True,Kenny Britt
+2015,2015-09-13,1,1,26.359,STL,,SEA,W 34-31,True,3,2,37,18.50,0,66.7%,12.33,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,46,79%,0,0%,0,0%,False,Kenny Britt
+2015,2015-09-20,2,2,27.001,STL,@,WAS,L 10-24,True,4,2,44,22.00,1,50.0%,11.00,0,0,,0,0,0,,0,,1,6,0,0,0,0,0,0,48,92%,0,0%,0,0%,True,Kenny Britt
+2015,2015-09-27,3,3,27.008,STL,,PIT,L 6-12,True,10,7,102,14.57,0,70.0%,10.20,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,36,72%,0,0%,0,0%,False,Kenny Britt
+2015,2015-10-04,4,4,27.015,STL,@,ARI,W 24-22,True,1,0,0,,0,0.0%,0.00,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,49,92%,0,0%,0,0%,True,Kenny Britt
+2015,2015-10-11,5,5,27.022,STL,@,GNB,L 10-24,True,4,0,0,,0,0.0%,0.00,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,52,74%,0,0%,0,0%,True,Kenny Britt
+2015,2015-10-25,6,7,27.036,STL,,CLE,W 24-6,True,2,1,41,41.00,0,50.0%,20.50,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,33,62%,0,0%,0,0%,False,Kenny Britt
+2015,2015-11-01,7,8,27.043,STL,,SFO,W 27-6,True,2,0,0,,0,0.0%,0.00,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,41,59%,0,0%,0,0%,False,Kenny Britt
+2015,2015-11-08,8,9,27.050,STL,@,MIN,L 18-21,True,5,3,87,29.00,0,60.0%,17.40,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,41,55%,0,0%,0,0%,True,Kenny Britt
+2015,2015-11-15,9,10,27.057,STL,,CHI,L 13-37,True,3,1,6,6.00,0,33.3%,2.00,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,41,65%,0,0%,0,0%,False,Kenny Britt
+2015,2015-11-22,10,11,27.064,STL,@,BAL,L 13-16,True,5,2,24,12.00,0,40.0%,4.80,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,34,56%,0,0%,0,0%,True,Kenny Britt
+2015,2015-11-29,11,12,27.071,STL,@,CIN,L 7-31,True,11,6,63,10.50,0,54.5%,5.73,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,49,67%,0,0%,0,0%,True,Kenny Britt
+2015,2015-12-06,12,13,27.078,STL,,ARI,L 3-27,True,6,2,41,20.50,0,33.3%,6.83,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,25,50%,0,0%,0,0%,False,Kenny Britt
+2015,2015-12-13,13,14,27.085,STL,,DET,W 21-14,True,5,2,35,17.50,0,40.0%,7.00,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,43,78%,0,0%,1,4%,False,Kenny Britt
+2015,2015-12-17,14,15,27.089,STL,,TAM,W 31-23,False,2,2,71,35.50,1,100.0%,35.50,0,0,,0,0,0,,0,,1,6,0,0,0,0,0,0,33,63%,0,0%,1,3%,False,Kenny Britt
+2015,2015-12-27,15,16,27.099,STL,@,SEA,W 23-17,False,4,3,49,16.33,1,75.0%,12.25,0,0,,0,0,0,,0,,1,6,0,0,0,0,0,0,21,38%,0,0%,1,4%,True,Kenny Britt
+2015,2016-01-03,16,17,27.106,STL,@,SFO,L 16-19,False,5,3,81,27.00,0,60.0%,16.20,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,56,79%,0,0%,0,0%,True,Kenny Britt
+2016,2016-09-12,1,1,27.359,LAR,@,SFO,L 0-28,True,6,4,67,16.75,0,66.7%,11.17,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,59,97%,0,0%,0,0%,True,Kenny Britt
+2016,2016-09-18,2,2,27.365,LAR,,SEA,W 9-3,True,10,6,94,15.67,0,60.0%,9.40,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,52,84%,0,0%,0,0%,False,Kenny Britt
+2016,2016-09-25,3,3,28.006,LAR,@,TAM,W 37-32,True,6,4,38,9.50,0,66.7%,6.33,0,0,,0,0,0,,0,,0,0,1,1,0,0,0,0,54,83%,0,0%,1,3%,True,Kenny Britt
+2016,2016-10-02,4,4,28.013,LAR,@,ARI,W 17-13,True,4,4,82,20.50,0,100.0%,20.50,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,46,78%,0,0%,0,0%,True,Kenny Britt
+2016,2016-10-09,5,5,28.020,LAR,,BUF,L 19-30,True,6,5,75,15.00,0,83.3%,12.50,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,52,79%,0,0%,0,0%,False,Kenny Britt
+2016,2016-10-16,6,6,28.027,LAR,@,DET,L 28-31,True,8,7,136,19.43,2,87.5%,17.00,0,0,,0,0,0,,0,,2,12,0,0,0,0,0,0,47,81%,0,0%,0,0%,True,Kenny Britt
+2016,2016-10-23,7,7,28.034,LAR,,NYG,L 10-17,True,8,3,43,14.33,0,37.5%,5.38,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,70,89%,0,0%,0,0%,False,Kenny Britt
+2016,2016-11-06,8,9,28.048,LAR,,CAR,L 10-13,True,6,4,49,12.25,1,66.7%,8.17,0,0,,0,0,0,,0,,1,6,0,0,0,0,0,0,60,88%,0,0%,1,4%,False,Kenny Britt
+2016,2016-11-13,9,10,28.055,LAR,@,NYJ,W 9-6,True,10,7,109,15.57,0,70.0%,10.90,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,58,84%,0,0%,0,0%,True,Kenny Britt
+2016,2016-11-20,10,11,28.062,LAR,,MIA,L 10-14,True,7,5,43,8.60,0,71.4%,6.14,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,60,97%,0,0%,0,0%,False,Kenny Britt
+2016,2016-11-27,11,12,28.069,LAR,@,NOR,L 21-49,True,10,5,52,10.40,1,50.0%,5.20,0,0,,0,0,0,,0,,1,6,0,0,0,0,0,0,47,89%,0,0%,0,0%,True,Kenny Britt
+2016,2016-12-04,12,13,28.076,LAR,@,NWE,L 10-26,True,6,2,67,33.50,1,33.3%,11.17,0,0,,0,0,0,,0,,1,6,0,0,0,0,0,0,48,94%,0,0%,0,0%,True,Kenny Britt
+2016,2016-12-11,13,14,28.083,LAR,,ATL,L 14-42,True,12,7,82,11.71,0,58.3%,6.83,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,59,82%,0,0%,0,0%,False,Kenny Britt
+2016,2016-12-15,14,15,28.087,LAR,@,SEA,L 3-24,True,8,4,50,12.50,0,50.0%,6.25,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,43,72%,0,0%,0,0%,True,Kenny Britt
+2016,2016-12-24,15,16,28.096,LAR,,SFO,L 21-22,True,4,1,15,15.00,0,25.0%,3.75,0,0,,0,0,0,,0,,0,0,1,0,0,0,0,0,31,53%,0,0%,0,0%,False,Kenny Britt
+2016,2017-01-01,16,17,,LAR,,ARI,L 6-44,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Kenny Britt
+2017,2017-09-10,1,1,28.356,CLE,,PIT,L 18-21,False,3,1,13,13.00,0,33.3%,4.33,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,52,79%,0,0%,0,0%,False,Kenny Britt
+2017,2017-09-17,2,2,28.363,CLE,@,BAL,L 10-24,True,2,1,2,2.00,0,50.0%,1.00,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,42,59%,0,0%,0,0%,True,Kenny Britt
+2017,2017-09-24,3,3,29.005,CLE,@,IND,L 28-31,True,10,3,54,18.00,1,30.0%,5.40,0,0,,0,0,0,,0,,1,6,0,0,0,0,0,0,52,68%,0,0%,1,3%,True,Kenny Britt
+2017,2017-10-01,4,4,29.012,CLE,,CIN,L 7-31,True,8,3,52,17.33,0,37.5%,6.50,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,46,71%,0,0%,0,0%,False,Kenny Britt
+2017,2017-10-08,5,5,,CLE,,NYJ,L 14-17,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Kenny Britt
+2017,2017-10-15,6,6,,CLE,@,HOU,L 17-33,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Kenny Britt
+2017,2017-10-22,7,7,29.033,CLE,,TEN,L 9-12,True,5,2,7,3.50,0,40.0%,1.40,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,55,75%,0,0%,0,0%,False,Kenny Britt
+2017,2017-10-29,8,8,,CLE,,MIN,L 16-33,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Kenny Britt
+2017,2017-11-12,9,10,29.054,CLE,@,DET,L 24-38,False,3,2,38,19.00,1,66.7%,12.67,0,0,,0,0,0,,0,,1,6,0,0,0,0,0,0,55,68%,0,0%,0,0%,True,Kenny Britt
+2017,2017-11-19,10,11,29.061,CLE,,JAX,L 7-19,False,2,2,5,2.50,0,100.0%,2.50,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,20,36%,0,0%,0,0%,False,Kenny Britt
+2017,2017-11-26,11,12,29.068,CLE,@,CIN,L 16-30,False,2,2,52,26.00,0,100.0%,26.00,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,18,26%,0,0%,0,0%,True,Kenny Britt
+2017,2017-12-03,12,13,29.075,CLE,@,LAC,L 10-19,False,3,2,10,5.00,0,66.7%,3.33,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,12,19%,0,0%,0,0%,True,Kenny Britt
+2017,2017-12-17,14,15,29.089,NWE,@,PIT,W 27-24,False,1,1,7,7.00,0,100.0%,7.00,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,2,3%,0,0%,0,0%,True,Kenny Britt
+2017,2017-12-24,15,16,29.096,NWE,,BUF,W 37-16,False,2,1,16,16.00,0,50.0%,8.00,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,9,13%,0,0%,0,0%,False,Kenny Britt
+2017,2017-12-31,16,17,29.103,NWE,,NYJ,W 26-6,False,2,0,0,,0,0.0%,0.00,0,0,,0,0,0,,0,,0,0,0,0,0,0,0,0,29,34%,0,0%,0,0%,False,Kenny Britt
+,116 Games,,,,,,,46-70-0,False,609,329,5137,15.61,32,54.0%,8.44,2,14,7.00,0,24,523,21.79,0,2,32,196,7,5,0,2,-2,0,,,,,,,False,Kenny Britt

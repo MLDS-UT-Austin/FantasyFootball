@@ -1,0 +1,99 @@
+Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Scoring_XPM,Scoring_XPA,Scoring_XP%,Scoring_FGM,Scoring_FGA,Scoring_FG%,Scoring_TD,Scoring_Pts,Sk,Tackles_Solo,Tackles_Ast,Tackles_Comb,Tackles_TFL,Tackles_QBHits,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Player
+2014,2014-09-07,1,1,22.200,PHI,,JAX,W 34-17,False,4,4,100.0,2,2,100.0,0,10,0.0,0,0,0,,,0,0%,0,0%,13,36%,False,Cody Parkey
+2014,2014-09-15,2,2,22.208,PHI,@,IND,W 30-27,False,3,3,100.0,3,4,75.0,0,12,0.0,0,0,0,,,0,0%,0,0%,13,41%,True,Cody Parkey
+2014,2014-09-21,3,3,22.214,PHI,,WAS,W 37-34,False,4,4,100.0,3,3,100.0,0,13,0.0,0,0,0,,,0,0%,0,0%,15,39%,False,Cody Parkey
+2014,2014-09-28,4,4,22.221,PHI,@,SFO,L 21-26,False,3,3,100.0,,,,0,3,0.0,0,0,0,,,0,0%,0,0%,7,22%,True,Cody Parkey
+2014,2014-10-05,5,5,22.228,PHI,,STL,W 34-28,False,4,4,100.0,2,2,100.0,0,10,0.0,1,0,1,0,0,0,0%,0,0%,13,42%,False,Cody Parkey
+2014,2014-10-12,6,6,22.235,PHI,,NYG,W 27-0,False,3,3,100.0,2,2,100.0,0,9,0.0,0,0,0,,,0,0%,0,0%,11,39%,False,Cody Parkey
+2014,2014-10-26,7,8,22.249,PHI,@,ARI,L 20-24,False,2,2,100.0,2,2,100.0,0,8,0.0,0,0,0,,,0,0%,0,0%,9,28%,True,Cody Parkey
+2014,2014-11-02,8,9,22.256,PHI,@,HOU,W 31-21,False,4,4,100.0,1,1,100.0,0,7,0.0,0,0,0,,,0,0%,0,0%,10,37%,True,Cody Parkey
+2014,2014-11-10,9,10,22.264,PHI,,CAR,W 45-21,False,6,6,100.0,1,1,100.0,0,9,0.0,0,1,1,0,0,0,0%,0,0%,15,42%,False,Cody Parkey
+2014,2014-11-16,10,11,22.270,PHI,@,GNB,L 20-53,False,2,2,100.0,2,2,100.0,0,8,0.0,0,0,0,,,0,0%,0,0%,8,24%,True,Cody Parkey
+2014,2014-11-23,11,12,22.277,PHI,,TEN,W 43-24,False,4,4,100.0,5,6,83.3,0,19,0.0,0,0,0,,,0,0%,0,0%,20,53%,False,Cody Parkey
+2014,2014-11-27,12,13,22.281,PHI,@,DAL,W 33-10,False,3,3,100.0,4,4,100.0,0,15,0.0,0,0,0,,,0,0%,0,0%,15,54%,True,Cody Parkey
+2014,2014-12-07,13,14,22.291,PHI,,SEA,L 14-24,False,2,2,100.0,,,,0,2,0.0,0,0,0,,,0,0%,0,0%,5,17%,False,Cody Parkey
+2014,2014-12-14,14,15,22.298,PHI,,DAL,L 27-38,False,3,3,100.0,2,2,100.0,0,9,0.0,0,0,0,,,0,0%,0,0%,11,34%,False,Cody Parkey
+2014,2014-12-20,15,16,22.304,PHI,@,WAS,L 24-27,False,3,3,100.0,1,3,33.3,0,6,0.0,1,0,1,0,0,0,0%,0,0%,11,41%,True,Cody Parkey
+2014,2014-12-28,16,17,22.312,PHI,@,NYG,W 34-26,False,4,4,100.0,2,2,100.0,0,10,0.0,0,0,0,,,0,0%,0,0%,12,31%,True,Cody Parkey
+2015,2015-09-14,1,1,23.207,PHI,@,ATL,L 24-26,False,3,3,100.0,1,2,50.0,0,6,0.0,0,0,0,,,0,0%,0,0%,10,31%,True,Cody Parkey
+2015,2015-09-20,2,2,23.213,PHI,,DAL,L 10-20,False,1,1,100.0,1,1,100.0,0,4,0.0,0,0,0,,,0,0%,0,0%,5,19%,False,Cody Parkey
+2015,2015-09-27,3,3,23.220,PHI,@,NYJ,W 24-17,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,,,0,0%,0,0%,9,27%,True,Cody Parkey
+2015,2015-10-04,4,4,,PHI,@,WAS,L 20-23,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Cody Parkey
+2015,2015-10-11,5,5,,PHI,,NOR,W 39-17,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Cody Parkey
+2015,2015-10-19,6,6,,PHI,,NYG,W 27-7,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Cody Parkey
+2015,2015-10-25,7,7,,PHI,@,CAR,L 16-27,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Cody Parkey
+2015,2015-11-08,8,9,,PHI,@,DAL,W 33-27,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Cody Parkey
+2015,2015-11-15,9,10,,PHI,,MIA,L 19-20,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Cody Parkey
+2015,2015-11-22,10,11,,PHI,,TAM,L 17-45,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Cody Parkey
+2015,2015-11-26,11,12,,PHI,@,DET,L 14-45,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Cody Parkey
+2015,2015-12-06,12,13,,PHI,@,NWE,W 35-28,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Cody Parkey
+2015,2015-12-13,13,14,,PHI,,BUF,W 23-20,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Cody Parkey
+2015,2015-12-20,14,15,,PHI,,ARI,L 17-40,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Cody Parkey
+2015,2015-12-26,15,16,,PHI,,WAS,L 24-38,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Cody Parkey
+2015,2016-01-03,16,17,,PHI,@,NYG,W 35-30,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Cody Parkey
+2016,2016-09-25,3,3,24.219,CLE,@,MIA,L 24-30,False,1,1,100.0,3,6,50.0,0,10,0.0,0,0,0,,,0,0%,0,0%,14,41%,True,Cody Parkey
+2016,2016-10-02,4,4,24.226,CLE,@,WAS,L 20-31,False,2,2,100.0,2,2,100.0,0,8,0.0,0,0,0,,,0,0%,0,0%,8,35%,True,Cody Parkey
+2016,2016-10-09,5,5,24.233,CLE,,NWE,L 13-33,False,1,1,100.0,,,,0,1,0.0,0,0,0,,,0,0%,0,0%,4,14%,False,Cody Parkey
+2016,2016-10-16,6,6,24.240,CLE,@,TEN,L 26-28,False,2,2,100.0,2,2,100.0,0,8,0.0,0,0,0,,,0,0%,0,0%,10,30%,True,Cody Parkey
+2016,2016-10-23,7,7,24.247,CLE,@,CIN,L 17-31,False,2,2,100.0,1,1,100.0,0,5,0.0,0,0,0,,,0,0%,0,0%,7,26%,True,Cody Parkey
+2016,2016-10-30,8,8,24.254,CLE,,NYJ,L 28-31,False,2,2,100.0,2,2,100.0,0,8,0.0,0,0,0,,,0,0%,0,0%,9,29%,False,Cody Parkey
+2016,2016-11-06,9,9,24.261,CLE,,DAL,L 10-35,False,1,1,100.0,1,2,50.0,0,4,0.0,0,0,0,,,0,0%,0,0%,6,25%,False,Cody Parkey
+2016,2016-11-10,10,10,24.265,CLE,@,BAL,L 7-28,False,1,1,100.0,,,,0,1,0.0,0,0,0,,,0,0%,0,0%,3,13%,True,Cody Parkey
+2016,2016-11-20,11,11,24.275,CLE,,PIT,L 9-24,False,,1,0.0,1,1,100.0,0,3,0.0,0,0,0,,,0,0%,0,0%,5,24%,False,Cody Parkey
+2016,2016-11-27,12,12,24.282,CLE,,NYG,L 13-27,False,1,1,100.0,2,2,100.0,0,7,0.0,0,0,0,,,0,0%,0,0%,6,19%,False,Cody Parkey
+2016,2016-12-11,13,14,24.296,CLE,,CIN,L 10-23,False,1,1,100.0,1,1,100.0,0,4,0.0,0,0,0,,,0,0%,0,0%,5,19%,False,Cody Parkey
+2016,2016-12-18,14,15,24.303,CLE,@,BUF,L 13-33,False,1,1,100.0,2,2,100.0,0,7,0.0,0,0,0,,,0,0%,0,0%,7,26%,True,Cody Parkey
+2016,2016-12-24,15,16,24.309,CLE,,SDG,W 20-17,False,2,2,100.0,2,2,100.0,0,8,0.0,0,0,0,,,0,0%,0,0%,9,31%,False,Cody Parkey
+2016,2017-01-01,16,17,24.317,CLE,@,PIT,L 24-27,False,3,3,100.0,1,2,50.0,0,6,0.0,0,0,0,,,0,0%,0,0%,10,32%,True,Cody Parkey
+2017,2017-09-17,1,2,25.210,MIA,@,LAC,W 19-17,False,1,1,100.0,4,4,100.0,0,13,0.0,0,0,0,,,0,0%,0,0%,11,41%,True,Cody Parkey
+2017,2017-09-24,2,3,25.217,MIA,@,NYJ,L 6-20,False,,1,0.0,,,,0,0,0.0,0,0,0,,,0,0%,0,0%,2,8%,True,Cody Parkey
+2017,2017-10-01,3,4,25.224,MIA,,NOR,L 0-20,False,,,,,,,0,0,0.0,0,0,0,,,0,0%,0,0%,1,5%,False,Cody Parkey
+2017,2017-10-08,4,5,25.231,MIA,,TEN,W 16-10,False,1,2,50.0,1,1,100.0,0,4,0.0,0,0,0,,,0,0%,0,0%,7,23%,False,Cody Parkey
+2017,2017-10-15,5,6,25.238,MIA,@,ATL,W 20-17,False,2,2,100.0,2,2,100.0,0,8,0.0,0,0,0,,,0,0%,0,0%,9,39%,True,Cody Parkey
+2017,2017-10-22,6,7,25.245,MIA,,NYJ,W 31-28,False,4,4,100.0,1,1,100.0,0,7,0.0,0,0,0,,,0,0%,0,0%,11,33%,False,Cody Parkey
+2017,2017-10-26,7,8,25.249,MIA,@,BAL,L 0-40,False,,,,,1,0.0,0,0,0.0,0,0,0,,,0,0%,0,0%,2,7%,True,Cody Parkey
+2017,2017-11-05,8,9,25.259,MIA,,OAK,L 24-27,False,1,2,50.0,1,1,100.0,0,4,0.0,1,0,1,0,0,0,0%,0,0%,8,31%,False,Cody Parkey
+2017,2017-11-13,9,10,25.267,MIA,@,CAR,L 21-45,False,3,3,100.0,,,,0,3,0.0,0,0,0,,,0,0%,0,0%,7,25%,True,Cody Parkey
+2017,2017-11-19,10,11,25.273,MIA,,TAM,L 20-30,False,2,2,100.0,2,2,100.0,0,8,0.0,0,0,0,,,0,0%,0,0%,9,30%,False,Cody Parkey
+2017,2017-11-26,11,12,25.280,MIA,@,NWE,L 17-35,False,2,2,100.0,1,1,100.0,0,5,0.0,0,0,0,,,0,0%,0,0%,7,26%,True,Cody Parkey
+2017,2017-12-03,12,13,25.287,MIA,,DEN,W 35-9,False,4,4,100.0,1,1,100.0,0,7,0.0,0,0,0,,,0,0%,0,0%,11,32%,False,Cody Parkey
+2017,2017-12-11,13,14,25.295,MIA,,NWE,W 27-20,False,3,3,100.0,2,2,100.0,0,9,0.0,0,0,0,,,0,0%,0,0%,11,32%,False,Cody Parkey
+2017,2017-12-17,14,15,25.301,MIA,@,BUF,L 16-24,False,1,1,100.0,3,3,100.0,0,10,0.0,0,0,0,,,0,0%,0,0%,9,33%,True,Cody Parkey
+2017,2017-12-24,15,16,25.308,MIA,@,KAN,L 13-29,False,1,1,100.0,2,3,66.7,0,7,0.0,0,0,0,,,0,0%,0,0%,8,30%,True,Cody Parkey
+2017,2017-12-31,16,17,25.315,MIA,,BUF,L 16-22,False,1,1,100.0,1,1,100.0,0,4,0.0,0,0,0,,,0,0%,0,0%,6,25%,False,Cody Parkey
+2018,2018-09-09,1,1,26.202,CHI,@,GNB,L 23-24,False,2,2,100.0,3,3,100.0,0,11,0.0,0,0,0,,,0,0%,0,0%,11,39%,True,Cody Parkey
+2018,2018-09-17,2,2,26.210,CHI,,SEA,W 24-17,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,,,0,0%,0,0%,9,33%,False,Cody Parkey
+2018,2018-09-23,3,3,26.216,CHI,@,ARI,W 16-14,False,1,1,100.0,3,4,75.0,0,10,0.0,0,0,0,,,0,0%,0,0%,10,45%,True,Cody Parkey
+2018,2018-09-30,4,4,26.223,CHI,,TAM,W 48-10,False,6,6,100.0,2,2,100.0,0,12,0.0,0,0,0,,,0,0%,0,0%,16,57%,False,Cody Parkey
+2018,2018-10-14,5,6,26.237,CHI,@,MIA,L 28-31,False,4,4,100.0,,1,0.0,0,4,0.0,0,0,0,,,0,0%,0,0%,11,39%,True,Cody Parkey
+2018,2018-10-21,6,7,26.244,CHI,,NWE,L 31-38,False,4,4,100.0,1,1,100.0,0,7,0.0,0,0,0,,,0,0%,0,0%,11,33%,False,Cody Parkey
+2018,2018-10-28,7,8,26.251,CHI,,NYJ,W 24-10,False,3,3,100.0,1,2,50.0,0,6,0.0,0,0,0,,,0,0%,0,0%,10,36%,False,Cody Parkey
+2018,2018-11-04,8,9,26.258,CHI,@,BUF,W 41-9,False,5,5,100.0,2,2,100.0,0,11,0.0,0,0,0,,,0,0%,0,0%,15,52%,True,Cody Parkey
+2018,2018-11-11,9,10,26.265,CHI,,DET,W 34-22,False,2,4,50.0,,2,0.0,0,2,0.0,0,0,0,,,0,0%,0,0%,12,44%,False,Cody Parkey
+2018,2018-11-18,10,11,26.272,CHI,,MIN,W 25-20,False,,,,3,3,100.0,0,9,0.0,0,0,0,,,0,0%,0,0%,9,41%,False,Cody Parkey
+2018,2018-11-22,11,12,26.276,CHI,@,DET,W 23-16,False,2,2,100.0,1,1,100.0,0,5,0.0,0,0,0,,,0,0%,0,0%,8,33%,True,Cody Parkey
+2018,2018-12-02,12,13,26.286,CHI,@,NYG,L 27-30,False,3,3,100.0,2,2,100.0,0,9,0.0,0,0,0,,,0,0%,0,0%,11,30%,True,Cody Parkey
+2018,2018-12-09,13,14,26.293,CHI,,LAR,W 15-6,False,1,1,100.0,2,3,66.7,0,7,0.0,0,0,0,,,0,0%,0,0%,8,33%,False,Cody Parkey
+2018,2018-12-16,14,15,26.300,CHI,,GNB,W 24-17,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,,,0,0%,0,0%,9,33%,False,Cody Parkey
+2018,2018-12-23,15,16,26.307,CHI,@,SFO,W 14-9,False,2,2,100.0,,1,0.0,0,2,0.0,0,0,0,,,0,0%,0,0%,6,32%,True,Cody Parkey
+2018,2018-12-30,16,17,26.314,CHI,@,MIN,W 24-10,False,1,2,50.0,1,1,100.0,0,4,0.0,0,0,0,,,0,0%,0,0%,8,36%,True,Cody Parkey
+2019,2019-10-13,6,6,27.236,TEN,@,DEN,L 0-16,False,,,,,,,0,0,0.0,0,0,0,0,0,0,0%,0,0%,1,4%,True,Cody Parkey
+2019,2019-10-20,7,7,27.243,TEN,,LAC,W 23-20,False,2,3,66.7,1,1,100.0,0,5,0.0,0,0,0,0,0,0,0%,0,0%,9,38%,False,Cody Parkey
+2019,2019-10-27,8,8,27.250,TEN,,TAM,W 27-23,False,3,3,100.0,2,2,100.0,0,9,0.0,0,0,0,0,0,0,0%,0,0%,12,41%,False,Cody Parkey
+2020,2020-09-17,2,2,28.211,CLE,,CIN,W 35-30,False,5,5,100.0,,,,0,5,0.0,0,0,0,0,0,0,0%,0,0%,11,41%,False,Cody Parkey
+2020,2020-09-27,3,3,28.221,CLE,,WAS,W 34-20,False,4,4,100.0,2,2,100.0,0,10,0.0,0,0,0,0,0,0,0%,0,0%,13,46%,False,Cody Parkey
+2020,2020-10-04,4,4,28.228,CLE,@,DAL,W 49-38,False,5,5,100.0,2,2,100.0,0,11,0.0,0,0,0,0,0,1,1%,0,0%,15,48%,True,Cody Parkey
+2020,2020-10-11,5,5,28.235,CLE,,IND,W 32-23,False,3,3,100.0,3,3,100.0,0,12,0.0,0,0,0,0,0,0,0%,0,0%,13,46%,False,Cody Parkey
+2020,2020-10-18,6,6,28.242,CLE,@,PIT,L 7-38,False,1,1,100.0,,,,0,1,0.0,0,0,0,0,0,0,0%,0,0%,3,11%,True,Cody Parkey
+2020,2020-10-25,7,7,28.249,CLE,@,CIN,W 37-34,False,4,5,80.0,1,1,100.0,0,7,0.0,0,0,0,0,0,0,0%,0,0%,13,46%,True,Cody Parkey
+2020,2020-11-01,8,8,28.256,CLE,,LVR,L 6-16,False,,,,2,3,66.7,0,6,0.0,0,0,0,0,0,0,0%,0,0%,5,28%,False,Cody Parkey
+2020,2020-11-15,9,10,28.270,CLE,,HOU,W 10-7,False,1,1,100.0,1,1,100.0,0,4,0.0,0,0,0,0,0,0,0%,0,0%,5,29%,False,Cody Parkey
+2020,2020-11-22,10,11,28.277,CLE,,PHI,W 22-17,False,2,2,100.0,2,3,66.7,0,8,0.0,0,0,0,0,0,0,0%,0,0%,10,34%,False,Cody Parkey
+2020,2020-11-29,11,12,28.284,CLE,@,JAX,W 27-25,False,3,3,100.0,2,2,100.0,0,9,0.0,0,0,0,0,0,0,0%,0,0%,11,42%,True,Cody Parkey
+2020,2020-12-06,12,13,28.291,CLE,@,TEN,W 41-35,False,5,5,100.0,2,2,100.0,0,11,0.0,0,0,0,0,0,1,1%,0,0%,15,50%,True,Cody Parkey
+2020,2020-12-14,13,14,28.299,CLE,,BAL,L 42-47,False,4,5,80.0,,1,0.0,0,4,0.0,0,0,0,0,0,1,1%,0,0%,13,39%,False,Cody Parkey
+2020,2020-12-20,14,15,28.305,CLE,@,NYG,W 20-6,False,2,3,66.7,,,,0,2,0.0,0,0,0,0,0,0,0%,0,0%,7,37%,True,Cody Parkey
+2020,2020-12-27,15,16,28.312,CLE,@,NYJ,L 16-23,False,1,2,50.0,1,1,100.0,0,4,0.0,0,0,0,0,0,0,0%,0,0%,7,21%,True,Cody Parkey
+2020,2021-01-03,16,17,28.319,CLE,,PIT,W 24-22,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,0,0,0,0%,0,0%,9,36%,False,Cody Parkey
+2021,2021-10-10,5,5,29.233,NOR,@,WAS,W 33-22,False,3,5,60.0,,,,0,3,0.0,0,0,0,0,0,0,0%,0,0%,8,28%,True,Cody Parkey
+,84 Games,,,,,,,44-40-0,False,200,214,93.5,121,143,84.6,0,563,0.0,3,1,4,0,0,,,,,,,False,Cody Parkey

@@ -1,0 +1,19 @@
+Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Rushing_Att,Rushing_Yds,Rushing_Y/A,Rushing_TD,Receiving_Tgt,Receiving_Rec,Receiving_Yds,Receiving_Y/R,Receiving_TD,Receiving_Ctch%,Receiving_Y/Tgt,Scoring_TD,Scoring_Pts,Fumbles_Fmb,Fumbles_FL,Fumbles_FF,Fumbles_FR,Fumbles_Yds,Fumbles_TD,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Player
+2021.0,2021-09-12,1.0,1.0,22.128,NYJ,@,CAR,L 14-19,False,4,6,1.50,0,2,1,14,14.00,0,50.0%,7.00,0,0,0,0,0,0,0,0,16,25%,0,0%,4,14%,True,Michael Carter
+2021.0,2021-09-19,2.0,2.0,22.135,NYJ,,NWE,L 6-25,False,11,59,5.36,0,3,2,29,14.50,0,66.7%,9.67,0,0,0,0,0,0,0,0,33,45%,0,0%,4,16%,False,Michael Carter
+2021.0,2021-09-26,3.0,3.0,22.142,NYJ,@,DEN,L 0-26,True,9,24,2.67,0,3,2,5,2.50,0,66.7%,1.67,0,0,0,0,0,0,0,0,23,43%,0,0%,0,0%,True,Michael Carter
+2021.0,2021-10-03,4.0,4.0,22.149,NYJ,,TEN,W 27-24,True,13,38,2.92,1,3,1,-4,-4.00,0,33.3%,-1.33,1,6,0,0,0,0,0,0,31,51%,0,0%,0,0%,False,Michael Carter
+2021.0,2021-10-10,5.0,5.0,22.156,NYJ,@,ATL,L 20-27,True,10,38,3.80,1,3,3,20,6.67,0,100.0%,6.67,1,6,0,0,0,0,0,0,29,52%,0,0%,0,0%,True,Michael Carter
+2021.0,2021-10-24,6.0,7.0,22.17,NYJ,@,NWE,L 13-54,True,11,37,3.36,0,9,8,67,8.38,0,88.9%,7.44,0,0,1,1,0,0,0,0,47,72%,0,0%,0,0%,True,Michael Carter
+2021.0,2021-10-31,7.0,8.0,22.177,NYJ,,CIN,W 34-31,True,15,77,5.13,1,14,9,95,10.56,0,64.3%,6.79,1,6,0,0,0,0,0,0,59,70%,0,0%,0,0%,False,Michael Carter
+2021.0,2021-11-04,8.0,9.0,22.181,NYJ,@,IND,L 30-45,True,13,49,3.77,0,2,1,37,37.00,0,50.0%,18.50,0,0,0,0,0,0,0,0,45,58%,0,0%,0,0%,True,Michael Carter
+2021.0,2021-11-14,9.0,10.0,22.191,NYJ,,BUF,L 17-45,False,16,39,2.44,1,6,4,43,10.75,0,66.7%,7.17,1,6,0,0,0,0,0,0,40,52%,0,0%,0,0%,False,Michael Carter
+2021.0,2021-11-21,10.0,11.0,22.198,NYJ,,MIA,L 17-24,True,9,63,7.00,0,1,1,2,2.00,0,100.0%,2.00,0,0,0,0,0,0,0,0,20,33%,0,0%,0,0%,False,Michael Carter
+2021.0,2021-11-28,11.0,12.0,,NYJ,@,HOU,W 21-14,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Michael Carter
+2021.0,2021-12-05,12.0,13.0,,NYJ,,PHI,L 18-33,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Michael Carter
+2021.0,2021-12-12,13.0,14.0,,NYJ,,NOR,L 9-30,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Michael Carter
+2021.0,2021-12-19,14.0,15.0,22.226,NYJ,@,MIA,L 24-31,True,8,18,2.25,0,2,1,2,2.00,0,50.0%,1.00,0,0,0,0,0,0,0,0,31,54%,0,0%,0,0%,True,Michael Carter
+2021.0,2021-12-26,15.0,16.0,22.233,NYJ,,JAX,W 26-21,True,16,118,7.38,0,3,2,6,3.00,0,66.7%,2.00,0,0,0,0,0,0,0,0,43,74%,0,0%,0,0%,False,Michael Carter
+2021.0,2022-01-02,16.0,17.0,22.24,NYJ,,TAM,L 24-28,True,3,54,18.00,0,1,1,9,9.00,0,100.0%,9.00,0,0,0,0,0,0,0,0,8,13%,0,0%,0,0%,False,Michael Carter
+2021.0,2022-01-09,17.0,18.0,22.247,NYJ,@,BUF,L 10-27,True,9,19,2.11,0,3,0,0,,0,0.0%,0.00,0,0,0,0,0,0,0,0,24,52%,0,0%,0,0%,True,Michael Carter
+,14 Games,,,,,,,3-11-0,False,147,639,4.35,4,55,36,325,9.03,0,65.5%,5.91,4,24,1,1,0,0,0,0,,,,,,,False,Michael Carter

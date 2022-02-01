@@ -1,0 +1,211 @@
+Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Scoring_XPM,Scoring_XPA,Scoring_XP%,Scoring_FGM,Scoring_FGA,Scoring_FG%,Scoring_TD,Scoring_Pts,Sk,Tackles_Solo,Tackles_Ast,Tackles_Comb,Tackles_TFL,Tackles_QBHits,Fumbles_Fmb,Fumbles_FL,Fumbles_FF,Fumbles_FR,Fumbles_Yds,Fumbles_TD,Punting_Pnt,Punting_Yds,Punting_Y/P,Punting_Blck,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Player
+2005,2005-09-11,1,1,23.193,NYJ,@,KAN,L 7-27,False,1,1,100.0,,1,0.0,0,1,0.0,,,,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2005,2005-09-18,2,2,23.200,NYJ,,MIA,W 17-7,False,2,2,100.0,1,1,100.0,0,5,0.0,,,,,,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2005,2005-09-25,3,3,23.207,NYJ,,JAX,L 20-26,False,2,2,100.0,2,2,100.0,0,8,0.0,1,0,1,0,,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2005,2005-10-02,4,4,23.214,NYJ,@,BAL,L 3-13,False,,,,1,1,100.0,0,3,0.0,,,,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2005,2005-10-09,5,5,23.221,NYJ,,TAM,W 14-12,False,2,2,100.0,,2,0.0,0,2,0.0,,,,,,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2005,2005-10-16,6,6,23.228,NYJ,@,BUF,L 17-27,False,2,2,100.0,1,1,100.0,0,5,0.0,,,,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2005,2005-10-24,7,7,23.236,NYJ,@,ATL,L 14-27,False,2,2,100.0,,,,0,2,0.0,,,,,,0,,,0,0,0,0,0,,,,,,,,,True,Mike Nugent
+2005,2005-11-06,8,9,23.249,NYJ,,SDG,L 26-31,False,2,2,100.0,2,3,66.7,0,8,0.0,,,,,,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2005,2005-11-13,9,10,23.256,NYJ,@,CAR,L 3-30,False,,,,1,1,100.0,0,3,0.0,,,,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2005,2005-11-20,10,11,23.263,NYJ,@,DEN,L 0-27,False,,,,,,,0,0,0.0,,,,,,0,,,0,0,0,0,0,,,,,,,,,True,Mike Nugent
+2005,2005-11-27,11,12,23.270,NYJ,,NOR,L 19-21,False,1,1,100.0,4,5,80.0,0,13,0.0,,,,,,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2005,2005-12-04,12,13,23.277,NYJ,@,NWE,L 3-16,False,,,,1,1,100.0,0,3,0.0,,,,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2005,2005-12-11,13,14,23.284,NYJ,,OAK,W 26-10,False,2,2,100.0,4,4,100.0,0,14,0.0,1,0,1,0,,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2005,2005-12-18,14,15,23.291,NYJ,@,MIA,L 20-24,False,2,2,100.0,2,2,100.0,0,8,0.0,1,0,1,0,,0,,0,0,0,0,1,18,18.00,0,,,,,,,True,Mike Nugent
+2005,2005-12-26,15,16,23.299,NYJ,,NWE,L 21-31,False,3,3,100.0,,,,0,3,0.0,,,,,,0,,,0,0,0,0,0,,,,,,,,,False,Mike Nugent
+2005,2006-01-01,16,17,23.305,NYJ,,BUF,W 30-26,False,3,3,100.0,3,4,75.0,0,12,0.0,,,,,,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2006,2006-09-10,1,1,24.192,NYJ,@,TEN,W 23-16,False,2,3,66.7,1,3,33.3,0,5,0.0,,,,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2006,2006-09-17,2,2,24.199,NYJ,,NWE,L 17-24,False,2,2,100.0,1,1,100.0,0,5,0.0,0,1,1,0,0,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2006,2006-09-24,3,3,24.206,NYJ,@,BUF,W 28-20,False,4,4,100.0,,,,0,4,0.0,,,,,,0,,,0,0,0,0,0,,,,,,,,,True,Mike Nugent
+2006,2006-10-01,4,4,24.213,NYJ,,IND,L 28-31,False,4,4,100.0,,,,0,4,0.0,,,,,,0,,,0,0,0,0,0,,,,,,,,,False,Mike Nugent
+2006,2006-10-15,6,6,24.227,NYJ,,MIA,W 20-17,False,2,2,100.0,2,2,100.0,0,8,0.0,,,,,,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2006,2006-10-22,7,7,24.234,NYJ,,DET,W 31-24,False,4,4,100.0,1,1,100.0,0,7,0.0,,,,,,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2006,2006-10-29,8,8,24.241,NYJ,@,CLE,L 13-20,False,1,1,100.0,2,3,66.7,0,7,0.0,0,1,1,0,0,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2006,2006-11-12,9,10,24.255,NYJ,@,NWE,W 17-14,False,2,2,100.0,1,1,100.0,0,5,0.0,0,1,1,0,0,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2006,2006-11-26,11,12,24.269,NYJ,,HOU,W 26-11,False,2,2,100.0,4,4,100.0,0,14,0.0,1,0,1,0,0,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2006,2006-12-03,12,13,24.276,NYJ,@,GNB,W 38-10,False,5,5,100.0,1,1,100.0,0,8,0.0,,,,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2006,2006-12-10,13,14,24.283,NYJ,,BUF,L 13-31,False,1,1,100.0,2,2,100.0,0,7,0.0,0,0,0,0,0,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2006,2006-12-17,14,15,24.290,NYJ,@,MIN,W 26-13,False,2,2,100.0,4,4,100.0,0,14,0.0,,,,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2006,2006-12-25,15,16,24.298,NYJ,@,MIA,W 13-10,False,1,1,100.0,2,2,100.0,0,7,0.0,0,0,0,0,0,0,,0,1,-3,0,0,0,,0,,,,,,,True,Mike Nugent
+2006,2006-12-31,16,17,24.304,NYJ,,OAK,W 23-3,False,2,2,100.0,3,3,100.0,0,11,0.0,0,0,0,0,0,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2007,2007-09-09,1,1,25.191,NYJ,,NWE,L 14-38,False,2,2,100.0,,,,0,2,0.0,,,,,,0,,,0,0,0,0,0,,,,,,,,,False,Mike Nugent
+2007,2007-09-16,2,2,25.198,NYJ,@,BAL,L 13-20,False,1,1,100.0,2,3,66.7,0,7,0.0,,,,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2007,2007-09-23,3,3,25.205,NYJ,,MIA,W 31-28,False,4,4,100.0,1,1,100.0,0,7,0.0,1,0,1,0,0,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2007,2007-09-30,4,4,25.212,NYJ,@,BUF,L 14-17,False,2,2,100.0,,1,0.0,0,2,0.0,,,,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2007,2007-10-07,5,5,25.219,NYJ,@,NYG,L 24-35,False,3,3,100.0,1,2,50.0,0,6,0.0,,,,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2007,2007-10-14,6,6,25.226,NYJ,,PHI,L 9-16,False,,,,3,4,75.0,0,9,0.0,,,,,,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2007,2007-10-21,7,7,25.233,NYJ,@,CIN,L 31-38,False,2,2,100.0,3,3,100.0,0,11,0.0,,,,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2007,2007-10-28,8,8,25.240,NYJ,,BUF,L 3-13,False,,,,1,1,100.0,0,3,0.0,,,,,,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2007,2007-11-04,9,9,25.247,NYJ,,WAS,L 20-23,False,2,2,100.0,2,3,66.7,0,8,0.0,,,,,,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2007,2007-11-18,10,11,25.261,NYJ,,PIT,W 19-16,False,1,1,100.0,4,4,100.0,0,13,0.0,,,,,,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2007,2007-11-22,11,12,25.265,NYJ,@,DAL,L 3-34,False,,,,1,1,100.0,0,3,0.0,,,,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2007,2007-12-02,12,13,25.275,NYJ,@,MIA,W 40-13,False,4,4,100.0,4,4,100.0,0,16,0.0,,,,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2007,2007-12-09,13,14,25.282,NYJ,,CLE,L 18-24,False,,,,4,4,100.0,0,12,0.0,,,,,,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2007,2007-12-16,14,15,25.289,NYJ,@,NWE,L 10-20,False,1,1,100.0,1,2,50.0,0,4,0.0,,,,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2007,2007-12-23,15,16,25.296,NYJ,@,TEN,L 6-10,False,,1,0.0,,1,0.0,0,0,0.0,,,,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2007,2007-12-30,16,17,25.303,NYJ,,KAN,W 13-10,False,1,1,100.0,2,2,100.0,0,7,0.0,,,,,,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2008,2008-09-07,1,1,26.189,NYJ,@,MIA,W 20-14,False,2,2,100.0,,1,0.0,0,2,0.0,0,0,0,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2008,2008-09-14,2,2,,NYJ,,NWE,L 10-19,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Mike Nugent
+2008,2008-09-22,3,3,,NYJ,@,SDG,L 29-48,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Mike Nugent
+2008,2008-09-28,4,4,,NYJ,,ARI,W 56-35,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Mike Nugent
+2008,2008-10-12,5,6,,NYJ,,CIN,W 26-14,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Mike Nugent
+2008,2008-10-19,6,7,,NYJ,@,OAK,L 13-16,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Mike Nugent
+2008,2008-10-26,7,8,,NYJ,,KAN,W 28-24,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Mike Nugent
+2008,2008-11-02,8,9,,NYJ,@,BUF,W 26-17,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Mike Nugent
+2008,2008-11-09,9,10,,NYJ,,STL,W 47-3,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Mike Nugent
+2008,2008-11-13,10,11,,NYJ,@,NWE,W 34-31,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Mike Nugent
+2008,2008-11-23,11,12,,NYJ,@,TEN,W 34-13,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Mike Nugent
+2008,2008-11-30,12,13,,NYJ,,DEN,L 17-34,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Mike Nugent
+2008,2008-12-07,13,14,,NYJ,@,SFO,L 14-24,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Mike Nugent
+2008,2008-12-14,14,15,,NYJ,,BUF,W 31-27,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Mike Nugent
+2008,2008-12-21,15,16,,NYJ,@,SEA,L 3-13,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Mike Nugent
+2008,2008-12-28,16,17,,NYJ,,MIA,L 17-24,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Mike Nugent
+2009,2009-09-13,1,1,27.195,TAM,,DAL,L 21-34,False,3,3,100.0,,2,0.0,0,3,0.0,1,0,1,0,0,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2009,2009-09-20,2,2,27.202,TAM,@,BUF,L 20-33,False,2,2,100.0,,,,0,2,0.0,0,0,0,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2009,2009-10-04,4,4,27.216,TAM,@,WAS,L 13-16,False,1,1,100.0,2,4,50.0,0,7,0.0,0,0,0,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2009,2009-12-20,14,15,27.293,ARI,@,DET,W 31-24,False,4,4,100.0,1,1,100.0,0,7,0.0,0,0,0,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2009,2009-12-27,15,16,27.300,ARI,,STL,W 31-10,False,4,4,100.0,1,1,100.0,0,7,0.0,0,0,0,,,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2010,2010-09-12,1,1,28.194,CIN,@,NWE,L 24-38,False,3,3,100.0,1,1,100.0,0,6,0.0,0,1,1,0,0,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2010,2010-09-19,2,2,28.201,CIN,,BAL,W 15-10,False,,,,5,5,100.0,0,15,0.0,0,0,0,,,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2010,2010-09-26,3,3,28.208,CIN,@,CAR,W 20-7,False,2,2,100.0,2,2,100.0,0,8,0.0,0,0,0,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2010,2010-10-03,4,4,28.215,CIN,@,CLE,L 20-23,False,2,2,100.0,2,3,66.7,0,8,0.0,0,0,0,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2010,2010-10-10,5,5,28.222,CIN,,TAM,L 21-24,False,1,1,100.0,2,2,100.0,0,7,0.0,0,0,0,,,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2010,2010-10-24,6,7,28.236,CIN,@,ATL,L 32-39,False,2,2,100.0,2,3,66.7,0,8,0.0,0,0,0,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2010,2010-10-31,7,8,28.243,CIN,,MIA,L 14-22,False,2,2,100.0,,,,0,2,0.0,0,0,0,,,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2010,2010-11-08,8,9,28.251,CIN,,PIT,L 21-27,False,3,3,100.0,,2,0.0,0,3,0.0,1,0,1,0,0,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2010,2010-11-14,9,10,28.257,CIN,@,IND,L 17-23,False,2,2,100.0,1,1,100.0,0,5,0.0,0,0,0,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2010,2010-11-21,10,11,,CIN,,BUF,L 31-49,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Mike Nugent
+2010,2010-11-25,11,12,,CIN,@,NYJ,L 10-26,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Mike Nugent
+2010,2010-12-05,12,13,,CIN,,NOR,L 30-34,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Mike Nugent
+2010,2010-12-12,13,14,,CIN,@,PIT,L 7-23,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Mike Nugent
+2010,2010-12-19,14,15,,CIN,,CLE,W 19-17,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Mike Nugent
+2010,2010-12-26,15,16,,CIN,,SDG,W 34-20,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Mike Nugent
+2010,2011-01-02,16,17,,CIN,@,BAL,L 7-13,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Mike Nugent
+2011,2011-09-11,1,1,29.193,CIN,@,CLE,W 27-17,False,3,3,100.0,2,2,100.0,0,9,0.0,0,0,0,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2011,2011-09-18,2,2,29.200,CIN,@,DEN,L 22-24,False,1,1,100.0,3,3,100.0,0,10,0.0,0,0,0,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2011,2011-09-25,3,3,29.207,CIN,,SFO,L 8-13,False,,,,2,2,100.0,0,6,0.0,0,0,0,,,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2011,2011-10-02,4,4,29.214,CIN,,BUF,W 23-20,False,2,2,100.0,3,3,100.0,0,11,0.0,0,0,0,,,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2011,2011-10-09,5,5,29.221,CIN,@,JAX,W 30-20,False,3,4,75.0,1,1,100.0,0,6,0.0,0,0,0,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2011,2011-10-16,6,6,29.228,CIN,,IND,W 27-17,False,3,3,100.0,2,3,66.7,0,9,0.0,0,0,0,,,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2011,2011-10-30,7,8,29.242,CIN,@,SEA,W 34-12,False,4,4,100.0,2,2,100.0,0,10,0.0,0,0,0,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2011,2011-11-06,8,9,29.249,CIN,@,TEN,W 24-17,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2011,2011-11-13,9,10,29.256,CIN,,PIT,L 17-24,False,2,2,100.0,1,1,100.0,0,5,0.0,0,0,0,,,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2011,2011-11-20,10,11,29.263,CIN,@,BAL,L 24-31,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2011,2011-11-27,11,12,29.270,CIN,,CLE,W 23-20,False,2,2,100.0,3,3,100.0,0,11,0.0,0,0,0,,,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2011,2011-12-04,12,13,29.277,CIN,@,PIT,L 7-35,False,1,1,100.0,,1,0.0,0,1,0.0,0,0,0,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2011,2011-12-11,13,14,29.284,CIN,,HOU,L 19-20,False,1,1,100.0,4,4,100.0,0,13,0.0,0,0,0,,,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2011,2011-12-18,14,15,29.291,CIN,@,STL,W 20-13,False,2,2,100.0,2,2,100.0,0,8,0.0,0,0,0,,,0,,0,0,0,0,0,0,,0,,,,,,,True,Mike Nugent
+2011,2011-12-24,15,16,29.297,CIN,,ARI,W 23-16,False,2,2,100.0,3,5,60.0,0,11,0.0,0,0,0,,,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2011,2012-01-01,16,17,29.305,CIN,,BAL,L 16-24,False,1,1,100.0,3,4,75.0,0,10,0.0,0,0,0,,,0,,0,0,0,0,0,0,,0,,,,,,,False,Mike Nugent
+2012,2012-09-10,1,1,30.192,CIN,@,BAL,L 13-44,False,1,1,100.0,2,2,100.0,0,7,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,23%,True,Mike Nugent
+2012,2012-09-16,2,2,30.198,CIN,,CLE,W 34-27,False,4,4,100.0,2,2,100.0,0,10,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,13,42%,False,Mike Nugent
+2012,2012-09-23,3,3,30.205,CIN,@,WAS,W 38-31,False,5,5,100.0,1,1,100.0,0,8,0.0,1,0,1,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,15,41%,True,Mike Nugent
+2012,2012-09-30,4,4,30.212,CIN,@,JAX,W 27-10,False,3,3,100.0,2,2,100.0,0,9,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,12,44%,True,Mike Nugent
+2012,2012-10-07,5,5,30.219,CIN,,MIA,L 13-17,False,1,1,100.0,2,3,66.7,0,7,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,8,30%,False,Mike Nugent
+2012,2012-10-14,6,6,30.226,CIN,@,CLE,L 24-34,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,9,24%,True,Mike Nugent
+2012,2012-10-21,7,7,30.233,CIN,,PIT,L 17-24,False,2,2,100.0,1,1,100.0,0,5,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,27%,False,Mike Nugent
+2012,2012-11-04,8,9,30.247,CIN,,DEN,L 23-31,False,2,2,100.0,3,4,75.0,0,11,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,13,42%,False,Mike Nugent
+2012,2012-11-11,9,10,30.254,CIN,,NYG,W 31-13,False,4,4,100.0,1,1,100.0,0,7,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,11,41%,False,Mike Nugent
+2012,2012-11-18,10,11,30.261,CIN,@,KAN,W 28-6,False,4,4,100.0,,1,0.0,0,4,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,10,36%,True,Mike Nugent
+2012,2012-11-25,11,12,30.268,CIN,,OAK,W 34-10,False,4,4,100.0,2,3,66.7,0,10,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,13,45%,False,Mike Nugent
+2012,2012-12-02,12,13,30.275,CIN,@,SDG,W 20-13,False,2,2,100.0,2,2,100.0,0,8,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,9,38%,True,Mike Nugent
+2012,2012-12-09,13,14,,CIN,,DAL,L 19-20,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Mike Nugent
+2012,2012-12-13,14,15,,CIN,@,PHI,W 34-13,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Mike Nugent
+2012,2012-12-23,15,16,,CIN,@,PIT,W 13-10,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Mike Nugent
+2012,2012-12-30,16,17,,CIN,,BAL,W 23-17,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Mike Nugent
+2013,2013-09-08,1,1,31.190,CIN,@,CHI,L 21-24,False,3,3,100.0,,,,0,3,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,28%,True,Mike Nugent
+2013,2013-09-16,2,2,31.198,CIN,,PIT,W 20-10,False,2,2,100.0,2,2,100.0,0,8,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,9,32%,False,Mike Nugent
+2013,2013-09-22,3,3,31.204,CIN,,GNB,W 34-30,False,4,5,80.0,,1,0.0,0,4,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,12,40%,False,Mike Nugent
+2013,2013-09-29,4,4,31.211,CIN,@,CLE,L 6-17,False,,,,2,2,100.0,0,6,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,5,22%,True,Mike Nugent
+2013,2013-10-06,5,5,31.218,CIN,,NWE,W 13-6,False,1,1,100.0,2,2,100.0,0,7,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,27%,False,Mike Nugent
+2013,2013-10-13,6,6,31.225,CIN,@,BUF,W 27-24,False,3,3,100.0,2,3,66.7,0,9,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,12,38%,True,Mike Nugent
+2013,2013-10-20,7,7,31.232,CIN,@,DET,W 27-24,False,3,3,100.0,2,3,66.7,0,9,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,11,38%,True,Mike Nugent
+2013,2013-10-27,8,8,31.239,CIN,,NYJ,W 49-9,False,7,7,100.0,,,,0,7,0.0,1,0,1,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,15,50%,False,Mike Nugent
+2013,2013-10-31,9,9,31.243,CIN,@,MIA,L 20-22,False,2,2,100.0,2,2,100.0,0,8,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,10,31%,True,Mike Nugent
+2013,2013-11-10,10,10,31.253,CIN,@,BAL,L 17-20,False,2,2,100.0,1,2,50.0,0,5,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,23%,True,Mike Nugent
+2013,2013-11-17,11,11,31.260,CIN,,CLE,W 41-20,False,5,5,100.0,2,2,100.0,0,11,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,15,37%,False,Mike Nugent
+2013,2013-12-01,12,13,31.274,CIN,@,SDG,W 17-10,False,2,2,100.0,1,1,100.0,0,5,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,35%,True,Mike Nugent
+2013,2013-12-08,13,14,31.281,CIN,,IND,W 42-28,False,6,6,100.0,,,,0,6,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,13,37%,False,Mike Nugent
+2013,2013-12-15,14,15,31.288,CIN,@,PIT,L 20-30,False,2,2,100.0,,,,0,2,0.0,0,0,0,,,0,0,0,0,0,0,2,80,40.00,0,0,0%,0,0%,8,30%,True,Mike Nugent
+2013,2013-12-22,15,16,31.295,CIN,,MIN,W 42-14,False,6,6,100.0,,,,0,6,0.0,2,0,2,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,13,48%,False,Mike Nugent
+2013,2013-12-29,16,17,31.302,CIN,,BAL,W 34-17,False,4,4,100.0,2,2,100.0,0,10,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,13,43%,False,Mike Nugent
+2014,2014-09-07,1,1,32.189,CIN,@,BAL,W 23-16,False,,,,5,6,83.3,0,15,0.0,1,0,1,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,13,46%,True,Mike Nugent
+2014,2014-09-14,2,2,32.196,CIN,,ATL,W 24-10,False,3,3,100.0,1,4,25.0,0,6,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,12,44%,False,Mike Nugent
+2014,2014-09-21,3,3,32.203,CIN,,TEN,W 33-7,False,4,4,100.0,1,1,100.0,0,7,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,11,42%,False,Mike Nugent
+2014,2014-10-05,4,5,32.217,CIN,@,NWE,L 17-43,False,2,2,100.0,1,2,50.0,0,5,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,8,24%,True,Mike Nugent
+2014,2014-10-12,5,6,32.224,CIN,,CAR,T 37-37,False,4,4,100.0,3,4,75.0,0,13,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,16,46%,False,Mike Nugent
+2014,2014-10-19,6,7,32.231,CIN,@,IND,L 0-27,False,,,,,,,0,0,0.0,,,,,,0,,,0,0,0,0,0,,,0,0%,0,0%,1,3%,True,Mike Nugent
+2014,2014-10-26,7,8,32.238,CIN,,BAL,W 27-24,False,3,3,100.0,2,2,100.0,0,9,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,11,44%,False,Mike Nugent
+2014,2014-11-02,8,9,32.245,CIN,,JAX,W 33-23,False,4,4,100.0,1,1,100.0,0,7,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,11,34%,False,Mike Nugent
+2014,2014-11-06,9,10,32.249,CIN,,CLE,L 3-24,False,,,,1,1,100.0,0,3,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,3,11%,False,Mike Nugent
+2014,2014-11-16,10,11,32.259,CIN,@,NOR,W 27-10,False,3,3,100.0,2,2,100.0,0,9,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,10,50%,True,Mike Nugent
+2014,2014-11-23,11,12,32.266,CIN,@,HOU,W 22-13,False,2,2,100.0,2,2,100.0,0,8,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,9,35%,True,Mike Nugent
+2014,2014-11-30,12,13,32.273,CIN,@,TAM,W 14-13,False,2,2,100.0,,,,0,2,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,5,21%,True,Mike Nugent
+2014,2014-12-07,13,14,32.280,CIN,,PIT,L 21-42,False,3,3,100.0,,,,0,3,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,20%,False,Mike Nugent
+2014,2014-12-14,14,15,32.287,CIN,@,CLE,W 30-0,False,3,3,100.0,3,3,100.0,0,12,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,13,57%,True,Mike Nugent
+2014,2014-12-22,15,16,32.295,CIN,,DEN,W 37-28,False,4,4,100.0,3,3,100.0,0,13,0.0,0,1,1,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,15,42%,False,Mike Nugent
+2014,2014-12-28,16,17,32.301,CIN,@,PIT,L 17-27,False,2,2,100.0,1,2,50.0,0,5,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,8,31%,True,Mike Nugent
+2015,2015-09-13,1,1,33.195,CIN,@,OAK,W 33-13,False,3,4,75.0,2,2,100.0,0,9,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,13,46%,True,Mike Nugent
+2015,2015-09-20,2,2,33.202,CIN,,SDG,W 24-19,False,3,3,100.0,1,2,50.0,0,6,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,10,40%,False,Mike Nugent
+2015,2015-09-27,3,3,33.209,CIN,@,BAL,W 28-24,False,4,4,100.0,,,,0,4,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,9,33%,True,Mike Nugent
+2015,2015-10-04,4,4,33.216,CIN,,KAN,W 36-21,False,4,4,100.0,,1,0.0,0,4,0.0,1,0,1,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,11,37%,False,Mike Nugent
+2015,2015-10-11,5,5,33.223,CIN,,SEA,W 27-24,False,3,3,100.0,2,2,100.0,0,9,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,10,31%,False,Mike Nugent
+2015,2015-10-18,6,6,33.230,CIN,@,BUF,W 34-21,False,4,4,100.0,2,2,100.0,0,10,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,13,46%,True,Mike Nugent
+2015,2015-11-01,7,8,33.244,CIN,@,PIT,W 16-10,False,1,1,100.0,3,4,75.0,0,10,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,10,38%,True,Mike Nugent
+2015,2015-11-05,8,9,33.248,CIN,,CLE,W 31-10,False,4,4,100.0,1,1,100.0,0,7,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,11,44%,False,Mike Nugent
+2015,2015-11-16,9,10,33.259,CIN,,HOU,L 6-10,False,,,,2,2,100.0,0,6,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,6,22%,False,Mike Nugent
+2015,2015-11-22,10,11,33.265,CIN,@,ARI,L 31-34,False,4,4,100.0,1,1,100.0,0,7,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,11,33%,True,Mike Nugent
+2015,2015-11-29,11,12,33.272,CIN,,STL,W 31-7,False,4,4,100.0,1,1,100.0,0,7,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,11,46%,False,Mike Nugent
+2015,2015-12-06,12,13,33.279,CIN,@,CLE,W 37-3,False,4,4,100.0,3,3,100.0,0,13,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,15,68%,True,Mike Nugent
+2015,2015-12-13,13,14,33.286,CIN,,PIT,L 20-33,False,2,2,100.0,2,3,66.7,0,8,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,10,34%,False,Mike Nugent
+2015,2015-12-20,14,15,33.293,CIN,@,SFO,W 24-14,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,9,30%,True,Mike Nugent
+2015,2015-12-28,15,16,33.301,CIN,@,DEN,L 17-20,False,2,2,100.0,1,2,50.0,0,5,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,9,31%,True,Mike Nugent
+2015,2016-01-03,16,17,33.307,CIN,,BAL,W 24-16,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,9,32%,False,Mike Nugent
+2016,2016-09-11,1,1,34.193,CIN,@,NYJ,W 23-22,False,2,2,100.0,3,4,75.0,0,11,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,11,38%,True,Mike Nugent
+2016,2016-09-18,2,2,34.200,CIN,@,PIT,L 16-24,False,1,1,100.0,3,3,100.0,0,10,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,8,24%,True,Mike Nugent
+2016,2016-09-25,3,3,34.207,CIN,,DEN,L 17-29,False,2,2,100.0,1,1,100.0,0,5,0.0,0,1,1,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,26%,False,Mike Nugent
+2016,2016-09-29,4,4,34.211,CIN,,MIA,W 22-7,False,1,1,100.0,5,5,100.0,0,16,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,13,46%,False,Mike Nugent
+2016,2016-10-09,5,5,34.221,CIN,@,DAL,L 14-28,False,2,2,100.0,,1,0.0,0,2,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,6,27%,True,Mike Nugent
+2016,2016-10-16,6,6,34.228,CIN,@,NWE,L 17-35,False,2,2,100.0,1,1,100.0,0,5,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,25%,True,Mike Nugent
+2016,2016-10-23,7,7,34.235,CIN,,CLE,W 31-17,False,4,4,100.0,1,3,33.3,0,7,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,12,44%,False,Mike Nugent
+2016,2016-10-30,8,8,34.242,CIN,,WAS,T 27-27,False,3,4,75.0,,1,0.0,0,3,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,11,34%,False,Mike Nugent
+2016,2016-11-14,9,10,34.257,CIN,@,NYG,L 20-21,False,2,2,100.0,2,2,100.0,0,8,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,9,31%,True,Mike Nugent
+2016,2016-11-20,10,11,34.263,CIN,,BUF,L 12-16,False,,2,0.0,,,,0,0,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,5,20%,False,Mike Nugent
+2016,2016-11-27,11,12,34.270,CIN,@,BAL,L 14-19,False,,1,0.0,2,2,100.0,0,6,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,24%,True,Mike Nugent
+2016,2016-12-04,12,13,34.277,CIN,,PHI,W 32-14,False,2,3,66.7,4,4,100.0,0,14,0.0,1,0,1,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,15,60%,False,Mike Nugent
+2016,2016-12-11,13,14,34.284,CIN,@,CLE,W 23-10,False,2,3,66.7,1,2,50.0,0,5,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,10,37%,True,Mike Nugent
+2017,2017-10-29,7,8,35.241,DAL,@,WAS,W 33-19,False,3,3,100.0,4,5,80.0,0,15,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,16,48%,True,Mike Nugent
+2017,2017-11-05,8,9,35.248,DAL,,KAN,W 28-17,False,4,4,100.0,,,,0,4,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,9,36%,False,Mike Nugent
+2017,2017-11-12,9,10,35.255,DAL,@,ATL,L 7-27,False,1,1,100.0,,1,0.0,0,1,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,4,18%,True,Mike Nugent
+2017,2017-11-19,10,11,35.262,DAL,,PHI,L 9-37,False,,,,3,3,100.0,0,9,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,27%,False,Mike Nugent
+2017,2017-11-23,11,12,,DAL,,LAC,L 6-28,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Mike Nugent
+2017,2017-12-10,13,14,35.283,CHI,@,CIN,W 33-7,False,3,4,75.0,2,2,100.0,0,9,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,13,54%,True,Mike Nugent
+2017,2017-12-16,14,15,35.289,CHI,@,DET,L 10-20,False,1,1,100.0,1,1,100.0,0,4,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,5,22%,True,Mike Nugent
+2017,2017-12-24,15,16,35.297,CHI,,CLE,W 20-3,False,2,3,66.7,,,,0,2,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,28%,False,Mike Nugent
+2017,2017-12-31,16,17,35.304,CHI,@,MIN,L 10-23,False,1,1,100.0,1,1,100.0,0,4,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,5,17%,True,Mike Nugent
+2018,2018-09-10,1,1,36.192,OAK,,LAR,L 13-33,False,1,1,100.0,2,2,100.0,0,7,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,8,27%,False,Mike Nugent
+2018,2018-09-16,2,2,36.198,OAK,@,DEN,L 19-20,False,1,2,50.0,2,2,100.0,0,7,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,9,35%,True,Mike Nugent
+2018,2018-09-23,3,3,36.205,OAK,@,MIA,L 20-28,False,2,2,100.0,2,2,100.0,0,8,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,9,33%,True,Mike Nugent
+2018,2018-09-30,4,4,,OAK,,CLE,W 45-42,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Mike Nugent
+2018,2018-10-07,5,5,,OAK,@,LAC,L 10-26,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Mike Nugent
+2018,2018-10-14,6,6,,OAK,,SEA,L 3-27,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Mike Nugent
+2018,2018-10-28,7,8,,OAK,,IND,L 28-42,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Mike Nugent
+2018,2018-11-01,8,9,,OAK,@,SFO,L 3-34,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Mike Nugent
+2018,2018-11-11,9,10,,OAK,,LAC,L 6-20,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Mike Nugent
+2018,2018-11-18,10,11,,OAK,@,ARI,W 23-21,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Mike Nugent
+2018,2018-11-25,11,12,,OAK,@,BAL,L 17-34,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Mike Nugent
+2018,2018-12-02,12,13,,OAK,,KAN,L 33-40,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Mike Nugent
+2018,2018-12-09,13,14,,OAK,,PIT,W 24-21,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Mike Nugent
+2018,2018-12-16,14,15,,OAK,@,CIN,L 16-30,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Mike Nugent
+2018,2018-12-24,15,16,,OAK,,DEN,W 27-14,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Mike Nugent
+2018,2018-12-30,16,17,,OAK,@,KAN,L 3-35,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Mike Nugent
+2019,2019-10-06,5,5,37.218,NWE,@,WAS,W 33-7,False,3,4,75.0,2,2,100.0,0,9,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,6,19%,True,Mike Nugent
+2019,2019-10-10,6,6,37.222,NWE,,NYG,W 35-14,False,5,5,100.0,,1,0.0,0,5,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,6,23%,False,Mike Nugent
+2019,2019-10-21,7,7,37.233,NWE,@,NYJ,W 33-0,False,4,4,100.0,1,1,100.0,0,7,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,5,20%,True,Mike Nugent
+2019,2019-10-27,8,8,37.239,NWE,,CLE,W 27-13,False,3,3,100.0,2,4,50.0,0,9,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,23%,False,Mike Nugent
+2020,2020-12-13,13,14,38.286,ARI,@,NYG,W 26-7,False,2,2,100.0,4,4,100.0,0,14,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,14,48%,True,Mike Nugent
+2020,2020-12-20,14,15,38.293,ARI,,PHI,W 33-26,False,4,4,100.0,1,1,100.0,0,7,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,11,37%,False,Mike Nugent
+2020,2020-12-26,15,16,38.299,ARI,,SFO,L 12-20,False,,,,2,2,100.0,0,6,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,6,25%,False,Mike Nugent
+2020,2021-01-03,16,17,38.307,ARI,@,LAR,L 7-18,False,1,1,100.0,,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,4,16%,True,Mike Nugent
+,169 Games,,,,,,,87-80-2,False,385,400,96.3,265,327,81.0,0,1180,0.0,14,6,20,0,0,0,0,0,1,-3,0,3,98,32.67,0,,,,,,,False,Mike Nugent

@@ -1,0 +1,35 @@
+Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Rushing_Att,Rushing_Yds,Rushing_Y/A,Rushing_TD,Sk,Tackles_Solo,Tackles_Ast,Tackles_Comb,Tackles_TFL,Tackles_QBHits,Punting_Pnt,Punting_Yds,Punting_Y/P,Punting_Blck,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Player
+2020,2020-09-13,1,1,22.294,NYJ,@,BUF,L 17-27,False,0,0,,0,0.0,0,0,0,0,0,6,278,46.33,0,0,0%,0,0%,9,35%,True,Braden Mann
+2020,2020-09-20,2,2,22.301,NYJ,,SFO,L 13-31,False,0,0,,0,0.0,0,0,0,0,0,5,222,44.40,0,0,0%,0,0%,8,30%,False,Braden Mann
+2020,2020-09-27,3,3,22.308,NYJ,@,IND,L 7-36,False,0,0,,0,0.0,0,0,0,0,0,5,210,42.00,0,0,0%,0,0%,7,26%,True,Braden Mann
+2020,2020-10-01,4,4,22.312,NYJ,,DEN,L 28-37,False,0,0,,0,0.0,1,0,1,0,0,3,146,48.67,0,0,0%,0,0%,10,29%,False,Braden Mann
+2020,2020-10-11,5,5,22.322,NYJ,,ARI,L 10-30,False,0,0,,0,0.0,0,0,0,0,0,6,279,46.50,0,0,0%,0,0%,8,32%,False,Braden Mann
+2020,2020-10-18,6,6,22.329,NYJ,@,MIA,L 0-24,False,0,0,,0,0.0,1,0,1,0,0,10,462,46.20,0,0,0%,0,0%,11,38%,True,Braden Mann
+2020,2020-10-25,7,7,22.336,NYJ,,BUF,L 10-18,False,0,0,,0,0.0,0,0,0,0,0,4,168,42.00,0,0,0%,0,0%,9,39%,False,Braden Mann
+2020,2020-11-01,8,8,22.343,NYJ,@,KAN,L 9-35,False,0,0,,0,0.0,1,0,1,0,0,5,227,45.40,0,0,0%,0,0%,13,45%,True,Braden Mann
+2020,2020-11-09,9,9,22.351,NYJ,,NWE,L 27-30,False,0,0,,0,0.0,0,0,0,0,0,2,83,41.50,0,0,0%,0,0%,13,48%,False,Braden Mann
+2020,2020-11-22,10,11,22.364,NYJ,@,LAC,L 28-34,False,0,0,,0,0.0,0,0,0,0,0,4,164,41.00,0,0,0%,0,0%,13,43%,True,Braden Mann
+2020,2020-11-29,11,12,23.005,NYJ,,MIA,L 3-20,False,0,0,,0,0.0,0,0,0,0,0,6,286,47.67,0,0,0%,0,0%,10,44%,False,Braden Mann
+2020,2020-12-06,12,13,23.012,NYJ,,LVR,L 28-31,False,0,0,,0,0.0,0,0,0,0,0,4,182,45.50,0,0,0%,0,0%,12,46%,False,Braden Mann
+2020,2020-12-13,13,14,23.019,NYJ,@,SEA,L 3-40,False,0,0,,0,0.0,0,0,0,0,0,5,197,39.40,0,0,0%,0,0%,11,39%,True,Braden Mann
+2020,2020-12-20,14,15,23.026,NYJ,@,LAR,W 23-20,False,0,0,,0,0.0,1,0,1,0,0,5,247,49.40,0,0,0%,0,0%,10,34%,True,Braden Mann
+2020,2020-12-27,15,16,23.033,NYJ,,CLE,W 23-16,False,0,0,,0,0.0,0,0,0,0,0,7,260,37.14,0,0,0%,0,0%,14,41%,False,Braden Mann
+2020,2021-01-03,16,17,23.040,NYJ,@,NWE,L 14-28,False,0,0,,0,0.0,0,0,0,0,0,5,187,37.40,0,0,0%,0,0%,7,27%,True,Braden Mann
+2021,2021-09-12,1,1,23.292,NYJ,@,CAR,L 14-19,False,0,0,,0,0.0,0,0,0,0,0,1,56,56.00,0,0,0%,0,0%,2,7%,True,Braden Mann
+2021,2021-09-19,2,2,,NYJ,,NWE,L 6-25,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Braden Mann
+2021,2021-09-26,3,3,,NYJ,@,DEN,L 0-26,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Braden Mann
+2021,2021-10-03,4,4,,NYJ,,TEN,W 27-24,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Braden Mann
+2021,2021-10-10,5,5,,NYJ,@,ATL,L 20-27,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Braden Mann
+2021,2021-10-24,6,7,,NYJ,@,NWE,L 13-54,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Braden Mann
+2021,2021-10-31,7,8,,NYJ,,CIN,W 34-31,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Braden Mann
+2021,2021-11-04,8,9,,NYJ,@,IND,L 30-45,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Braden Mann
+2021,2021-11-14,9,10,23.355,NYJ,,BUF,L 17-45,False,0,0,,0,0.0,0,0,0,0,0,3,135,45.00,0,0,0%,0,0%,6,22%,False,Braden Mann
+2021,2021-11-21,10,11,23.362,NYJ,,MIA,L 17-24,False,0,0,,0,0.0,0,0,0,0,0,4,152,38.00,0,0,0%,0,0%,10,36%,False,Braden Mann
+2021,2021-11-28,11,12,24.004,NYJ,@,HOU,W 21-14,False,0,0,,0,0.0,0,0,0,0,0,4,156,39.00,0,0,0%,0,0%,9,36%,True,Braden Mann
+2021,2021-12-05,12,13,24.011,NYJ,,PHI,L 18-33,False,0,0,,0,0.0,0,0,0,0,0,2,78,39.00,0,0,0%,0,0%,4,17%,False,Braden Mann
+2021,2021-12-12,13,14,24.018,NYJ,,NOR,L 9-30,False,0,0,,0,0.0,0,0,0,0,0,6,313,52.17,0,0,0%,0,0%,12,40%,False,Braden Mann
+2021,2021-12-19,14,15,24.025,NYJ,@,MIA,L 24-31,False,0,0,,0,0.0,0,0,0,0,0,6,279,46.50,0,0,0%,0,0%,15,50%,True,Braden Mann
+2021,2021-12-26,15,16,24.032,NYJ,,JAX,W 26-21,False,1,4,4.00,0,0.0,0,0,0,0,0,1,55,55.00,0,0,0%,0,0%,13,54%,False,Braden Mann
+2021,2022-01-02,16,17,24.039,NYJ,,TAM,L 24-28,False,0,0,,0,0.0,0,0,0,0,0,4,154,38.50,0,0,0%,0,0%,13,50%,False,Braden Mann
+2021,2022-01-09,17,18,24.046,NYJ,@,BUF,L 10-27,False,0,0,,0,0.0,0,0,0,0,0,10,497,49.70,1,0,0%,0,0%,16,47%,True,Braden Mann
+,26 Games,,,,,,,4-22-0,False,1,4,4.00,0,0.0,4,0,4,0,0,123,5473,44.50,1,,,,,,,False,Braden Mann

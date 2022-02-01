@@ -1,0 +1,87 @@
+Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Scoring_XPM,Scoring_XPA,Scoring_XP%,Scoring_FGM,Scoring_FGA,Scoring_FG%,Scoring_TD,Scoring_Pts,Sk,Tackles_Solo,Tackles_Ast,Tackles_Comb,Tackles_TFL,Tackles_QBHits,Punting_Pnt,Punting_Yds,Punting_Y/P,Punting_Blck,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Player
+2013,2013-09-08,1,1,24.030,MIA,@,CLE,W 23-10,False,2,2,100.0,3,3,100.0,0,11,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,11,39%,True,Caleb Sturgis
+2013,2013-09-15,2,2,24.037,MIA,@,IND,W 24-20,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,8,30%,True,Caleb Sturgis
+2013,2013-09-22,3,3,24.044,MIA,,ATL,W 27-23,False,3,3,100.0,2,2,100.0,0,9,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,10,37%,False,Caleb Sturgis
+2013,2013-09-30,4,4,24.052,MIA,@,NOR,L 17-38,False,2,2,100.0,1,1,100.0,0,5,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,7,25%,True,Caleb Sturgis
+2013,2013-10-06,5,5,24.058,MIA,,BAL,L 23-26,False,2,2,100.0,3,4,75.0,0,11,0.0,1,0,1,0,0,0,0,,0,0,0%,0,0%,12,32%,False,Caleb Sturgis
+2013,2013-10-20,6,7,24.072,MIA,,BUF,L 21-23,False,3,3,100.0,,1,0.0,0,3,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,8,24%,False,Caleb Sturgis
+2013,2013-10-27,7,8,24.079,MIA,@,NWE,L 17-27,False,2,2,100.0,1,3,33.3,0,5,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,10,33%,True,Caleb Sturgis
+2013,2013-10-31,8,9,24.083,MIA,,CIN,W 22-20,False,2,2,100.0,2,3,66.7,0,8,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,10,31%,False,Caleb Sturgis
+2013,2013-11-11,9,10,24.094,MIA,@,TAM,L 19-22,False,1,1,100.0,2,2,100.0,0,7,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,8,29%,True,Caleb Sturgis
+2013,2013-11-17,10,11,24.100,MIA,,SDG,W 20-16,False,2,2,100.0,2,2,100.0,0,8,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,9,35%,False,Caleb Sturgis
+2013,2013-11-24,11,12,24.107,MIA,,CAR,L 16-20,False,1,1,100.0,3,4,75.0,0,10,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,10,31%,False,Caleb Sturgis
+2013,2013-12-01,12,13,24.114,MIA,@,NYJ,W 23-3,False,2,2,100.0,3,4,75.0,0,11,0.0,0,1,1,0,0,0,0,,0,0,0%,0,0%,12,48%,True,Caleb Sturgis
+2013,2013-12-08,13,14,24.121,MIA,@,PIT,W 34-28,False,4,4,100.0,2,3,66.7,0,10,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,14,41%,True,Caleb Sturgis
+2013,2013-12-15,14,15,24.128,MIA,,NWE,W 24-20,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,10,37%,False,Caleb Sturgis
+2013,2013-12-22,15,16,24.135,MIA,@,BUF,L 0-19,False,,,,,,,0,0,0.0,,,,,,0,0,,,0,0%,0,0%,1,4%,True,Caleb Sturgis
+2013,2013-12-29,16,17,24.142,MIA,,NYJ,L 7-20,False,1,1,100.0,,,,0,1,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,3,13%,False,Caleb Sturgis
+2014,2014-09-07,1,1,25.029,MIA,,NWE,W 33-20,False,3,3,100.0,4,4,100.0,0,15,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,15,45%,False,Caleb Sturgis
+2014,2014-09-14,2,2,25.036,MIA,@,BUF,L 10-29,False,1,1,100.0,1,1,100.0,0,4,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,5,16%,True,Caleb Sturgis
+2014,2014-09-21,3,3,25.043,MIA,,KAN,L 15-34,False,1,1,100.0,2,3,66.7,0,7,0.0,1,0,1,0,0,0,0,,0,0,0%,0,0%,7,23%,False,Caleb Sturgis
+2014,2014-09-28,4,4,25.050,MIA,@,OAK,W 38-14,False,5,5,100.0,1,1,100.0,0,8,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,13,50%,True,Caleb Sturgis
+2014,2014-10-12,5,6,25.064,MIA,,GNB,L 24-27,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,9,32%,False,Caleb Sturgis
+2014,2014-10-19,6,7,25.071,MIA,@,CHI,W 27-14,False,3,3,100.0,2,4,50.0,0,9,0.0,1,0,1,0,0,0,0,,0,0,0%,0,0%,13,57%,True,Caleb Sturgis
+2014,2014-10-26,7,8,25.078,MIA,@,JAX,W 27-13,False,3,3,100.0,2,2,100.0,0,9,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,11,35%,True,Caleb Sturgis
+2014,2014-11-02,8,9,25.085,MIA,,SDG,W 37-0,False,4,4,100.0,3,4,75.0,0,13,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,16,67%,False,Caleb Sturgis
+2014,2014-11-09,9,10,25.092,MIA,@,DET,L 16-20,False,1,1,100.0,3,3,100.0,0,10,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,9,31%,True,Caleb Sturgis
+2014,2014-11-13,10,11,25.096,MIA,,BUF,W 22-9,False,2,2,100.0,2,2,100.0,0,8,0.0,1,0,1,0,0,0,0,,0,0,0%,0,0%,9,39%,False,Caleb Sturgis
+2014,2014-11-23,11,12,25.106,MIA,@,DEN,L 36-39,False,4,4,100.0,,,,0,4,0.0,1,0,1,0,0,0,0,,0,0,0%,0,0%,10,37%,True,Caleb Sturgis
+2014,2014-12-01,12,13,25.114,MIA,@,NYJ,W 16-13,False,1,1,100.0,3,4,75.0,0,10,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,9,35%,True,Caleb Sturgis
+2014,2014-12-07,13,14,25.120,MIA,,BAL,L 13-28,False,1,1,100.0,2,2,100.0,0,7,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,7,28%,False,Caleb Sturgis
+2014,2014-12-14,14,15,25.127,MIA,@,NWE,L 13-41,False,1,1,100.0,2,3,66.7,0,7,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,8,27%,True,Caleb Sturgis
+2014,2014-12-21,15,16,25.134,MIA,,MIN,W 37-35,False,5,5,100.0,,1,0.0,0,5,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,12,39%,False,Caleb Sturgis
+2014,2014-12-28,16,17,25.141,MIA,,NYJ,L 24-37,False,3,3,100.0,1,2,50.0,0,6,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,10,29%,False,Caleb Sturgis
+2015,2015-10-04,4,4,26.056,PHI,@,WAS,L 20-23,False,2,3,66.7,,1,0.0,0,2,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,8,27%,True,Caleb Sturgis
+2015,2015-10-11,5,5,26.063,PHI,,NOR,W 39-17,False,3,4,75.0,4,4,100.0,0,15,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,17,57%,False,Caleb Sturgis
+2015,2015-10-19,6,6,26.071,PHI,,NYG,W 27-7,False,3,3,100.0,2,2,100.0,0,9,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,11,41%,False,Caleb Sturgis
+2015,2015-10-25,7,7,26.077,PHI,@,CAR,L 16-27,False,1,1,100.0,3,4,75.0,0,10,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,10,33%,True,Caleb Sturgis
+2015,2015-11-08,8,9,26.091,PHI,@,DAL,W 33-27,False,3,3,100.0,2,2,100.0,0,9,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,11,33%,True,Caleb Sturgis
+2015,2015-11-15,9,10,26.098,PHI,,MIA,L 19-20,False,2,2,100.0,1,2,50.0,0,5,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,8,24%,False,Caleb Sturgis
+2015,2015-11-22,10,11,26.105,PHI,,TAM,L 17-45,False,2,2,100.0,1,1,100.0,0,5,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,7,22%,False,Caleb Sturgis
+2015,2015-11-26,11,12,26.109,PHI,@,DET,L 14-45,False,2,2,100.0,,1,0.0,0,2,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,6,19%,True,Caleb Sturgis
+2015,2015-12-06,12,13,26.119,PHI,@,NWE,W 35-28,False,5,5,100.0,,,,0,5,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,11,31%,True,Caleb Sturgis
+2015,2015-12-13,13,14,26.126,PHI,,BUF,W 23-20,False,2,2,100.0,3,3,100.0,0,11,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,12,35%,False,Caleb Sturgis
+2015,2015-12-20,14,15,26.133,PHI,,ARI,L 17-40,False,2,2,100.0,1,1,100.0,0,5,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,7,24%,False,Caleb Sturgis
+2015,2015-12-26,15,16,26.139,PHI,,WAS,L 24-38,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,9,26%,False,Caleb Sturgis
+2015,2016-01-03,16,17,26.147,PHI,@,NYG,W 35-30,False,5,5,100.0,,,,0,5,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,11,37%,True,Caleb Sturgis
+2016,2016-09-11,1,1,27.033,PHI,,CLE,W 29-10,False,3,3,100.0,2,3,66.7,0,9,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,12,41%,False,Caleb Sturgis
+2016,2016-09-19,2,2,27.041,PHI,@,CHI,W 29-14,False,2,3,66.7,3,3,100.0,0,11,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,13,46%,True,Caleb Sturgis
+2016,2016-09-25,3,3,27.047,PHI,,PIT,W 34-3,False,4,4,100.0,2,2,100.0,0,10,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,13,50%,False,Caleb Sturgis
+2016,2016-10-09,4,5,27.061,PHI,@,DET,L 23-24,False,2,2,100.0,3,3,100.0,0,11,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,10,42%,True,Caleb Sturgis
+2016,2016-10-16,5,6,27.068,PHI,@,WAS,L 20-27,False,2,2,100.0,2,2,100.0,0,8,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,9,30%,True,Caleb Sturgis
+2016,2016-10-23,6,7,27.075,PHI,,MIN,W 21-10,False,1,1,100.0,2,2,100.0,0,7,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,9,39%,False,Caleb Sturgis
+2016,2016-10-30,7,8,27.082,PHI,@,DAL,L 23-29,False,2,2,100.0,3,3,100.0,0,11,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,11,31%,True,Caleb Sturgis
+2016,2016-11-06,8,9,27.089,PHI,@,NYG,L 23-28,False,2,2,100.0,3,4,75.0,0,11,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,12,39%,True,Caleb Sturgis
+2016,2016-11-13,9,10,27.096,PHI,,ATL,W 24-15,False,1,1,100.0,3,5,60.0,0,10,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,12,43%,False,Caleb Sturgis
+2016,2016-11-20,10,11,27.103,PHI,@,SEA,L 15-26,False,1,1,100.0,,,,0,1,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,4,14%,True,Caleb Sturgis
+2016,2016-11-28,11,12,27.111,PHI,,GNB,L 13-27,False,1,1,100.0,2,2,100.0,0,7,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,7,32%,False,Caleb Sturgis
+2016,2016-12-04,12,13,27.117,PHI,@,CIN,L 14-32,False,2,2,100.0,,1,0.0,0,2,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,6,24%,True,Caleb Sturgis
+2016,2016-12-11,13,14,27.124,PHI,,WAS,L 22-27,False,1,1,100.0,3,3,100.0,0,10,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,11,44%,False,Caleb Sturgis
+2016,2016-12-18,14,15,27.131,PHI,@,BAL,L 26-27,False,,,,4,4,100.0,0,12,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,11,39%,True,Caleb Sturgis
+2016,2016-12-22,15,16,27.135,PHI,,NYG,W 24-19,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,9,32%,False,Caleb Sturgis
+2016,2017-01-01,16,17,27.145,PHI,,DAL,W 27-13,False,3,3,100.0,2,3,66.7,0,9,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,12,43%,False,Caleb Sturgis
+2017,2017-09-10,1,1,28.032,PHI,@,WAS,W 30-17,False,1,2,50.0,3,3,100.0,0,10,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,11,42%,True,Caleb Sturgis
+2017,2017-09-17,2,2,,PHI,@,KAN,L 20-27,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Caleb Sturgis
+2017,2017-09-24,3,3,,PHI,,NYG,W 27-24,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Caleb Sturgis
+2017,2017-10-01,4,4,,PHI,@,LAC,W 26-24,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Caleb Sturgis
+2017,2017-10-08,5,5,,PHI,,ARI,W 34-7,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Caleb Sturgis
+2017,2017-10-12,6,6,,PHI,@,CAR,W 28-23,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Caleb Sturgis
+2017,2017-10-23,7,7,,PHI,,WAS,W 34-24,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Caleb Sturgis
+2017,2017-10-29,8,8,,PHI,,SFO,W 33-10,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Caleb Sturgis
+2017,2017-11-05,9,9,,PHI,,DEN,W 51-23,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Caleb Sturgis
+2017,2017-11-19,10,11,,PHI,@,DAL,W 37-9,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Caleb Sturgis
+2017,2017-11-26,11,12,,PHI,,CHI,W 31-3,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Caleb Sturgis
+2017,2017-12-03,12,13,,PHI,@,SEA,L 10-24,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Caleb Sturgis
+2017,2017-12-10,13,14,,PHI,@,LAR,W 43-35,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Caleb Sturgis
+2017,2017-12-17,14,15,,PHI,@,NYG,W 34-29,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Caleb Sturgis
+2017,2017-12-25,15,16,,PHI,,OAK,W 19-10,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Caleb Sturgis
+2017,2017-12-31,16,17,,PHI,,DAL,L 0-6,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Caleb Sturgis
+2018,2018-09-09,1,1,29.031,LAC,,KAN,L 28-38,False,,,,2,3,66.7,0,6,0.0,0,0,0,,,1,24,24.00,0,0,0%,0,0%,10,33%,False,Caleb Sturgis
+2018,2018-09-16,2,2,29.038,LAC,@,BUF,W 31-20,False,4,4,100.0,1,1,100.0,0,7,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,11,37%,True,Caleb Sturgis
+2018,2018-09-23,3,3,29.045,LAC,@,LAR,L 23-35,False,2,3,66.7,1,1,100.0,0,5,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,9,36%,True,Caleb Sturgis
+2018,2018-09-30,4,4,29.052,LAC,,SFO,W 29-27,False,,2,0.0,3,4,75.0,0,9,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,12,38%,False,Caleb Sturgis
+2018,2018-10-07,5,5,29.059,LAC,,OAK,W 26-10,False,2,3,66.7,2,3,66.7,0,8,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,12,48%,False,Caleb Sturgis
+2018,2018-10-14,6,6,,LAC,@,CLE,W 38-14,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Caleb Sturgis
+2018,2018-10-21,7,7,,LAC,,TEN,W 20-19,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Caleb Sturgis
+2018,2018-11-04,8,9,29.087,LAC,@,SEA,W 25-17,False,1,3,33.3,,1,0.0,0,1,0.0,1,0,1,0,0,0,0,,0,0,0%,0,0%,9,32%,True,Caleb Sturgis
+,68 Games,,,,,,,34-34-0,False,149,159,93.7,120,150,80.0,0,509,0.0,6,1,7,0,0,1,24,24.00,0,,,,,,,False,Caleb Sturgis

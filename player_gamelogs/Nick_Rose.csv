@@ -1,0 +1,12 @@
+Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Scoring_XPM,Scoring_XPA,Scoring_XP%,Scoring_FGM,Scoring_FGA,Scoring_FG%,Scoring_TD,Scoring_Pts,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Player
+2017.0,2017-10-23,6.0,7.0,23.171,WAS,@,PHI,L 24-34,False,3,3,100.0,1.0,1.0,100.0,0,6,0.0,0%,0.0,0%,9.0,28%,True,Nick Rose
+2017.0,2017-10-29,7.0,8.0,23.177,WAS,,DAL,L 19-33,False,1,2,50.0,2.0,3.0,66.7,0,7,0.0,0%,0.0,0%,10.0,30%,False,Nick Rose
+2017.0,2017-11-05,8.0,9.0,23.184,WAS,@,SEA,W 17-14,False,2,2,100.0,1.0,1.0,100.0,0,5,0.0,0%,0.0,0%,7.0,25%,True,Nick Rose
+2017.0,2017-11-12,9.0,10.0,23.191,WAS,,MIN,L 30-38,False,3,3,100.0,3.0,3.0,100.0,0,12,0.0,0%,0.0,0%,13.0,45%,False,Nick Rose
+2017.0,2017-11-19,10.0,11.0,23.198,WAS,@,NOR,L 31-34,False,4,4,100.0,1.0,1.0,100.0,0,7,0.0,0%,0.0,0%,11.0,33%,True,Nick Rose
+2017.0,2017-11-23,11.0,12.0,23.202,WAS,,NYG,W 20-10,False,2,2,100.0,2.0,2.0,100.0,0,8,0.0,0%,0.0,0%,9.0,30%,False,Nick Rose
+2017.0,2017-11-30,12.0,13.0,23.209,WAS,@,DAL,L 14-38,False,2,2,100.0,,,,0,2,0.0,0%,0.0,0%,5.0,18%,True,Nick Rose
+2017.0,2017-12-10,13.0,14.0,23.219,WAS,@,LAC,L 13-30,False,1,2,50.0,,,,0,1,0.0,0%,0.0,0%,5.0,16%,True,Nick Rose
+2017.0,2017-12-24,15.0,16.0,23.233,LAC,@,NYJ,W 14-7,False,2,2,100.0,,1.0,0.0,0,2,0.0,0%,0.0,0%,6.0,21%,True,Nick Rose
+2017.0,2017-12-31,16.0,17.0,23.24,LAC,,OAK,W 30-10,False,3,4,75.0,1.0,2.0,50.0,0,6,0.0,0%,0.0,0%,12.0,55%,False,Nick Rose
+,10 Games,,,,,,,4-6-0,False,23,26,88.5,11.0,14.0,78.6,0,56,,,,,,,False,Nick Rose

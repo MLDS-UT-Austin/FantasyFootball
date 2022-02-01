@@ -1,0 +1,68 @@
+Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Scoring_XPM,Scoring_XPA,Scoring_XP%,Scoring_FGM,Scoring_FGA,Scoring_FG%,Scoring_TD,Scoring_Pts,Sk,Tackles_Solo,Tackles_Ast,Tackles_Comb,Tackles_TFL,Tackles_QBHits,Fumbles_Fmb,Fumbles_FL,Fumbles_FF,Fumbles_FR,Fumbles_Yds,Fumbles_TD,Punting_Pnt,Punting_Yds,Punting_Y/P,Punting_Blck,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Player
+2017,2017-09-10,1,1,22.254,NYG,@,DAL,L 3-19,False,,,,1,1,100.0,0,3,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,3,12%,True,Aldrick Rosas
+2017,2017-09-18,2,2,22.262,NYG,,DET,L 10-24,False,1,1,100.0,1,1,100.0,0,4,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,5,20%,False,Aldrick Rosas
+2017,2017-09-24,3,3,22.268,NYG,@,PHI,L 24-27,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,9,32%,True,Aldrick Rosas
+2017,2017-10-01,4,4,22.275,NYG,@,TAM,L 23-25,False,2,2,100.0,1,2,50.0,0,5,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,9,31%,True,Aldrick Rosas
+2017,2017-10-08,5,5,22.282,NYG,,LAC,L 22-27,False,2,2,100.0,,,,0,2,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,6,19%,False,Aldrick Rosas
+2017,2017-10-15,6,6,22.289,NYG,@,DEN,W 23-10,False,2,2,100.0,3,4,75.0,0,11,0.0,1,0,1,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,12,43%,True,Aldrick Rosas
+2017,2017-10-22,7,7,22.296,NYG,,SEA,L 7-24,False,1,1,100.0,,1,0.0,0,1,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,4,15%,False,Aldrick Rosas
+2017,2017-11-05,8,9,22.310,NYG,,LAR,L 17-51,False,2,2,100.0,1,2,50.0,0,5,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,8,24%,False,Aldrick Rosas
+2017,2017-11-12,9,10,22.317,NYG,@,SFO,L 21-31,False,1,1,100.0,2,3,66.7,0,7,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,9,38%,True,Aldrick Rosas
+2017,2017-11-19,10,11,22.324,NYG,,KAN,W 12-9,False,,1,0.0,2,2,100.0,0,6,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,27%,False,Aldrick Rosas
+2017,2017-11-23,11,12,22.328,NYG,@,WAS,L 10-20,False,1,1,100.0,1,1,100.0,0,4,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,5,17%,True,Aldrick Rosas
+2017,2017-12-03,12,13,22.338,NYG,@,OAK,L 17-24,False,2,2,100.0,1,1,100.0,0,5,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,25%,True,Aldrick Rosas
+2017,2017-12-10,13,14,22.345,NYG,,DAL,L 10-30,False,1,1,100.0,1,1,100.0,0,4,0.0,1,0,1,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,5,17%,False,Aldrick Rosas
+2017,2017-12-17,14,15,22.352,NYG,,PHI,L 29-34,False,2,3,66.7,1,2,50.0,0,5,0.0,1,0,1,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,11,35%,False,Aldrick Rosas
+2017,2017-12-24,15,16,22.359,NYG,@,ARI,L 0-23,False,,,,,1,0.0,0,0,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,2,8%,True,Aldrick Rosas
+2017,2017-12-31,16,17,23.001,NYG,,WAS,W 18-10,False,,1,0.0,2,2,100.0,0,6,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,8,26%,False,Aldrick Rosas
+2018,2018-09-09,1,1,23.253,NYG,,JAX,L 15-20,False,,,,3,3,100.0,0,9,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,8,28%,False,Aldrick Rosas
+2018,2018-09-16,2,2,23.260,NYG,@,DAL,L 13-20,False,1,1,100.0,2,2,100.0,0,7,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,27%,True,Aldrick Rosas
+2018,2018-09-23,3,3,23.267,NYG,@,HOU,W 27-22,False,3,3,100.0,2,2,100.0,0,9,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,11,41%,True,Aldrick Rosas
+2018,2018-09-30,4,4,23.274,NYG,,NOR,L 18-33,False,1,1,100.0,1,1,100.0,0,4,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,6,21%,False,Aldrick Rosas
+2018,2018-10-07,5,5,23.281,NYG,@,CAR,L 31-33,False,2,2,100.0,3,3,100.0,0,11,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,12,38%,True,Aldrick Rosas
+2018,2018-10-11,6,6,23.285,NYG,,PHI,L 13-34,False,1,1,100.0,2,3,66.7,0,7,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,8,25%,False,Aldrick Rosas
+2018,2018-10-22,7,7,23.296,NYG,@,ATL,L 20-23,False,,,,2,2,100.0,0,6,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,28%,True,Aldrick Rosas
+2018,2018-10-28,8,8,23.302,NYG,,WAS,L 13-20,False,1,1,100.0,2,2,100.0,0,7,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,24%,False,Aldrick Rosas
+2018,2018-11-12,9,10,23.317,NYG,@,SFO,W 27-23,False,3,3,100.0,2,2,100.0,0,9,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,11,37%,True,Aldrick Rosas
+2018,2018-11-18,10,11,23.323,NYG,,TAM,W 38-35,False,5,5,100.0,1,1,100.0,0,8,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,13,45%,False,Aldrick Rosas
+2018,2018-11-25,11,12,23.330,NYG,@,PHI,L 22-25,False,1,1,100.0,3,3,100.0,0,10,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,10,38%,True,Aldrick Rosas
+2018,2018-12-02,12,13,23.337,NYG,,CHI,W 30-27,False,3,3,100.0,3,3,100.0,0,12,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,12,32%,False,Aldrick Rosas
+2018,2018-12-09,13,14,23.344,NYG,@,WAS,W 40-16,False,4,5,80.0,2,2,100.0,0,10,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,14,45%,True,Aldrick Rosas
+2018,2018-12-16,14,15,23.351,NYG,,TEN,L 0-17,False,,,,,,,0,0,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,1,5%,False,Aldrick Rosas
+2018,2018-12-23,15,16,23.358,NYG,@,IND,L 27-28,False,3,3,100.0,2,2,100.0,0,9,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,11,41%,True,Aldrick Rosas
+2018,2018-12-30,16,17,24.000,NYG,,DAL,L 35-36,False,3,3,100.0,2,2,100.0,0,9,0.0,0,0,0,,,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,12,43%,False,Aldrick Rosas
+2019,2019-09-08,1,1,24.252,NYG,@,DAL,L 17-35,False,2,2,100.0,1,1,100.0,0,5,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,27%,True,Aldrick Rosas
+2019,2019-09-15,2,2,24.259,NYG,,BUF,L 14-28,False,2,2,100.0,,1,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,6,21%,False,Aldrick Rosas
+2019,2019-09-22,3,3,24.266,NYG,@,TAM,W 32-31,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,10,29%,True,Aldrick Rosas
+2019,2019-09-29,4,4,24.273,NYG,,WAS,W 24-3,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,8,40%,False,Aldrick Rosas
+2019,2019-10-06,5,5,24.280,NYG,,MIN,L 10-28,False,1,1,100.0,1,1,100.0,0,4,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,6,25%,False,Aldrick Rosas
+2019,2019-10-10,6,6,24.284,NYG,@,NWE,L 14-35,False,2,2,100.0,,,,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,5,19%,True,Aldrick Rosas
+2019,2019-10-20,7,7,24.294,NYG,,ARI,L 21-27,False,3,3,100.0,,1,0.0,0,3,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,8,28%,False,Aldrick Rosas
+2019,2019-10-27,8,8,24.301,NYG,@,DET,L 26-31,False,2,3,66.7,,,,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,8,31%,True,Aldrick Rosas
+2019,2019-11-04,9,9,24.309,NYG,,DAL,L 18-37,False,,1,0.0,4,4,100.0,0,12,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,11,35%,False,Aldrick Rosas
+2019,2019-11-10,10,10,24.315,NYG,@,NYJ,L 27-34,False,1,2,50.0,,,,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,1%,0,0%,7,21%,True,Aldrick Rosas
+2019,2019-11-24,11,12,24.329,NYG,@,CHI,L 14-19,False,2,2,100.0,,2,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,25%,True,Aldrick Rosas
+2019,2019-12-01,12,13,24.336,NYG,,GNB,L 13-31,False,1,1,100.0,2,2,100.0,0,7,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,32%,False,Aldrick Rosas
+2019,2019-12-09,13,14,24.344,NYG,@,PHI,L 17-23,False,2,2,100.0,1,1,100.0,0,5,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,8,24%,True,Aldrick Rosas
+2019,2019-12-15,14,15,24.350,NYG,,MIA,W 36-20,False,4,5,80.0,,,,0,4,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,11,37%,False,Aldrick Rosas
+2019,2019-12-22,15,16,24.357,NYG,@,WAS,W 41-35,False,5,5,100.0,,1,0.0,0,5,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,12,35%,True,Aldrick Rosas
+2019,2019-12-29,16,17,24.364,NYG,,PHI,L 17-34,False,2,2,100.0,1,1,100.0,0,5,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,21%,False,Aldrick Rosas
+2020,2020-10-04,4,4,25.279,JAX,@,CIN,L 25-33,False,1,1,100.0,4,5,80.0,0,13,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,12,39%,True,Aldrick Rosas
+2020,2020-11-29,11,12,25.335,JAX,,CLE,L 25-27,False,1,1,100.0,2,3,66.7,0,7,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,5,19%,False,Aldrick Rosas
+2020,2020-12-13,13,14,25.349,JAX,,TEN,L 10-31,False,1,1,100.0,1,2,50.0,0,4,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,6,24%,False,Aldrick Rosas
+2020,2020-12-20,14,15,25.356,JAX,@,BAL,L 14-40,False,2,2,100.0,,,,0,2,0.0,0,0,0,0,0,1,0,0,1,0,0,3,110,36.67,0,0,0%,0,0%,9,39%,True,Aldrick Rosas
+2020,2020-12-27,15,16,25.363,JAX,,CHI,L 17-41,False,2,2,100.0,1,1,100.0,0,5,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,23%,False,Aldrick Rosas
+2020,2021-01-03,16,17,26.004,JAX,@,IND,L 14-28,False,2,2,100.0,,,,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,5,18%,True,Aldrick Rosas
+2021,2021-09-12,1,1,26.256,NOR,,GNB,W 38-3,False,5,5,100.0,1,1,100.0,0,8,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,13,59%,False,Aldrick Rosas
+2021,2021-09-19,2,2,26.263,NOR,@,CAR,L 7-26,False,1,1,100.0,,,,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,3,12%,True,Aldrick Rosas
+2021,2021-09-26,3,3,26.270,NOR,@,NWE,W 28-13,False,4,4,100.0,,2,0.0,0,4,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,11,38%,True,Aldrick Rosas
+2021,2021-10-03,4,4,26.277,NOR,,NYG,L 21-27,False,3,3,100.0,,1,0.0,0,3,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,9,36%,False,Aldrick Rosas
+2021,2021-11-21,10,11,26.326,DET,@,CLE,L 10-13,False,1,1,100.0,1,1,100.0,0,4,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0%,0,0%,5,23%,True,Aldrick Rosas
+2021,2021-11-25,11,12,,DET,,CHI,L 14-16,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Aldrick Rosas
+2021,2021-12-05,12,13,,DET,,MIN,W 29-27,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Aldrick Rosas
+2021,2021-12-12,13,14,,DET,@,DEN,L 10-38,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Aldrick Rosas
+2021,2021-12-19,14,15,,DET,,ARI,W 30-12,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Aldrick Rosas
+2021,2021-12-26,15,16,,DET,@,ATL,L 16-20,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Aldrick Rosas
+2021,2022-01-02,16,17,,DET,@,SEA,L 29-51,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Aldrick Rosas
+2021,2022-01-09,17,18,,DET,,GNB,W 37-30,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Aldrick Rosas
+,59 Games,,,,,,,14-45-0,False,109,117,93.2,72,91,79.1,0,325,0.0,3,0,3,0,0,1,0,0,1,0,0,3,110,36.67,0,,,,,,,False,Aldrick Rosas
