@@ -1,0 +1,34 @@
+Year,Date,G#,Week,Age,Tm,Opp,GS,Rushing_Att,Rushing_Yds,Rushing_Y/A,Rushing_TD,Receiving_Tgt,Receiving_Rec,Receiving_Yds,Receiving_Y/R,Receiving_TD,Receiving_Ctch%,Receiving_Y/Tgt,Scoring_TD,Scoring_Pts,Fumbles_Fmb,Fumbles_FL,Fumbles_FF,Fumbles_FR,Fumbles_Yds,Fumbles_TD,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Win,Score,Opp Score,Player
+2014,2014-09-07,1,1,,STL,MIN,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,False,6,34,Tre Mason
+2014,2014-09-14,2,2,,STL,TAM,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,True,19,17,Tre Mason
+2014,2014-09-21,3,3,,STL,DAL,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,False,31,34,Tre Mason
+2014,2014-10-05,4,5,,STL,PHI,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,False,28,34,Tre Mason
+2014,2014-10-13,5,6,21.068,STL,SFO,False,5,40,8.00,0,1,1,12,12.00,0,100.0%,12.00,0,0,0,0,0,0,0,0,9,12%,0,0%,0,0%,False,False,17,31,Tre Mason
+2014,2014-10-19,6,7,21.074,STL,SEA,False,18,85,4.72,1,0,0,0,,0,0.0%,,1,6,1,0,0,0,0,0,26,53%,0,0%,1,4%,False,True,28,26,Tre Mason
+2014,2014-10-26,7,8,21.081,STL,KAN,False,7,32,4.57,0,1,1,1,1.00,0,100.0%,1.00,0,0,0,0,0,0,0,0,18,35%,0,0%,2,7%,True,False,7,34,Tre Mason
+2014,2014-11-02,8,9,21.088,STL,SFO,True,19,65,3.42,0,2,1,-8,-8.00,0,50.0%,-4.00,0,0,0,0,0,0,0,0,38,69%,0,0%,0,0%,True,True,13,10,Tre Mason
+2014,2014-11-09,9,10,21.095,STL,ARI,True,14,48,3.43,0,6,4,33,8.25,0,66.7%,5.50,0,0,0,0,0,0,0,0,38,61%,0,0%,0,0%,True,False,14,31,Tre Mason
+2014,2014-11-16,10,11,21.102,STL,DEN,True,29,113,3.90,0,2,1,1,1.00,0,50.0%,0.50,0,0,0,0,0,0,0,0,45,69%,0,0%,0,0%,False,True,22,7,Tre Mason
+2014,2014-11-23,11,12,21.109,STL,SDG,True,16,62,3.88,0,2,1,26,26.00,0,50.0%,13.00,0,0,0,0,0,0,0,0,32,50%,0,0%,0,0%,True,False,24,27,Tre Mason
+2014,2014-11-30,12,13,21.116,STL,OAK,True,14,117,8.36,2,4,3,47,15.67,1,75.0%,11.75,3,18,0,0,0,0,0,0,32,63%,0,0%,0,0%,False,True,52,0,Tre Mason
+2014,2014-12-07,13,14,21.123,STL,WAS,True,20,66,3.30,0,2,0,0,,0,0.0%,0.00,0,0,0,0,0,1,0,0,42,68%,0,0%,0,0%,True,True,24,0,Tre Mason
+2014,2014-12-11,14,15,21.127,STL,ARI,True,13,33,2.54,0,1,0,0,,0,0.0%,0.00,0,0,1,1,0,0,0,0,30,48%,0,0%,0,0%,False,False,6,12,Tre Mason
+2014,2014-12-21,15,16,21.137,STL,NYG,True,13,76,5.85,1,1,1,7,7.00,0,100.0%,7.00,1,6,0,0,0,0,0,0,29,48%,0,0%,0,0%,False,False,27,37,Tre Mason
+2014,2014-12-28,16,17,21.144,STL,SEA,True,11,28,2.55,0,4,3,29,9.67,0,75.0%,7.25,0,0,0,0,0,0,0,0,28,45%,0,0%,0,0%,True,False,6,20,Tre Mason
+2015,2015-09-13,1,1,,STL,SEA,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,True,34,31,Tre Mason
+2015,2015-09-20,2,2,22.045,STL,WAS,True,7,26,3.71,0,5,2,4,2.00,0,40.0%,0.80,0,0,1,0,0,0,0,0,28,54%,0,0%,0,0%,True,False,10,24,Tre Mason
+2015,2015-09-27,3,3,22.052,STL,PIT,True,9,16,1.78,0,5,1,15,15.00,0,20.0%,3.00,0,0,0,0,0,0,0,0,22,44%,0,0%,0,0%,False,False,6,12,Tre Mason
+2015,2015-10-04,4,4,22.059,STL,ARI,False,2,-1,-0.50,0,0,0,0,,0,0.0%,,0,0,0,0,0,0,0,0,2,4%,0,0%,0,0%,True,True,24,22,Tre Mason
+2015,2015-10-11,5,5,22.066,STL,GNB,False,2,8,4.00,0,0,0,0,,0,0.0%,,0,0,0,0,0,1,0,0,5,7%,0,0%,0,0%,True,False,10,24,Tre Mason
+2015,2015-10-25,6,7,,STL,CLE,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,True,24,6,Tre Mason
+2015,2015-11-01,7,8,22.087,STL,SFO,False,15,46,3.07,0,1,1,6,6.00,0,100.0%,6.00,0,0,0,0,0,0,0,0,21,30%,0,0%,0,0%,False,True,27,6,Tre Mason
+2015,2015-11-08,8,9,22.094,STL,MIN,False,3,3,1.00,0,1,1,-4,-4.00,0,100.0%,-4.00,0,0,0,0,0,0,0,0,6,8%,0,0%,0,0%,True,False,18,21,Tre Mason
+2015,2015-11-15,9,10,22.101,STL,CHI,False,6,31,5.17,0,1,1,16,16.00,0,100.0%,16.00,0,0,1,1,0,0,0,0,11,17%,0,0%,0,0%,False,False,13,37,Tre Mason
+2015,2015-11-22,10,11,,STL,BAL,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,False,13,16,Tre Mason
+2015,2015-11-29,11,12,22.115,STL,CIN,False,1,-2,-2.00,0,7,7,37,5.29,0,100.0%,5.29,0,0,0,0,0,0,0,0,20,27%,0,0%,0,0%,True,False,7,31,Tre Mason
+2015,2015-12-06,12,13,22.122,STL,ARI,False,2,13,6.50,0,2,2,10,5.00,0,100.0%,5.00,0,0,0,0,0,0,0,0,12,24%,0,0%,0,0%,False,False,3,27,Tre Mason
+2015,2015-12-13,13,14,22.129,STL,DET,False,4,7,1.75,0,2,2,1,0.50,0,100.0%,0.50,0,0,0,0,0,0,0,0,7,13%,0,0%,0,0%,False,True,21,14,Tre Mason
+2015,2015-12-17,14,15,22.133,STL,TAM,False,3,13,4.33,0,0,0,0,,0,0.0%,,0,0,0,0,0,0,0,0,9,17%,0,0%,0,0%,False,True,31,23,Tre Mason
+2015,2015-12-27,15,16,22.143,STL,SEA,False,3,3,1.00,0,1,1,3,3.00,0,100.0%,3.00,0,0,0,0,0,0,0,0,6,11%,0,0%,0,0%,True,True,23,17,Tre Mason
+2015,2016-01-03,16,17,22.150,STL,SFO,True,18,44,2.44,1,0,0,0,,0,0.0%,,1,6,1,0,0,0,0,0,36,51%,0,0%,0,0%,True,False,16,19,Tre Mason
+,25 Games,,,,,,False,254,972,3.83,5,51,34,236,6.94,1,66.7%,4.63,6,36,5,2,0,2,0,0,,,,,,,False,False,15,0,Tre Mason

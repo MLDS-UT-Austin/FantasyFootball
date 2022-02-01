@@ -1,0 +1,18 @@
+Year,Date,G#,Week,Age,Tm,Opp,GS,Sk,Tackles_Solo,Tackles_Ast,Tackles_Comb,Tackles_TFL,Tackles_QBHits,Punting_Pnt,Punting_Yds,Punting_Y/P,Punting_Blck,Away_status,Win,Score,Opp Score,Player
+2011.0,2011-09-11,1.0,1.0,26.013,NYJ,DAL,False,0.0,0,0,0,,,6,239,39.83,0,False,True,27,24,T.J. Conley
+2011.0,2011-09-18,2.0,2.0,26.02,NYJ,JAX,False,0.0,0,0,0,0.0,0.0,5,194,38.8,0,False,True,32,3,T.J. Conley
+2011.0,2011-09-25,3.0,3.0,26.027,NYJ,OAK,False,0.0,0,0,0,,,5,230,46.0,0,True,False,24,34,T.J. Conley
+2011.0,2011-10-02,4.0,4.0,26.034,NYJ,BAL,False,0.0,0,0,0,,,8,346,43.25,0,True,False,17,34,T.J. Conley
+2011.0,2011-10-09,5.0,5.0,26.041,NYJ,NWE,False,0.0,1,0,1,0.0,0.0,7,319,45.57,0,True,False,21,30,T.J. Conley
+2011.0,2011-10-17,6.0,6.0,26.049,NYJ,MIA,False,0.0,0,0,0,,,8,388,48.5,0,False,True,24,6,T.J. Conley
+2011.0,2011-10-23,7.0,7.0,26.055,NYJ,SDG,False,0.0,0,0,0,,,3,110,36.67,0,False,True,27,21,T.J. Conley
+2011.0,2011-11-06,8.0,9.0,26.069,NYJ,BUF,False,0.0,0,0,0,,,2,71,35.5,0,True,True,27,11,T.J. Conley
+2011.0,2011-11-13,9.0,10.0,26.076,NYJ,NWE,False,0.0,0,0,0,,,5,242,48.4,0,False,False,16,37,T.J. Conley
+2011.0,2011-11-17,10.0,11.0,26.08,NYJ,DEN,False,0.0,0,0,0,,,6,230,38.33,0,True,False,13,17,T.J. Conley
+2011.0,2011-11-27,11.0,12.0,26.09,NYJ,BUF,False,0.0,0,0,0,,,5,208,41.6,0,False,True,28,24,T.J. Conley
+2011.0,2011-12-04,12.0,13.0,26.097,NYJ,WAS,False,0.0,0,0,0,,,5,223,44.6,0,True,True,34,19,T.J. Conley
+2011.0,2011-12-11,13.0,14.0,26.104,NYJ,KAN,False,0.0,0,0,0,,,7,314,44.86,0,False,True,37,10,T.J. Conley
+2011.0,2011-12-18,14.0,15.0,26.111,NYJ,PHI,False,0.0,0,0,0,,,6,242,40.33,0,True,False,19,45,T.J. Conley
+2011.0,2011-12-24,15.0,16.0,26.117,NYJ,NYG,False,0.0,0,0,0,,,9,379,42.11,0,False,False,14,29,T.J. Conley
+2011.0,2012-01-01,16.0,17.0,26.125,NYJ,MIA,False,0.0,0,0,0,,,5,191,38.2,0,True,False,17,19,T.J. Conley
+,16 Games,,,,,,False,0.0,1,0,1,0.0,0.0,92,3926,42.67,0,False,False,8,0,T.J. Conley

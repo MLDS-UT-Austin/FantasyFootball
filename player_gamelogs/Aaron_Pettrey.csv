@@ -1,0 +1,4 @@
+Year,Date,G#,Week,Age,Tm,Opp,GS,Scoring_XPM,Scoring_XPA,Scoring_XP%,Scoring_FGM,Scoring_FGA,Scoring_FG%,Scoring_TD,Scoring_Pts,Away_status,Win,Score,Opp Score,Player
+2010.0,2010-11-21,10.0,11.0,24.157,CIN,BUF,False,4,4,100.0,1,2,50.0,0,7,False,False,31,49,Aaron Pettrey
+2010.0,2010-11-25,11.0,12.0,24.161,CIN,NYJ,False,1,1,100.0,1,2,50.0,0,4,True,False,10,26,Aaron Pettrey
+,2 Games,,,,,,False,5,5,100.0,2,4,50.0,0,11,False,False,2,0,Aaron Pettrey

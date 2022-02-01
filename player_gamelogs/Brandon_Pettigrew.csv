@@ -1,0 +1,114 @@
+Year,Date,G#,Week,Age,Tm,Opp,GS,Receiving_Tgt,Receiving_Rec,Receiving_Yds,Receiving_Y/R,Receiving_TD,Receiving_Ctch%,Receiving_Y/Tgt,Scoring_TD,Scoring_Pts,Sk,Tackles_Solo,Tackles_Ast,Tackles_Comb,Tackles_TFL,Tackles_QBHits,Fumbles_Fmb,Fumbles_FL,Fumbles_FF,Fumbles_FR,Fumbles_Yds,Fumbles_TD,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Win,Score,Opp Score,Player
+2009,2009-09-13,1,1,24.202,DET,NOR,True,,,,,,0.0%,,0,0,0.0,,,,,,0,,,0,0,0,,,,,,,True,False,27,45,Brandon Pettigrew
+2009,2009-09-20,2,2,24.209,DET,MIN,True,5,4,40,10.00,0,80.0%,8.00,0,0,0.0,0,1,1,0,0,0,,0,1,0,0,,,,,,,False,False,13,27,Brandon Pettigrew
+2009,2009-09-27,3,3,24.216,DET,WAS,True,4,2,27,13.50,0,50.0%,6.75,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,True,19,14,Brandon Pettigrew
+2009,2009-10-04,4,4,24.223,DET,CHI,True,10,4,64,16.00,0,40.0%,6.40,0,0,0.0,0,0,0,0,0,1,0,0,0,0,0,,,,,,,True,False,24,48,Brandon Pettigrew
+2009,2009-10-11,5,5,24.230,DET,PIT,True,5,2,21,10.50,0,40.0%,4.20,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,False,20,28,Brandon Pettigrew
+2009,2009-10-18,6,6,24.237,DET,GNB,True,3,0,0,,0,0.0%,0.00,0,0,0.0,,,,,,0,,,0,0,0,,,,,,,True,False,0,26,Brandon Pettigrew
+2009,2009-11-01,7,8,24.251,DET,STL,True,4,2,17,8.50,0,50.0%,4.25,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,False,10,17,Brandon Pettigrew
+2009,2009-11-08,8,9,24.258,DET,SEA,True,8,7,70,10.00,1,87.5%,8.75,1,6,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,True,False,20,32,Brandon Pettigrew
+2009,2009-11-15,9,10,24.265,DET,MIN,True,6,2,23,11.50,0,33.3%,3.83,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,True,False,10,27,Brandon Pettigrew
+2009,2009-11-22,10,11,24.272,DET,CLE,True,8,6,72,12.00,1,75.0%,9.00,1,6,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,True,38,37,Brandon Pettigrew
+2009,2009-11-26,11,12,24.276,DET,GNB,True,1,1,12,12.00,0,100.0%,12.00,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,False,12,34,Brandon Pettigrew
+2009,2009-12-06,12,13,,DET,CIN,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,False,13,23,Brandon Pettigrew
+2009,2009-12-13,13,14,,DET,BAL,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,False,3,48,Brandon Pettigrew
+2009,2009-12-20,14,15,,DET,ARI,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,False,24,31,Brandon Pettigrew
+2009,2009-12-27,15,16,,DET,SFO,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,False,6,20,Brandon Pettigrew
+2009,2010-01-03,16,17,,DET,CHI,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,False,23,37,Brandon Pettigrew
+2010,2010-09-12,1,1,25.201,DET,CHI,True,2,1,6,6.00,0,50.0%,3.00,0,0,0.0,0,0,0,0,0,0,,0,0,0,0,,,,,,,True,False,14,19,Brandon Pettigrew
+2010,2010-09-19,2,2,25.208,DET,PHI,True,8,7,108,15.43,0,87.5%,13.50,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,False,32,35,Brandon Pettigrew
+2010,2010-09-26,3,3,25.215,DET,MIN,True,9,6,44,7.33,0,66.7%,4.89,0,0,0.0,0,0,0,0,0,0,,0,0,0,0,,,,,,,True,False,10,24,Brandon Pettigrew
+2010,2010-10-03,4,4,25.222,DET,GNB,True,11,8,91,11.38,0,72.7%,8.27,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,True,False,26,28,Brandon Pettigrew
+2010,2010-10-10,5,5,25.229,DET,STL,True,5,4,26,6.50,1,80.0%,5.20,1,6,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,True,44,6,Brandon Pettigrew
+2010,2010-10-17,6,6,25.236,DET,NYG,True,12,7,61,8.71,0,58.3%,5.08,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,True,False,20,28,Brandon Pettigrew
+2010,2010-10-31,7,8,25.250,DET,WAS,True,5,2,8,4.00,1,40.0%,1.60,1,6,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,True,37,25,Brandon Pettigrew
+2010,2010-11-07,8,9,25.257,DET,NYJ,True,5,3,18,6.00,1,60.0%,3.60,1,6,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,False,20,23,Brandon Pettigrew
+2010,2010-11-14,9,10,25.264,DET,BUF,True,8,4,50,12.50,0,50.0%,6.25,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,True,False,12,14,Brandon Pettigrew
+2010,2010-11-21,10,11,25.271,DET,DAL,True,9,8,75,9.38,0,88.9%,8.33,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,True,False,19,35,Brandon Pettigrew
+2010,2010-11-25,11,12,25.275,DET,NWE,True,7,5,67,13.40,0,71.4%,9.57,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,False,24,45,Brandon Pettigrew
+2010,2010-12-05,12,13,25.285,DET,CHI,True,9,5,36,7.20,0,55.6%,4.00,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,False,20,24,Brandon Pettigrew
+2010,2010-12-12,13,14,25.292,DET,GNB,True,3,2,14,7.00,0,66.7%,4.67,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,True,7,3,Brandon Pettigrew
+2010,2010-12-19,14,15,25.299,DET,TAM,True,3,2,25,12.50,0,66.7%,8.33,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,True,True,23,20,Brandon Pettigrew
+2010,2010-12-26,15,16,25.306,DET,MIA,True,9,4,74,18.50,1,44.4%,8.22,1,6,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,True,True,34,27,Brandon Pettigrew
+2010,2011-01-02,16,17,25.313,DET,MIN,True,6,3,19,6.33,0,50.0%,3.17,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,True,20,13,Brandon Pettigrew
+2011,2011-09-11,1,1,26.200,DET,TAM,True,6,4,57,14.25,0,66.7%,9.50,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,True,True,27,20,Brandon Pettigrew
+2011,2011-09-18,2,2,26.207,DET,KAN,True,3,1,7,7.00,0,33.3%,2.33,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,True,48,3,Brandon Pettigrew
+2011,2011-09-25,3,3,26.214,DET,MIN,True,13,11,112,10.18,0,84.6%,8.62,0,0,0.0,0,0,0,0,0,0,,0,0,0,0,,,,,,,True,True,26,23,Brandon Pettigrew
+2011,2011-10-02,4,4,26.221,DET,DAL,True,9,6,64,10.67,0,66.7%,7.11,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,True,True,34,30,Brandon Pettigrew
+2011,2011-10-10,5,5,26.229,DET,CHI,True,5,4,39,9.75,1,80.0%,7.80,1,6,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,True,24,13,Brandon Pettigrew
+2011,2011-10-16,6,6,26.235,DET,SFO,True,14,8,42,5.25,1,57.1%,3.00,1,6,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,False,19,25,Brandon Pettigrew
+2011,2011-10-23,7,7,26.242,DET,ATL,True,6,4,31,7.75,0,66.7%,5.17,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,False,16,23,Brandon Pettigrew
+2011,2011-10-30,8,8,26.249,DET,DEN,True,4,3,8,2.67,0,75.0%,2.00,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,True,True,45,10,Brandon Pettigrew
+2011,2011-11-13,9,10,26.263,DET,CHI,True,9,5,38,7.60,0,55.6%,4.22,0,0,0.0,0,0,0,0,0,0,,0,0,0,0,,,,,,,True,False,13,37,Brandon Pettigrew
+2011,2011-11-20,10,11,26.270,DET,CAR,True,5,4,37,9.25,1,80.0%,7.40,1,6,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,True,49,35,Brandon Pettigrew
+2011,2011-11-24,11,12,26.274,DET,GNB,True,8,4,27,6.75,0,50.0%,3.38,0,0,0.0,0,0,0,0,0,0,,0,0,0,0,,,,,,,False,False,15,27,Brandon Pettigrew
+2011,2011-12-04,12,13,26.284,DET,NOR,True,5,2,13,6.50,0,40.0%,2.60,0,0,0.0,0,0,0,0,0,0,,0,0,0,0,,,,,,,True,False,17,31,Brandon Pettigrew
+2011,2011-12-11,13,14,26.291,DET,MIN,True,7,6,57,9.50,1,85.7%,8.14,1,6,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,True,34,28,Brandon Pettigrew
+2011,2011-12-18,14,15,26.298,DET,OAK,True,11,5,49,9.80,0,45.5%,4.45,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,True,True,28,27,Brandon Pettigrew
+2011,2011-12-24,15,16,26.304,DET,SDG,True,10,9,80,8.89,1,90.0%,8.00,1,6,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,True,38,10,Brandon Pettigrew
+2011,2012-01-01,16,17,26.312,DET,GNB,True,11,7,116,16.57,0,63.6%,10.55,0,0,0.0,0,0,0,0,0,0,,0,0,0,0,,,,,,,True,False,41,45,Brandon Pettigrew
+2012,2012-09-09,1,1,27.199,DET,STL,True,10,5,77,15.40,0,50.0%,7.70,0,0,0.0,0,0,0,,,0,0,0,0,0,0,67,100%,0,0%,6,20%,False,True,27,23,Brandon Pettigrew
+2012,2012-09-16,2,2,27.206,DET,SFO,True,4,3,18,6.00,1,75.0%,4.50,1,6,0.0,0,0,0,0,0,0,0,0,0,0,0,60,94%,0,0%,6,21%,True,False,19,27,Brandon Pettigrew
+2012,2012-09-23,3,3,27.213,DET,TEN,True,12,8,61,7.63,0,66.7%,5.08,0,0,0.0,0,0,0,,,1,1,0,0,0,0,93,97%,0,0%,7,18%,True,False,41,44,Brandon Pettigrew
+2012,2012-09-30,4,4,27.220,DET,MIN,True,9,7,67,9.57,0,77.8%,7.44,0,0,0.0,0,0,0,,,0,0,0,0,0,0,70,90%,0,0%,3,11%,False,False,13,20,Brandon Pettigrew
+2012,2012-10-14,5,6,27.234,DET,PHI,True,7,3,38,12.67,0,42.9%,5.43,0,0,0.0,0,0,0,,,0,0,0,0,0,0,38,49%,0,0%,6,17%,True,True,26,23,Brandon Pettigrew
+2012,2012-10-22,6,7,27.242,DET,CHI,True,6,5,39,7.80,0,83.3%,6.50,0,0,0.0,0,0,0,,,2,0,0,0,0,0,52,76%,0,0%,1,4%,True,False,7,13,Brandon Pettigrew
+2012,2012-10-28,7,8,27.248,DET,SEA,True,9,7,74,10.57,0,77.8%,8.22,0,0,0.0,0,0,0,,,0,0,0,0,0,0,67,92%,0,0%,4,15%,False,True,28,24,Brandon Pettigrew
+2012,2012-11-04,8,9,27.255,DET,JAX,False,3,1,11,11.00,0,33.3%,3.67,0,0,0.0,0,0,0,,,0,0,0,0,0,0,43,61%,0,0%,6,29%,True,True,31,14,Brandon Pettigrew
+2012,2012-11-11,9,10,27.262,DET,MIN,False,9,3,32,10.67,1,33.3%,3.56,1,6,0.0,0,0,0,0,0,0,0,0,0,0,0,37,59%,0,0%,4,12%,True,False,24,34,Brandon Pettigrew
+2012,2012-11-18,10,11,27.269,DET,GNB,True,7,4,22,5.50,0,57.1%,3.14,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,62,86%,0,0%,4,15%,False,False,20,24,Brandon Pettigrew
+2012,2012-11-22,11,12,27.273,DET,HOU,True,15,8,74,9.25,0,53.3%,4.93,0,0,0.0,0,0,0,,,1,1,0,0,0,0,89,100%,0,0%,6,15%,False,False,31,34,Brandon Pettigrew
+2012,2012-12-02,12,13,27.283,DET,IND,True,8,3,43,14.33,1,37.5%,5.38,1,6,0.0,0,0,0,0,0,0,0,0,0,0,0,60,78%,0,0%,7,18%,False,False,33,35,Brandon Pettigrew
+2012,2012-12-09,13,14,27.290,DET,GNB,True,,,,,,0.0%,,0,0,0.0,,,,,,0,,,0,0,0,16,19%,0,0%,1,4%,True,False,20,27,Brandon Pettigrew
+2012,2012-12-16,14,15,,DET,ARI,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,False,10,38,Brandon Pettigrew
+2012,2012-12-22,15,16,,DET,ATL,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,False,18,31,Brandon Pettigrew
+2012,2012-12-30,16,17,27.311,DET,CHI,False,3,2,11,5.50,0,66.7%,3.67,0,0,0.0,0,0,0,,,0,0,0,0,0,0,15,23%,0,0%,0,0%,False,False,24,26,Brandon Pettigrew
+2013,2013-09-08,1,1,28.197,DET,MIN,True,4,2,6,3.00,0,50.0%,1.50,0,0,0.0,0,0,0,0,0,1,1,0,0,0,0,76,95%,0,0%,7,21%,False,True,34,24,Brandon Pettigrew
+2013,2013-09-15,2,2,28.204,DET,ARI,True,6,3,32,10.67,0,50.0%,5.33,0,0,0.0,1,0,1,0,0,0,0,0,0,0,0,56,95%,0,0%,6,19%,True,False,21,25,Brandon Pettigrew
+2013,2013-09-22,3,3,28.211,DET,WAS,True,2,0,0,,0,0.0%,0.00,0,0,0.0,0,0,0,,,0,0,0,0,0,0,54,81%,0,0%,6,19%,True,True,27,20,Brandon Pettigrew
+2013,2013-09-29,4,4,28.218,DET,CHI,True,7,7,54,7.71,0,100.0%,7.71,0,0,0.0,0,0,0,,,0,0,0,0,0,0,59,89%,0,0%,10,29%,False,True,40,32,Brandon Pettigrew
+2013,2013-10-06,5,5,28.225,DET,GNB,True,5,4,59,14.75,0,80.0%,11.80,0,0,0.0,0,0,0,,,0,0,0,0,0,0,64,96%,0,0%,1,4%,True,False,9,22,Brandon Pettigrew
+2013,2013-10-13,6,6,28.232,DET,CLE,True,4,4,36,9.00,0,100.0%,9.00,0,0,0.0,0,0,0,,,0,0,0,0,0,0,68,91%,0,0%,6,21%,True,True,31,17,Brandon Pettigrew
+2013,2013-10-20,7,7,28.239,DET,CIN,True,7,3,7,2.33,1,42.9%,1.00,1,6,0.0,0,0,0,0,0,0,0,0,0,0,0,75,96%,0,0%,5,17%,False,False,24,27,Brandon Pettigrew
+2013,2013-10-27,8,8,28.246,DET,DAL,True,6,3,31,10.33,0,50.0%,5.17,0,0,0.0,0,0,0,,,0,0,0,0,0,0,77,96%,0,0%,5,14%,False,True,31,30,Brandon Pettigrew
+2013,2013-11-10,9,10,28.260,DET,CHI,True,5,5,70,14.00,0,100.0%,14.00,0,0,0.0,0,0,0,,,0,0,0,0,0,0,57,92%,0,0%,5,20%,True,True,21,19,Brandon Pettigrew
+2013,2013-11-17,10,11,28.267,DET,PIT,True,5,3,37,12.33,0,60.0%,7.40,0,0,0.0,0,0,0,,,0,0,0,0,0,0,61,84%,0,0%,6,17%,True,False,27,37,Brandon Pettigrew
+2013,2013-11-24,11,12,28.274,DET,TAM,True,5,3,32,10.67,1,60.0%,6.40,1,6,0.0,0,0,0,,,0,0,0,0,0,0,69,91%,0,0%,3,11%,False,False,21,24,Brandon Pettigrew
+2013,2013-11-28,12,13,28.278,DET,GNB,True,2,1,6,6.00,0,50.0%,3.00,0,0,0.0,0,0,0,,,0,0,0,0,0,0,71,88%,0,0%,7,26%,False,True,40,10,Brandon Pettigrew
+2013,2013-12-08,13,14,28.288,DET,PHI,True,3,1,23,23.00,0,33.3%,7.67,0,0,0.0,0,0,0,,,0,0,0,0,0,0,61,100%,0,0%,1,4%,True,False,20,34,Brandon Pettigrew
+2013,2013-12-16,14,15,28.296,DET,BAL,True,2,2,23,11.50,0,100.0%,11.50,0,0,0.0,0,0,0,,,0,0,0,0,0,0,55,85%,0,0%,2,7%,False,False,16,18,Brandon Pettigrew
+2013,2013-12-22,15,16,,DET,NYG,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,False,20,23,Brandon Pettigrew
+2013,2013-12-29,16,17,,DET,MIN,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,False,13,14,Brandon Pettigrew
+2014,2014-09-08,1,1,29.197,DET,NYG,True,1,1,9,9.00,0,100.0%,9.00,0,0,0.0,0,0,0,,,0,0,0,0,0,0,39,58%,0,0%,6,23%,False,True,35,14,Brandon Pettigrew
+2014,2014-09-14,2,2,29.203,DET,CAR,True,1,0,0,,0,0.0%,0.00,0,0,0.0,0,0,0,,,0,0,0,0,0,0,35,49%,0,0%,3,12%,True,False,7,24,Brandon Pettigrew
+2014,2014-09-21,3,3,29.210,DET,GNB,True,1,0,0,,0,0.0%,0.00,0,0,0.0,0,0,0,,,0,0,0,0,0,0,49,65%,0,0%,4,20%,False,True,19,7,Brandon Pettigrew
+2014,2014-09-28,4,4,29.217,DET,NYJ,True,2,2,19,9.50,0,100.0%,9.50,0,0,0.0,0,0,0,,,0,0,0,0,0,0,54,83%,0,0%,6,20%,True,True,24,17,Brandon Pettigrew
+2014,2014-10-05,5,5,29.224,DET,BUF,True,3,2,12,6.00,0,66.7%,4.00,0,0,0.0,0,0,0,,,0,0,0,0,0,0,37,60%,0,0%,6,19%,False,False,14,17,Brandon Pettigrew
+2014,2014-10-12,6,6,29.231,DET,MIN,True,,,,,,0.0%,,0,0,0.0,,,,,,0,,,0,0,0,46,66%,0,0%,6,22%,True,True,17,3,Brandon Pettigrew
+2014,2014-10-19,7,7,29.238,DET,NOR,True,6,4,28,7.00,0,66.7%,4.67,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,61,87%,0,0%,4,14%,False,True,24,23,Brandon Pettigrew
+2014,2014-10-26,8,8,,DET,ATL,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,True,22,21,Brandon Pettigrew
+2014,2014-11-09,9,10,29.259,DET,MIA,False,0,,,,,0.0%,,0,0,0.0,,,,,,0,,,0,0,0,43,64%,0,0%,0,0%,False,True,20,16,Brandon Pettigrew
+2014,2014-11-16,10,11,,DET,ARI,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,False,6,14,Brandon Pettigrew
+2014,2014-11-23,11,12,29.273,DET,NWE,True,,,,,,0.0%,,0,0,0.0,,,,,,0,,,0,0,0,33,41%,0,0%,4,13%,True,False,9,34,Brandon Pettigrew
+2014,2014-11-27,12,13,29.277,DET,CHI,True,1,1,2,2.00,0,100.0%,2.00,0,0,0.0,0,0,0,,,0,0,0,0,0,0,44,60%,0,0%,6,21%,False,True,34,17,Brandon Pettigrew
+2014,2014-12-07,13,14,29.287,DET,TAM,False,,,,,,0.0%,,0,0,0.0,,,,,,0,,,0,0,0,34,49%,0,0%,6,20%,False,True,34,17,Brandon Pettigrew
+2014,2014-12-14,14,15,29.294,DET,MIN,False,0,,,,,0.0%,,0,0,0.0,,,,,,0,,,0,0,0,37,73%,0,0%,4,17%,False,True,16,14,Brandon Pettigrew
+2014,2014-12-21,15,16,29.301,DET,CHI,False,,,,,,0.0%,,0,0,0.0,,,,,,0,,,0,0,0,44,61%,0,0%,5,22%,True,True,20,14,Brandon Pettigrew
+2014,2014-12-28,16,17,29.308,DET,GNB,False,,,,,,0.0%,,0,0,0.0,,,,0,0,0,,,0,0,0,31,45%,0,0%,2,8%,True,False,20,30,Brandon Pettigrew
+2015,2015-09-13,1,1,30.202,DET,SDG,True,1,0,0,,0,0.0%,0.00,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,21,45%,0,0%,4,14%,True,False,28,33,Brandon Pettigrew
+2015,2015-09-20,2,2,,DET,MIN,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,False,16,26,Brandon Pettigrew
+2015,2015-09-27,3,3,,DET,DEN,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,False,12,24,Brandon Pettigrew
+2015,2015-10-05,4,4,,DET,SEA,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,False,10,13,Brandon Pettigrew
+2015,2015-10-11,5,5,30.230,DET,ARI,True,5,3,29,9.67,0,60.0%,5.80,0,0,0.0,0,0,0,,,0,0,0,0,0,0,55,58%,0,0%,3,10%,False,False,17,42,Brandon Pettigrew
+2015,2015-10-18,6,6,,DET,CHI,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,True,37,34,Brandon Pettigrew
+2015,2015-10-25,7,7,,DET,MIN,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,False,19,28,Brandon Pettigrew
+2015,2015-11-01,8,8,30.251,DET,KAN,True,1,0,0,,0,0.0%,0.00,0,0,0.0,0,0,0,,,0,0,0,0,0,0,15,25%,0,0%,0,0%,True,False,10,45,Brandon Pettigrew
+2015,2015-11-15,9,10,30.265,DET,GNB,True,4,1,2,2.00,1,25.0%,0.50,1,6,0.0,0,0,0,,,0,0,0,0,0,0,46,71%,0,0%,0,0%,True,True,18,16,Brandon Pettigrew
+2015,2015-11-22,10,11,30.272,DET,OAK,True,1,1,8,8.00,0,100.0%,8.00,0,0,0.0,0,0,0,,,0,0,0,0,0,0,43,60%,0,0%,1,4%,False,True,18,13,Brandon Pettigrew
+2015,2015-11-26,11,12,30.276,DET,PHI,True,2,1,21,21.00,0,50.0%,10.50,0,0,0.0,0,0,0,,,0,0,0,0,0,0,53,74%,0,0%,0,0%,False,True,45,14,Brandon Pettigrew
+2015,2015-12-03,12,13,30.283,DET,GNB,True,0,0,0,,0,0.0%,,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,39,60%,0,0%,0,0%,False,False,23,27,Brandon Pettigrew
+2015,2015-12-13,13,14,30.293,DET,STL,True,1,1,7,7.00,0,100.0%,7.00,0,0,0.0,0,0,0,,,0,0,0,0,0,0,13,18%,0,0%,0,0%,True,False,14,21,Brandon Pettigrew
+2015,2015-12-21,14,15,,DET,NOR,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,True,35,27,Brandon Pettigrew
+2015,2015-12-27,15,16,,DET,SFO,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,True,32,17,Brandon Pettigrew
+2015,2016-01-03,16,17,,DET,CHI,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,True,24,20,Brandon Pettigrew
+,93 Games,,,,,,False,486,301,2965,9.85,17,61.9%,6.10,17,102,0.0,1,1,2,0,0,6,3,0,1,0,0,,,,,,,False,False,51,0,Brandon Pettigrew

@@ -1,0 +1,65 @@
+Year,Date,G#,Week,Age,Tm,Opp,GS,Rushing_Att,Rushing_Yds,Rushing_Y/A,Rushing_TD,Receiving_Tgt,Receiving_Rec,Receiving_Yds,Receiving_Y/R,Receiving_TD,Receiving_Ctch%,Receiving_Y/Tgt,Scoring_TD,Scoring_Pts,Fumbles_Fmb,Fumbles_FL,Fumbles_FF,Fumbles_FR,Fumbles_Yds,Fumbles_TD,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Win,Score,Opp Score,Player
+2011,2011-09-11,1,1,23.021,HOU,IND,False,24,116,4.83,1,0,0,0,,0,0.0%,,1,6,1,1,0,0,0,0,,,,,,,False,True,34,7,Ben Tate
+2011,2011-09-18,2,2,23.028,HOU,MIA,False,23,103,4.48,0,4,4,32,8.00,0,100.0%,8.00,0,0,0,,0,0,0,0,,,,,,,True,True,23,13,Ben Tate
+2011,2011-09-25,3,3,23.035,HOU,NOR,True,19,82,4.32,0,4,1,8,8.00,0,25.0%,2.00,0,0,0,,0,0,0,0,,,,,,,True,False,33,40,Ben Tate
+2011,2011-10-02,4,4,23.042,HOU,PIT,False,2,20,10.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,,,,,,False,True,17,10,Ben Tate
+2011,2011-10-09,5,5,,HOU,OAK,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,False,20,25,Ben Tate
+2011,2011-10-16,6,6,23.056,HOU,BAL,False,9,41,4.56,0,1,0,0,,0,0.0%,0.00,0,0,1,0,0,0,0,0,,,,,,,True,False,14,29,Ben Tate
+2011,2011-10-23,7,7,23.063,HOU,TEN,False,15,104,6.93,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,,,,,,True,True,41,7,Ben Tate
+2011,2011-10-30,8,8,23.070,HOU,JAX,False,5,42,8.40,0,0,0,0,,0,0.0%,,0,0,1,1,0,0,0,0,,,,,,,False,True,24,14,Ben Tate
+2011,2011-11-06,9,9,23.077,HOU,CLE,False,12,115,9.58,1,1,0,0,,0,0.0%,0.00,1,6,0,,0,0,0,0,,,,,,,False,True,30,12,Ben Tate
+2011,2011-11-13,10,10,23.084,HOU,TAM,False,13,63,4.85,1,0,0,0,,0,0.0%,,1,6,0,,0,0,0,0,,,,,,,True,True,37,9,Ben Tate
+2011,2011-11-27,11,12,23.098,HOU,JAX,False,5,26,5.20,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,,,,,,True,True,20,13,Ben Tate
+2011,2011-12-04,12,13,23.105,HOU,ATL,False,11,41,3.73,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,,,,,,False,True,17,10,Ben Tate
+2011,2011-12-11,13,14,23.112,HOU,CIN,False,8,67,8.38,0,3,3,30,10.00,0,100.0%,10.00,0,0,1,1,0,0,0,0,,,,,,,True,True,20,19,Ben Tate
+2011,2011-12-18,14,15,23.119,HOU,CAR,False,7,26,3.71,0,1,1,4,4.00,0,100.0%,4.00,0,0,0,,0,0,0,0,,,,,,,False,False,13,28,Ben Tate
+2011,2011-12-22,15,16,23.123,HOU,IND,False,6,-1,-0.17,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,,,,,,True,False,16,19,Ben Tate
+2011,2012-01-01,16,17,23.133,HOU,TEN,True,16,97,6.06,1,5,4,24,6.00,0,80.0%,4.80,1,6,0,,0,0,0,0,,,,,,,False,False,22,23,Ben Tate
+2012,2012-09-09,1,1,24.019,HOU,MIA,False,5,6,1.20,0,3,3,22,7.33,0,100.0%,7.33,0,0,0,0,0,0,0,0,21,30%,0,0%,0,0%,False,True,30,10,Ben Tate
+2012,2012-09-16,2,2,24.026,HOU,JAX,False,12,74,6.17,2,4,4,23,5.75,0,100.0%,5.75,2,12,0,0,0,0,0,0,22,26%,0,0%,0,0%,True,True,27,7,Ben Tate
+2012,2012-09-23,3,3,24.033,HOU,DEN,False,8,26,3.25,0,0,0,0,,0,0.0%,,0,0,1,1,0,0,0,0,15,22%,0,0%,0,0%,True,True,31,25,Ben Tate
+2012,2012-09-30,4,4,24.040,HOU,TEN,False,5,11,2.20,0,2,2,3,1.50,0,100.0%,1.50,0,0,0,0,0,0,0,0,12,20%,0,0%,0,0%,False,True,38,14,Ben Tate
+2012,2012-10-08,5,5,,HOU,NYJ,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,True,23,17,Ben Tate
+2012,2012-10-14,6,6,24.054,HOU,GNB,False,3,14,4.67,0,0,0,0,,0,0.0%,,0,0,0,0,0,0,0,0,6,8%,0,0%,0,0%,False,False,24,42,Ben Tate
+2012,2012-10-21,7,7,24.061,HOU,BAL,False,10,47,4.70,0,0,0,0,,0,0.0%,,0,0,0,0,0,0,0,0,16,20%,0,0%,0,0%,False,True,43,13,Ben Tate
+2012,2012-11-04,8,9,,HOU,BUF,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,True,21,9,Ben Tate
+2012,2012-11-11,9,10,,HOU,CHI,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,True,13,6,Ben Tate
+2012,2012-11-18,10,11,,HOU,JAX,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,True,43,37,Ben Tate
+2012,2012-11-22,11,12,,HOU,DET,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,True,34,31,Ben Tate
+2012,2012-12-02,12,13,24.103,HOU,TEN,False,3,18,6.00,0,0,0,0,,0,0.0%,,0,0,0,0,0,0,0,0,5,7%,0,0%,0,0%,True,True,24,10,Ben Tate
+2012,2012-12-10,13,14,24.111,HOU,NWE,False,8,46,5.75,0,1,1,-1,-1.00,0,100.0%,-1.00,0,0,0,0,0,0,0,0,19,28%,0,0%,0,0%,True,False,14,42,Ben Tate
+2012,2012-12-16,14,15,24.117,HOU,IND,False,5,13,2.60,0,0,0,0,,0,0.0%,,0,0,0,0,0,0,0,0,8,12%,0,0%,0,0%,False,True,29,17,Ben Tate
+2012,2012-12-23,15,16,24.124,HOU,MIN,False,4,17,4.25,0,1,1,2,2.00,0,100.0%,2.00,0,0,0,0,0,0,0,0,17,30%,0,0%,0,0%,False,False,6,23,Ben Tate
+2012,2012-12-30,16,17,24.131,HOU,IND,False,2,7,3.50,0,0,0,0,,0,0.0%,,0,0,0,0,0,0,0,0,2,3%,0,0%,0,0%,True,False,16,28,Ben Tate
+2013,2013-09-09,1,1,25.019,HOU,SDG,False,9,55,6.11,0,2,2,7,3.50,0,100.0%,3.50,0,0,0,0,0,0,0,0,20,26%,0,0%,0,0%,True,True,31,28,Ben Tate
+2013,2013-09-15,2,2,25.025,HOU,TEN,False,9,93,10.33,0,4,3,8,2.67,0,75.0%,2.00,0,0,0,0,0,0,0,0,21,26%,0,0%,0,0%,False,True,30,24,Ben Tate
+2013,2013-09-22,3,3,25.032,HOU,BAL,False,9,36,4.00,0,4,3,7,2.33,0,75.0%,1.75,0,0,0,0,0,0,0,0,25,38%,0,0%,0,0%,True,False,9,30,Ben Tate
+2013,2013-09-29,4,4,25.039,HOU,SEA,False,7,44,6.29,0,1,1,1,1.00,0,100.0%,1.00,0,0,1,1,0,0,0,0,11,12%,0,0%,0,0%,False,False,20,23,Ben Tate
+2013,2013-10-06,5,5,25.046,HOU,SFO,True,7,28,4.00,0,2,2,12,6.00,0,100.0%,6.00,0,0,1,1,0,0,0,0,17,23%,0,0%,0,0%,True,False,3,34,Ben Tate
+2013,2013-10-13,6,6,25.053,HOU,STL,False,10,12,1.20,1,4,3,16,5.33,0,75.0%,4.00,1,6,0,0,0,0,0,0,20,26%,0,0%,0,0%,False,False,13,38,Ben Tate
+2013,2013-10-20,7,7,25.060,HOU,KAN,False,15,50,3.33,0,3,2,5,2.50,0,66.7%,1.67,0,0,0,0,0,0,0,0,42,75%,0,0%,0,0%,True,False,16,17,Ben Tate
+2013,2013-11-03,8,9,25.074,HOU,IND,False,22,81,3.68,0,2,1,-2,-2.00,0,50.0%,-1.00,0,0,0,0,0,0,0,0,48,71%,0,0%,0,0%,False,False,24,27,Ben Tate
+2013,2013-11-10,9,10,25.081,HOU,ARI,True,15,56,3.73,0,5,3,8,2.67,0,60.0%,1.60,0,0,0,0,0,0,0,0,53,78%,0,0%,0,0%,True,False,24,27,Ben Tate
+2013,2013-11-17,10,11,25.088,HOU,OAK,True,19,88,4.63,0,6,4,29,7.25,0,66.7%,4.83,0,0,1,0,0,1,0,0,68,93%,0,0%,0,0%,False,False,23,28,Ben Tate
+2013,2013-11-24,11,12,25.095,HOU,JAX,True,7,1,0.14,0,6,5,26,5.20,0,83.3%,4.33,0,0,0,0,0,0,0,0,24,42%,0,0%,0,0%,False,False,6,13,Ben Tate
+2013,2013-12-01,12,13,25.102,HOU,NWE,True,22,102,4.64,3,0,0,0,,0,0.0%,,3,18,0,0,0,0,0,0,49,82%,0,0%,0,0%,False,False,31,34,Ben Tate
+2013,2013-12-05,13,14,25.106,HOU,JAX,True,14,53,3.79,0,4,2,3,1.50,0,50.0%,0.75,0,0,0,0,0,0,0,0,43,52%,0,0%,0,0%,True,False,20,27,Ben Tate
+2013,2013-12-15,14,15,25.116,HOU,IND,True,16,72,4.50,0,6,3,20,6.67,0,50.0%,3.33,0,0,2,0,0,0,0,0,40,62%,0,0%,0,0%,True,False,3,25,Ben Tate
+2013,2013-12-22,15,16,,HOU,DEN,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,False,13,37,Ben Tate
+2013,2013-12-29,16,17,,HOU,TEN,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,False,10,16,Ben Tate
+2014,2014-09-07,1,1,26.017,CLE,PIT,True,6,41,6.83,0,0,0,0,,0,0.0%,,0,0,0,0,0,0,0,0,16,24%,0,0%,0,0%,True,False,27,30,Ben Tate
+2014,2014-09-14,2,2,,CLE,NOR,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,True,26,24,Ben Tate
+2014,2014-09-21,3,3,,CLE,BAL,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,False,21,23,Ben Tate
+2014,2014-10-05,4,5,26.045,CLE,TEN,True,22,124,5.64,0,2,1,-2,-2.00,0,50.0%,-1.00,0,0,0,0,0,0,0,0,51,66%,0,0%,0,0%,True,True,29,28,Ben Tate
+2014,2014-10-12,5,6,26.052,CLE,PIT,True,25,78,3.12,2,0,0,0,,0,0.0%,,2,12,0,0,0,0,0,0,42,71%,0,0%,0,0%,False,True,31,10,Ben Tate
+2014,2014-10-19,6,7,26.059,CLE,JAX,True,16,36,2.25,0,2,1,-2,-2.00,0,50.0%,-1.00,0,0,0,0,0,0,0,0,42,56%,0,0%,0,0%,True,False,6,24,Ben Tate
+2014,2014-10-26,7,8,26.066,CLE,OAK,True,15,26,1.73,1,1,1,8,8.00,0,100.0%,8.00,1,6,0,0,0,0,0,0,31,55%,0,0%,0,0%,False,True,23,13,Ben Tate
+2014,2014-11-02,8,9,26.073,CLE,TAM,True,10,3,0.30,0,4,4,29,7.25,0,100.0%,7.25,0,0,0,0,0,0,0,0,30,45%,0,0%,0,0%,False,True,22,17,Ben Tate
+2014,2014-11-06,9,10,26.077,CLE,CIN,False,10,34,3.40,1,2,2,27,13.50,0,100.0%,13.50,1,6,0,0,0,0,0,0,25,33%,0,0%,0,0%,True,True,24,3,Ben Tate
+2014,2014-11-16,10,11,26.087,CLE,HOU,False,2,-9,-4.50,0,1,0,0,,0,0.0%,0.00,0,0,0,0,0,0,0,0,16,21%,0,0%,0,0%,False,False,7,23,Ben Tate
+2014,2014-11-23,11,12,,MIN,GNB,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,False,21,24,Ben Tate
+2014,2014-11-30,12,13,26.101,MIN,CAR,False,5,15,3.00,0,0,0,0,,0,0.0%,,0,0,0,0,0,0,0,0,7,15%,0,0%,0,0%,False,True,31,13,Ben Tate
+2014,2014-12-07,13,14,26.108,MIN,NYJ,False,3,15,5.00,0,0,0,0,,0,0.0%,,0,0,0,0,0,0,0,0,10,17%,0,0%,0,0%,False,True,30,24,Ben Tate
+2014,2014-12-14,14,15,26.115,MIN,DET,False,5,8,1.60,0,0,0,0,,0,0.0%,,0,0,0,0,0,0,0,0,13,19%,0,0%,0,0%,True,False,14,16,Ben Tate
+2014,2014-12-21,15,16,,MIN,MIA,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,False,35,37,Ben Tate
+,51 Games,,,,,,False,540,2363,4.38,14,91,67,347,5.18,0,73.6%,3.81,14,84,10,6,0,1,0,0,,,,,,,False,False,25,0,Ben Tate

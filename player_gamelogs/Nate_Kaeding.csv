@@ -1,0 +1,148 @@
+Year,Date,G#,Week,Age,Tm,Opp,GS,Scoring_XPM,Scoring_XPA,Scoring_XP%,Scoring_FGM,Scoring_FGA,Scoring_FG%,Scoring_TD,Scoring_Pts,Sk,Tackles_Solo,Tackles_Ast,Tackles_Comb,Tackles_TFL,Tackles_QBHits,Punting_Pnt,Punting_Yds,Punting_Y/P,Punting_Blck,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Win,Score,Opp Score,Player
+2004,2004-09-12,1,1,22.170,SDG,HOU,False,3,3,100.0,2,2,100.0,0,9,0.0,,,,,,0,0,,0,,,,,,,True,True,27,20,Nate Kaeding
+2004,2004-09-19,2,2,22.177,SDG,NYJ,False,4,4,100.0,,,,0,4,0.0,,,,,,0,0,,,,,,,,,False,False,28,34,Nate Kaeding
+2004,2004-09-26,3,3,22.184,SDG,DEN,False,1,1,100.0,2,2,100.0,0,7,0.0,,,,,,0,0,,0,,,,,,,True,False,13,23,Nate Kaeding
+2004,2004-10-03,4,4,22.191,SDG,TEN,False,5,5,100.0,1,1,100.0,0,8,0.0,,,,,,0,0,,0,,,,,,,False,True,38,17,Nate Kaeding
+2004,2004-10-10,5,5,22.198,SDG,JAX,False,4,4,100.0,2,2,100.0,0,10,0.0,,,,,,0,0,,0,,,,,,,False,True,34,21,Nate Kaeding
+2004,2004-10-17,6,6,22.205,SDG,ATL,False,2,2,100.0,2,2,100.0,0,8,0.0,,,,,,0,0,,0,,,,,,,True,False,20,21,Nate Kaeding
+2004,2004-10-24,7,7,22.212,SDG,CAR,False,2,2,100.0,1,2,50.0,0,5,0.0,,,,,,0,0,,0,,,,,,,True,True,17,6,Nate Kaeding
+2004,2004-10-31,8,8,22.219,SDG,OAK,False,6,6,100.0,,,,0,6,0.0,,,,,,0,0,,,,,,,,,False,True,42,14,Nate Kaeding
+2004,2004-11-07,9,9,22.226,SDG,NOR,False,5,5,100.0,2,2,100.0,0,11,0.0,,,,,,0,0,,0,,,,,,,False,True,43,17,Nate Kaeding
+2004,2004-11-21,10,11,22.240,SDG,OAK,False,2,3,66.7,1,2,50.0,0,5,0.0,,,,,,0,0,,0,,,,,,,True,True,23,17,Nate Kaeding
+2004,2004-11-28,11,12,22.247,SDG,KAN,False,4,4,100.0,2,4,50.0,0,10,0.0,,,,,,0,0,,0,,,,,,,True,True,34,31,Nate Kaeding
+2004,2004-12-05,12,13,22.254,SDG,DEN,False,2,2,100.0,2,2,100.0,0,8,0.0,,,,,,0,0,,0,,,,,,,False,True,20,17,Nate Kaeding
+2004,2004-12-12,13,14,22.261,SDG,TAM,False,4,4,100.0,1,2,50.0,0,7,0.0,,,,,,0,0,,0,,,,,,,False,True,31,24,Nate Kaeding
+2004,2004-12-19,14,15,22.268,SDG,CLE,False,3,3,100.0,,,,0,3,0.0,,,,,,0,0,,,,,,,,,True,True,21,0,Nate Kaeding
+2004,2004-12-26,15,16,22.275,SDG,IND,False,4,4,100.0,1,1,100.0,0,7,0.0,1,0,1,0,,0,0,,0,,,,,,,True,False,31,34,Nate Kaeding
+2004,2005-01-02,16,17,22.282,SDG,KAN,False,3,3,100.0,1,1,100.0,0,6,0.0,1,0,1,0,,0,0,,0,,,,,,,False,True,24,17,Nate Kaeding
+2005,2005-09-11,1,1,23.169,SDG,DAL,False,3,3,100.0,1,1,100.0,0,6,0.0,,,,,,0,0,,0,,,,,,,False,False,24,28,Nate Kaeding
+2005,2005-09-18,2,2,23.176,SDG,DEN,False,2,2,100.0,1,1,100.0,0,5,0.0,,,,,,0,0,,0,,,,,,,True,False,17,20,Nate Kaeding
+2005,2005-09-25,3,3,23.183,SDG,NYG,False,6,6,100.0,1,1,100.0,0,9,0.0,,,,,,0,0,,0,,,,,,,False,True,45,23,Nate Kaeding
+2005,2005-10-02,4,4,23.190,SDG,NWE,False,5,5,100.0,2,2,100.0,0,11,0.0,,,,,,0,0,,0,,,,,,,True,True,41,17,Nate Kaeding
+2005,2005-10-10,5,5,23.198,SDG,PIT,False,1,1,100.0,3,3,100.0,0,10,0.0,,,,,,0,0,,0,,,,,,,False,False,22,24,Nate Kaeding
+2005,2005-10-16,6,6,23.204,SDG,OAK,False,3,3,100.0,2,2,100.0,0,9,0.0,,,,,,0,0,,0,,,,,,,True,True,27,14,Nate Kaeding
+2005,2005-10-23,7,7,23.211,SDG,PHI,False,2,2,100.0,1,2,50.0,0,5,0.0,,,,,,0,0,,0,,,,,,,True,False,17,20,Nate Kaeding
+2005,2005-10-30,8,8,23.218,SDG,KAN,False,4,4,100.0,,,,0,4,0.0,,,,,,0,0,,,,,,,,,False,True,28,20,Nate Kaeding
+2005,2005-11-06,9,9,23.225,SDG,NYJ,False,4,4,100.0,1,1,100.0,0,7,0.0,1,0,1,0,,0,0,,0,,,,,,,True,True,31,26,Nate Kaeding
+2005,2005-11-20,10,11,23.239,SDG,BUF,False,6,6,100.0,2,2,100.0,0,12,0.0,2,0,2,0,,0,0,,0,,,,,,,False,True,48,10,Nate Kaeding
+2005,2005-11-27,11,12,23.246,SDG,WAS,False,2,2,100.0,1,3,33.3,0,5,0.0,,,,,,0,0,,0,,,,,,,True,True,23,17,Nate Kaeding
+2005,2005-12-04,12,13,23.253,SDG,OAK,False,4,4,100.0,2,2,100.0,0,10,0.0,,,,,,0,0,,0,,,,,,,False,True,34,10,Nate Kaeding
+2005,2005-12-11,13,14,23.260,SDG,MIA,False,3,3,100.0,,,,0,3,0.0,,,,,,0,0,,,,,,,,,False,False,21,23,Nate Kaeding
+2005,2005-12-18,14,15,23.267,SDG,IND,False,2,2,100.0,4,4,100.0,0,14,0.0,,,,,,0,0,,0,,,,,,,True,True,26,17,Nate Kaeding
+2005,2005-12-24,15,16,23.273,SDG,KAN,False,1,1,100.0,,,,0,1,0.0,,,,,,0,0,,,,,,,,,True,False,7,20,Nate Kaeding
+2005,2005-12-31,16,17,23.280,SDG,DEN,False,1,1,100.0,,,,0,1,0.0,,,,,,0,0,,,,,,,,,False,False,7,23,Nate Kaeding
+2006,2006-09-11,1,1,24.169,SDG,OAK,False,3,3,100.0,2,2,100.0,0,9,0.0,,,,,,0,0,,0,,,,,,,True,True,27,0,Nate Kaeding
+2006,2006-09-17,2,2,24.175,SDG,TEN,False,4,4,100.0,4,4,100.0,0,16,0.0,,,,,,0,0,,0,,,,,,,False,True,40,7,Nate Kaeding
+2006,2006-10-01,3,4,24.189,SDG,BAL,False,1,1,100.0,2,3,66.7,0,7,0.0,,,,,,0,0,,0,,,,,,,True,False,13,16,Nate Kaeding
+2006,2006-10-08,4,5,24.196,SDG,PIT,False,2,2,100.0,3,3,100.0,0,11,0.0,,,,,,0,0,,0,,,,,,,False,True,23,13,Nate Kaeding
+2006,2006-10-15,5,6,24.203,SDG,SFO,False,6,6,100.0,2,2,100.0,0,12,0.0,,,,,,0,0,,0,,,,,,,True,True,48,19,Nate Kaeding
+2006,2006-10-22,6,7,24.210,SDG,KAN,False,3,3,100.0,2,3,66.7,0,9,0.0,,,,,,0,0,,0,,,,,,,True,False,27,30,Nate Kaeding
+2006,2006-10-29,7,8,24.217,SDG,STL,False,5,5,100.0,1,1,100.0,0,8,0.0,,,,,,0,0,,0,,,,,,,False,True,38,24,Nate Kaeding
+2006,2006-11-05,8,9,24.224,SDG,CLE,False,3,3,100.0,1,1,100.0,0,6,0.0,,,,,,0,0,,0,,,,,,,False,True,32,25,Nate Kaeding
+2006,2006-11-12,9,10,24.231,SDG,CIN,False,7,7,100.0,,,,0,7,0.0,1,0,1,0,0,0,0,,,,,,,,,True,True,49,41,Nate Kaeding
+2006,2006-11-19,10,11,24.238,SDG,DEN,False,5,5,100.0,,,,0,5,0.0,,,,,,0,0,,,,,,,,,True,True,35,27,Nate Kaeding
+2006,2006-11-26,11,12,24.245,SDG,OAK,False,3,3,100.0,,,,0,3,0.0,2,0,2,0,0,0,0,,,,,,,,,False,True,21,14,Nate Kaeding
+2006,2006-12-03,12,13,24.252,SDG,BUF,False,3,3,100.0,1,2,50.0,0,6,0.0,1,0,1,0,0,0,0,,0,,,,,,,True,True,24,21,Nate Kaeding
+2006,2006-12-10,13,14,24.259,SDG,DEN,False,6,6,100.0,2,2,100.0,0,12,0.0,,,,,,0,0,,0,,,,,,,False,True,48,20,Nate Kaeding
+2006,2006-12-17,14,15,24.266,SDG,KAN,False,2,2,100.0,2,2,100.0,0,8,0.0,1,0,1,0,0,0,0,,0,,,,,,,False,True,20,9,Nate Kaeding
+2006,2006-12-24,15,16,24.273,SDG,SEA,False,2,2,100.0,2,2,100.0,0,8,0.0,,,,,,0,0,,0,,,,,,,True,True,20,17,Nate Kaeding
+2006,2006-12-31,16,17,24.280,SDG,ARI,False,3,3,100.0,2,2,100.0,0,9,0.0,,,,,,0,0,,0,,,,,,,False,True,27,20,Nate Kaeding
+2007,2007-09-09,1,1,25.167,SDG,CHI,False,2,2,100.0,,1,0.0,0,2,0.0,1,0,1,0,0,0,0,,0,,,,,,,False,True,14,3,Nate Kaeding
+2007,2007-09-16,2,2,25.174,SDG,NWE,False,2,2,100.0,,,,0,2,0.0,,,,,,0,0,,,,,,,,,True,False,14,38,Nate Kaeding
+2007,2007-09-23,3,3,25.181,SDG,GNB,False,3,3,100.0,1,1,100.0,0,6,0.0,,,,,,0,0,,0,,,,,,,True,False,24,31,Nate Kaeding
+2007,2007-09-30,4,4,25.188,SDG,KAN,False,1,1,100.0,3,3,100.0,0,10,0.0,,,,,,0,0,,0,,,,,,,False,False,16,30,Nate Kaeding
+2007,2007-10-07,5,5,25.195,SDG,DEN,False,5,5,100.0,2,2,100.0,0,11,0.0,,,,,,0,0,,0,,,,,,,True,True,41,3,Nate Kaeding
+2007,2007-10-14,6,6,25.202,SDG,OAK,False,4,4,100.0,,1,0.0,0,4,0.0,,,,,,0,0,,0,,,,,,,False,True,28,14,Nate Kaeding
+2007,2007-10-28,7,8,25.216,SDG,HOU,False,5,5,100.0,,,,0,5,0.0,,,,,,0,0,,,,,,,,,False,True,35,10,Nate Kaeding
+2007,2007-11-04,8,9,25.223,SDG,MIN,False,2,2,100.0,1,1,100.0,0,5,0.0,,,,,,0,0,,0,,,,,,,True,False,17,35,Nate Kaeding
+2007,2007-11-11,9,10,25.230,SDG,IND,False,2,2,100.0,1,1,100.0,0,5,0.0,,,,,,0,0,,0,,,,,,,False,True,23,21,Nate Kaeding
+2007,2007-11-18,10,11,25.237,SDG,JAX,False,2,2,100.0,1,1,100.0,0,5,0.0,,,,,,0,0,,0,,,,,,,True,False,17,24,Nate Kaeding
+2007,2007-11-25,11,12,25.244,SDG,BAL,False,2,2,100.0,4,4,100.0,0,14,0.0,,,,,,0,0,,0,,,,,,,False,True,32,14,Nate Kaeding
+2007,2007-12-02,12,13,25.251,SDG,KAN,False,3,3,100.0,1,2,50.0,0,6,0.0,,,,,,0,0,,0,,,,,,,True,True,24,10,Nate Kaeding
+2007,2007-12-09,13,14,25.258,SDG,TEN,False,2,2,100.0,1,1,100.0,0,5,0.0,,,,,,0,0,,0,,,,,,,True,True,23,17,Nate Kaeding
+2007,2007-12-16,14,15,25.265,SDG,DET,False,6,6,100.0,3,3,100.0,0,15,0.0,,,,,,0,0,,0,,,,,,,False,True,51,14,Nate Kaeding
+2007,2007-12-24,15,16,25.273,SDG,DEN,False,2,2,100.0,3,3,100.0,0,11,0.0,,,,,,0,0,,0,,,,,,,False,True,23,3,Nate Kaeding
+2007,2007-12-30,16,17,25.279,SDG,OAK,False,3,3,100.0,3,3,100.0,0,12,0.0,,,,,,0,0,,0,,,,,,,True,True,30,17,Nate Kaeding
+2008,2008-09-07,1,1,26.165,SDG,CAR,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,,,0,0,,0,,,,,,,False,False,24,26,Nate Kaeding
+2008,2008-09-14,2,2,26.172,SDG,DEN,False,3,3,100.0,3,3,100.0,0,12,0.0,0,0,0,,,0,0,,0,,,,,,,True,False,38,39,Nate Kaeding
+2008,2008-09-22,3,3,26.180,SDG,NYJ,False,6,6,100.0,2,2,100.0,0,12,0.0,1,0,1,0,0,0,0,,0,,,,,,,False,True,48,29,Nate Kaeding
+2008,2008-09-28,4,4,26.186,SDG,OAK,False,2,2,100.0,2,4,50.0,0,8,0.0,0,0,0,,,0,0,,0,,,,,,,True,True,28,18,Nate Kaeding
+2008,2008-10-05,5,5,26.193,SDG,MIA,False,1,1,100.0,1,1,100.0,0,4,0.0,0,0,0,,,0,0,,0,,,,,,,True,False,10,17,Nate Kaeding
+2008,2008-10-12,6,6,26.200,SDG,NWE,False,3,3,100.0,3,4,75.0,0,12,0.0,0,0,0,,,0,0,,0,,,,,,,False,True,30,10,Nate Kaeding
+2008,2008-10-19,7,7,26.207,SDG,BUF,False,2,2,100.0,,,,0,2,0.0,0,0,0,,,0,0,,0,,,,,,,True,False,14,23,Nate Kaeding
+2008,2008-10-26,8,8,26.214,SDG,NOR,False,3,3,100.0,3,3,100.0,0,12,0.0,0,0,0,,,0,0,,0,,,,,,,True,False,32,37,Nate Kaeding
+2008,2008-11-09,9,10,26.228,SDG,KAN,False,2,2,100.0,2,2,100.0,0,8,0.0,0,0,0,,,0,0,,0,,,,,,,False,True,20,19,Nate Kaeding
+2008,2008-11-16,10,11,26.235,SDG,PIT,False,1,1,100.0,1,2,50.0,0,4,0.0,1,0,1,0,0,0,0,,0,,,,,,,True,False,10,11,Nate Kaeding
+2008,2008-11-23,11,12,26.242,SDG,IND,False,2,2,100.0,2,2,100.0,0,8,0.0,0,0,0,,,0,0,,0,,,,,,,False,False,20,23,Nate Kaeding
+2008,2008-11-30,12,13,26.249,SDG,ATL,False,1,1,100.0,1,2,50.0,0,4,0.0,0,0,0,,,0,0,,0,,,,,,,False,False,16,22,Nate Kaeding
+2008,2008-12-04,13,14,26.253,SDG,OAK,False,4,4,100.0,2,2,100.0,0,10,0.0,0,0,0,,,0,0,,0,,,,,,,False,True,34,7,Nate Kaeding
+2008,2008-12-14,14,15,26.263,SDG,KAN,False,1,1,100.0,1,1,100.0,0,4,0.0,0,0,0,,,0,0,,0,,,,,,,True,True,22,21,Nate Kaeding
+2008,2008-12-21,15,16,26.270,SDG,TAM,False,5,5,100.0,2,2,100.0,0,11,0.0,0,0,0,,,0,0,,0,,,,,,,True,True,41,24,Nate Kaeding
+2008,2008-12-28,16,17,26.277,SDG,DEN,False,7,7,100.0,1,1,100.0,0,10,0.0,0,0,0,,,0,0,,0,,,,,,,False,True,52,21,Nate Kaeding
+2009,2009-09-14,1,1,27.172,SDG,OAK,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,,,0,0,,0,,,,,,,True,True,24,20,Nate Kaeding
+2009,2009-09-20,2,2,27.178,SDG,BAL,False,2,2,100.0,4,4,100.0,0,14,0.0,0,0,0,,,0,0,,0,,,,,,,False,False,26,31,Nate Kaeding
+2009,2009-09-27,3,3,27.185,SDG,MIA,False,2,2,100.0,3,4,75.0,0,11,0.0,0,0,0,,,0,0,,0,,,,,,,False,True,23,13,Nate Kaeding
+2009,2009-10-04,4,4,27.192,SDG,PIT,False,4,4,100.0,,,,0,4,0.0,0,0,0,,,0,0,,0,,,,,,,True,False,28,38,Nate Kaeding
+2009,2009-10-19,5,6,27.207,SDG,DEN,False,2,2,100.0,3,4,75.0,0,11,0.0,0,0,0,,,0,0,,0,,,,,,,False,False,23,34,Nate Kaeding
+2009,2009-10-25,6,7,27.213,SDG,KAN,False,4,4,100.0,3,4,75.0,0,13,0.0,1,0,1,0,0,0,0,,0,,,,,,,True,True,37,7,Nate Kaeding
+2009,2009-11-01,7,8,27.220,SDG,OAK,False,3,3,100.0,1,1,100.0,0,6,0.0,1,0,1,0,0,0,0,,0,,,,,,,False,True,24,16,Nate Kaeding
+2009,2009-11-08,8,9,27.227,SDG,NYG,False,3,3,100.0,,,,0,3,0.0,0,0,0,,,0,0,,0,,,,,,,True,True,21,20,Nate Kaeding
+2009,2009-11-15,9,10,27.234,SDG,PHI,False,4,4,100.0,1,1,100.0,0,7,0.0,0,0,0,,,0,0,,0,,,,,,,False,True,31,23,Nate Kaeding
+2009,2009-11-22,10,11,27.241,SDG,DEN,False,2,3,66.7,4,4,100.0,0,14,0.0,0,0,0,,,0,0,,0,,,,,,,True,True,32,3,Nate Kaeding
+2009,2009-11-29,11,12,27.248,SDG,KAN,False,5,5,100.0,2,2,100.0,0,11,0.0,0,0,0,,,0,0,,0,,,,,,,False,True,43,14,Nate Kaeding
+2009,2009-12-06,12,13,27.255,SDG,CLE,False,3,3,100.0,3,3,100.0,0,12,0.0,0,0,0,,,0,0,,0,,,,,,,True,True,30,23,Nate Kaeding
+2009,2009-12-13,13,14,27.262,SDG,DAL,False,2,2,100.0,2,2,100.0,0,8,0.0,0,0,0,,,0,0,,0,,,,,,,True,True,20,17,Nate Kaeding
+2009,2009-12-20,14,15,27.269,SDG,CIN,False,3,3,100.0,2,2,100.0,0,9,0.0,0,0,0,,,0,0,,0,,,,,,,False,True,27,24,Nate Kaeding
+2009,2009-12-25,15,16,27.274,SDG,TEN,False,6,6,100.0,,,,0,6,0.0,0,0,0,,,0,0,,0,,,,,,,True,True,42,17,Nate Kaeding
+2009,2010-01-03,16,17,27.283,SDG,WAS,False,2,2,100.0,3,3,100.0,0,11,0.0,0,0,0,,,0,0,,0,,,,,,,False,True,23,20,Nate Kaeding
+2010,2010-09-13,1,1,28.171,SDG,KAN,False,2,2,100.0,,,,0,2,0.0,0,0,0,,,0,0,,0,,,,,,,True,False,14,21,Nate Kaeding
+2010,2010-09-19,2,2,28.177,SDG,JAX,False,5,5,100.0,1,1,100.0,0,8,0.0,0,0,0,,,0,0,,0,,,,,,,False,True,38,13,Nate Kaeding
+2010,2010-09-26,3,3,28.184,SDG,SEA,False,1,1,100.0,1,1,100.0,0,4,0.0,0,0,0,,,0,0,,0,,,,,,,True,False,20,27,Nate Kaeding
+2010,2010-10-03,4,4,28.191,SDG,ARI,False,5,5,100.0,2,3,66.7,0,11,0.0,0,0,0,,,0,0,,0,,,,,,,False,True,41,10,Nate Kaeding
+2010,2010-10-10,5,5,28.198,SDG,OAK,False,3,3,100.0,2,2,100.0,0,9,0.0,0,0,0,,,0,0,,0,,,,,,,True,False,27,35,Nate Kaeding
+2010,2010-10-17,6,6,28.205,SDG,STL,False,2,2,100.0,1,2,50.0,0,5,0.0,0,0,0,,,0,0,,0,,,,,,,True,False,17,20,Nate Kaeding
+2010,2010-10-24,7,7,,SDG,NWE,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,False,20,23,Nate Kaeding
+2010,2010-10-31,8,8,,SDG,TEN,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,True,33,25,Nate Kaeding
+2010,2010-11-07,9,9,,SDG,HOU,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,True,29,23,Nate Kaeding
+2010,2010-11-22,10,11,28.241,SDG,DEN,False,5,5,100.0,,1,0.0,0,5,0.0,0,0,0,,,0,0,,0,,,,,,,False,True,35,14,Nate Kaeding
+2010,2010-11-28,11,12,28.247,SDG,IND,False,3,3,100.0,5,5,100.0,0,18,0.0,0,0,0,,,0,0,,0,,,,,,,True,True,36,14,Nate Kaeding
+2010,2010-12-05,12,13,28.254,SDG,OAK,False,1,1,100.0,2,3,66.7,0,7,0.0,0,0,0,,,0,0,,0,,,,,,,False,False,13,28,Nate Kaeding
+2010,2010-12-12,13,14,28.261,SDG,KAN,False,4,4,100.0,1,1,100.0,0,7,0.0,0,0,0,,,0,0,,0,,,,,,,False,True,31,0,Nate Kaeding
+2010,2010-12-16,14,15,28.265,SDG,SFO,False,4,4,100.0,2,2,100.0,0,10,0.0,0,0,0,,,0,0,,0,,,,,,,False,True,34,7,Nate Kaeding
+2010,2010-12-26,15,16,28.275,SDG,CIN,False,2,2,100.0,2,2,100.0,0,8,0.0,0,0,0,,,0,0,,0,,,,,,,True,False,20,34,Nate Kaeding
+2010,2011-01-02,16,17,28.282,SDG,DEN,False,3,3,100.0,4,5,80.0,0,15,0.0,0,0,0,,,0,0,,0,,,,,,,True,True,33,28,Nate Kaeding
+2011,2011-09-11,1,1,29.169,SDG,MIN,False,,,,,,,0,0,0.0,,,,,,0,0,,,,,,,,,False,True,24,17,Nate Kaeding
+2011,2011-09-18,2,2,,SDG,NWE,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,False,21,35,Nate Kaeding
+2011,2011-09-25,3,3,,SDG,KAN,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,True,20,17,Nate Kaeding
+2011,2011-10-02,4,4,,SDG,MIA,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,True,26,16,Nate Kaeding
+2011,2011-10-09,5,5,,SDG,DEN,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,True,29,24,Nate Kaeding
+2011,2011-10-23,6,7,,SDG,NYJ,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,False,21,27,Nate Kaeding
+2011,2011-10-31,7,8,,SDG,KAN,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,False,20,23,Nate Kaeding
+2011,2011-11-06,8,9,,SDG,GNB,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,False,38,45,Nate Kaeding
+2011,2011-11-10,9,10,,SDG,OAK,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,False,17,24,Nate Kaeding
+2011,2011-11-20,10,11,,SDG,CHI,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,False,20,31,Nate Kaeding
+2011,2011-11-27,11,12,,SDG,DEN,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,False,13,16,Nate Kaeding
+2011,2011-12-05,12,13,,SDG,JAX,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,True,38,14,Nate Kaeding
+2011,2011-12-11,13,14,,SDG,BUF,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,True,37,10,Nate Kaeding
+2011,2011-12-18,14,15,,SDG,BAL,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,True,34,14,Nate Kaeding
+2011,2011-12-24,15,16,,SDG,DET,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,False,10,38,Nate Kaeding
+2011,2012-01-01,16,17,,SDG,OAK,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,True,38,26,Nate Kaeding
+2012,2012-09-10,1,1,30.168,SDG,OAK,False,1,1,100.0,5,5,100.0,0,16,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,13,48%,True,True,22,14,Nate Kaeding
+2012,2012-09-16,2,2,30.174,SDG,TEN,False,5,5,100.0,1,1,100.0,0,8,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,13,45%,False,True,38,10,Nate Kaeding
+2012,2012-09-23,3,3,30.181,SDG,ATL,False,,,,1,1,100.0,0,3,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,3,14%,False,False,3,27,Nate Kaeding
+2012,2012-09-30,4,4,,SDG,KAN,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,True,37,20,Nate Kaeding
+2012,2012-10-07,5,5,,SDG,NOR,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,False,24,31,Nate Kaeding
+2012,2012-10-15,6,6,,SDG,DEN,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,False,24,35,Nate Kaeding
+2012,2012-10-28,7,8,,SDG,CLE,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,False,6,7,Nate Kaeding
+2012,2012-11-01,8,9,,SDG,KAN,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,True,31,13,Nate Kaeding
+2012,2012-11-11,9,10,,SDG,TAM,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,False,24,34,Nate Kaeding
+2012,2012-11-18,10,11,,SDG,DEN,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,False,23,30,Nate Kaeding
+2012,2012-11-25,11,12,,SDG,BAL,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,False,13,16,Nate Kaeding
+2012,2012-12-02,12,13,,SDG,CIN,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,False,13,20,Nate Kaeding
+2012,2012-12-09,13,14,,SDG,PIT,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,True,34,24,Nate Kaeding
+2012,2012-12-16,14,15,,SDG,CAR,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,False,7,31,Nate Kaeding
+2012,2012-12-23,15,16,30.272,MIA,BUF,False,3,3,100.0,1,2,50.0,0,6,0.0,0,0,0,,,1,35,35.00,0,0,0%,0,0%,11,46%,False,True,24,10,Nate Kaeding
+2012,2012-12-23,15,16,,SDG,NYJ,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,True,27,17,Nate Kaeding
+2012,2012-12-30,16,17,30.279,MIA,NWE,False,,,,,1,0.0,0,0,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,2,10%,True,False,0,28,Nate Kaeding
+2012,2012-12-30,16,17,,SDG,OAK,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,True,24,21,Nate Kaeding
+,115 Games,,,,,,False,352,354,99.4,181,210,86.2,0,895,0.0,15,0,15,0,0,1,35,35.00,0,,,,,,,False,False,37,0,Nate Kaeding

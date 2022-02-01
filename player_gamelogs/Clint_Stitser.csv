@@ -1,0 +1,7 @@
+Year,Date,G#,Week,Age,Tm,Opp,GS,Scoring_XPM,Scoring_XPA,Scoring_XP%,Scoring_FGM,Scoring_FGA,Scoring_FG%,Scoring_TD,Scoring_Pts,Sk,Tackles_Solo,Tackles_Ast,Tackles_Comb,Tackles_TFL,Tackles_QBHits,Away_status,Win,Score,Opp Score,Player
+2010.0,2010-12-05,12.0,13.0,25.2,CIN,NOR,False,1,2,50.0,3.0,3.0,100.0,0,10,0.0,0,1,1,0.0,0.0,False,False,30,34,Clint Stitser
+2010.0,2010-12-12,13.0,14.0,25.207,CIN,PIT,False,1,1,100.0,,,,0,1,0.0,0,0,0,,,True,False,7,23,Clint Stitser
+2010.0,2010-12-19,14.0,15.0,25.214,CIN,CLE,False,1,1,100.0,4.0,4.0,100.0,0,13,0.0,0,0,0,,,False,True,19,17,Clint Stitser
+2010.0,2010-12-26,15.0,16.0,25.221,CIN,SDG,False,4,5,80.0,,,,0,4,0.0,1,0,1,0.0,0.0,False,True,34,20,Clint Stitser
+2010.0,2011-01-02,16.0,17.0,25.228,CIN,BAL,False,1,1,100.0,,1.0,0.0,0,1,0.0,0,0,0,0.0,0.0,True,False,7,13,Clint Stitser
+,5 Games,,,,,,False,8,10,80.0,7.0,8.0,87.5,0,29,0.0,1,1,2,0.0,0.0,False,False,3,0,Clint Stitser

@@ -1,0 +1,50 @@
+Year,Date,G#,Week,Age,Tm,Opp,GS,Scoring_XPM,Scoring_XPA,Scoring_XP%,Scoring_FGM,Scoring_FGA,Scoring_FG%,Scoring_TD,Scoring_Pts,Sk,Tackles_Solo,Tackles_Ast,Tackles_Comb,Tackles_TFL,Tackles_QBHits,Away_status,Win,Score,Opp Score,Player
+2009,2009-09-13,1,1,22.220,DAL,TAM,False,,,,,,,0,0,0.0,,,,,,True,True,34,21,David Buehler
+2009,2009-09-20,2,2,22.227,DAL,NYG,False,,,,,,,0,0,0.0,,,,,,False,False,31,33,David Buehler
+2009,2009-09-28,3,3,22.235,DAL,CAR,False,,,,,,,0,0,0.0,,,,,,False,True,21,7,David Buehler
+2009,2009-10-04,4,4,22.241,DAL,DEN,False,,,,,,,0,0,0.0,,,,,,True,False,10,17,David Buehler
+2009,2009-10-11,5,5,22.248,DAL,KAN,False,,,,,,,0,0,0.0,,,,,,True,True,26,20,David Buehler
+2009,2009-10-25,6,7,22.262,DAL,ATL,False,,,,,,,0,0,0.0,,,,,,False,True,37,21,David Buehler
+2009,2009-11-01,7,8,22.269,DAL,SEA,False,,,,,,,0,0,0.0,1,0,1,0,0,False,True,38,17,David Buehler
+2009,2009-11-08,8,9,22.276,DAL,PHI,False,,,,,,,0,0,0.0,2,0,2,0,0,True,True,20,16,David Buehler
+2009,2009-11-15,9,10,22.283,DAL,GNB,False,,,,,,,0,0,0.0,,,,,,True,False,7,17,David Buehler
+2009,2009-11-22,10,11,22.290,DAL,WAS,False,,,,,,,0,0,0.0,,,,,,False,True,7,6,David Buehler
+2009,2009-11-26,11,12,22.294,DAL,OAK,False,,,,,,,0,0,0.0,,,,,,False,True,24,7,David Buehler
+2009,2009-12-06,12,13,22.304,DAL,NYG,False,,,,,,,0,0,0.0,,,,,,True,False,24,31,David Buehler
+2009,2009-12-13,13,14,22.311,DAL,SDG,False,,,,,,,0,0,0.0,,,,,,False,False,17,20,David Buehler
+2009,2009-12-19,14,15,22.317,DAL,NOR,False,,,,,,,0,0,0.0,,,,,,True,True,24,17,David Buehler
+2009,2009-12-27,15,16,22.325,DAL,WAS,False,,,,,,,0,0,0.0,,,,,,True,True,17,0,David Buehler
+2009,2010-01-03,16,17,22.332,DAL,PHI,False,,,,,,,0,0,0.0,,,,,,False,True,24,0,David Buehler
+2010,2010-09-12,1,1,23.219,DAL,WAS,False,1,1,100.0,,1,0.0,0,1,0.0,2,0,2,0,0,True,False,7,13,David Buehler
+2010,2010-09-19,2,2,23.226,DAL,CHI,False,2,2,100.0,2,3,66.7,0,8,0.0,1,0,1,0,0,False,False,20,27,David Buehler
+2010,2010-09-26,3,3,23.233,DAL,HOU,False,3,3,100.0,2,2,100.0,0,9,0.0,0,0,0,0,0,True,True,27,13,David Buehler
+2010,2010-10-10,4,5,23.247,DAL,TEN,False,3,3,100.0,2,3,66.7,0,9,0.0,1,0,1,0,0,False,False,27,34,David Buehler
+2010,2010-10-17,5,6,23.254,DAL,MIN,False,3,3,100.0,,,,0,3,0.0,0,0,0,0,0,True,False,21,24,David Buehler
+2010,2010-10-25,6,7,23.262,DAL,NYG,False,3,3,100.0,2,2,100.0,0,9,0.0,1,0,1,0,0,False,False,35,41,David Buehler
+2010,2010-10-31,7,8,23.268,DAL,JAX,False,2,2,100.0,1,1,100.0,0,5,0.0,1,0,1,0,0,False,False,17,35,David Buehler
+2010,2010-11-07,8,9,23.275,DAL,GNB,False,1,1,100.0,,,,0,1,0.0,1,0,1,0,0,True,False,7,45,David Buehler
+2010,2010-11-14,9,10,23.282,DAL,NYG,False,3,4,75.0,2,3,66.7,0,9,0.0,0,0,0,0,0,True,True,33,20,David Buehler
+2010,2010-11-21,10,11,23.289,DAL,DET,False,5,5,100.0,,,,0,5,0.0,0,0,0,0,0,False,True,35,19,David Buehler
+2010,2010-11-25,11,12,23.293,DAL,NOR,False,3,3,100.0,2,3,66.7,0,9,0.0,0,0,0,,,False,False,27,30,David Buehler
+2010,2010-12-05,12,13,23.303,DAL,IND,False,3,3,100.0,3,4,75.0,0,12,0.0,1,0,1,0,0,True,True,38,35,David Buehler
+2010,2010-12-12,13,14,23.310,DAL,PHI,False,3,3,100.0,2,2,100.0,0,9,0.0,0,1,1,0,0,False,False,27,30,David Buehler
+2010,2010-12-19,14,15,23.317,DAL,WAS,False,3,3,100.0,4,5,80.0,0,15,0.0,0,1,1,0,0,False,True,33,30,David Buehler
+2010,2010-12-25,15,16,23.323,DAL,ARI,False,2,3,66.7,2,2,100.0,0,8,0.0,1,0,1,0,0,True,False,26,27,David Buehler
+2010,2011-01-02,16,17,23.331,DAL,PHI,False,2,2,100.0,,1,0.0,0,2,0.0,0,0,0,,,True,True,14,13,David Buehler
+2011,2011-09-11,1,1,24.218,DAL,NYJ,False,,,,,,,0,0,0.0,,,,,,True,False,24,27,David Buehler
+2011,2011-09-18,2,2,24.225,DAL,SFO,False,,,,,,,0,0,0.0,0,1,1,0,0,True,True,27,24,David Buehler
+2011,2011-09-26,3,3,,DAL,WAS,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,True,18,16,David Buehler
+2011,2011-10-02,4,4,,DAL,DET,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,False,30,34,David Buehler
+2011,2011-10-16,5,6,,DAL,NWE,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,False,16,20,David Buehler
+2011,2011-10-23,6,7,,DAL,STL,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,True,34,7,David Buehler
+2011,2011-10-30,7,8,24.267,DAL,PHI,False,,,,,,,0,0,0.0,,,,0,0,True,False,7,34,David Buehler
+2011,2011-11-06,8,9,24.274,DAL,SEA,False,,,,,,,0,0,0.0,1,0,1,0,0,False,True,23,13,David Buehler
+2011,2011-11-13,9,10,,DAL,BUF,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,True,44,7,David Buehler
+2011,2011-11-20,10,11,,DAL,WAS,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,True,27,24,David Buehler
+2011,2011-11-24,11,12,,DAL,MIA,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,True,20,19,David Buehler
+2011,2011-12-04,12,13,,DAL,ARI,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,False,13,19,David Buehler
+2011,2011-12-11,13,14,,DAL,NYG,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,False,34,37,David Buehler
+2011,2011-12-17,14,15,,DAL,TAM,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,True,31,15,David Buehler
+2011,2011-12-24,15,16,,DAL,PHI,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,False,7,20,David Buehler
+2011,2012-01-01,16,17,,DAL,NYG,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,False,14,31,David Buehler
+,36 Games,,,,,,False,42,44,95.5,24,32,75.0,0,114,0.0,13,3,16,0,0,False,False,17,0,David Buehler

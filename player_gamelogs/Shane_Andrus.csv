@@ -1,0 +1,8 @@
+Year,Date,G#,Week,Age,Tm,Opp,GS,Scoring_XPM,Scoring_XPA,Scoring_XP%,Scoring_FGM,Scoring_FGA,Scoring_FG%,Scoring_TD,Scoring_Pts,Away_status,Win,Score,Opp Score,Player
+2009,2009-09-13,1,1,28.346,IND,JAX,False,,,,,,,0,0,False,True,14,12,Shane Andrus
+2009,2009-10-11,5,5,29.009,TAM,PHI,False,2,2,100.0,,,,0,2,True,False,14,33,Shane Andrus
+2009,2009-10-18,6,6,29.016,TAM,CAR,False,3,3,100.0,,1,0.0,0,3,False,False,21,28,Shane Andrus
+2009,2009-10-25,7,7,29.023,TAM,NWE,False,1,1,100.0,,,,0,1,False,False,7,35,Shane Andrus
+2009,2010-01-03,16,17,29.093,SFO,STL,False,4,4,100.0,,,,0,4,True,True,28,6,Shane Andrus
+2010,2010-11-29,11,12,30.058,SFO,ARI,False,3,3,100.0,2,4,50.0,0,9,True,True,27,6,Shane Andrus
+,6 Games,,,,,,False,13,13,100.0,2,5,40.0,0,19,False,False,3,0,Shane Andrus

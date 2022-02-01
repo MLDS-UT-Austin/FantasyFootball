@@ -1,0 +1,91 @@
+Year,Date,G#,Week,Age,Tm,Opp,GS,Scoring_XPM,Scoring_XPA,Scoring_XP%,Scoring_FGM,Scoring_FGA,Scoring_FG%,Scoring_TD,Scoring_Pts,Sk,Tackles_Solo,Tackles_Ast,Tackles_Comb,Tackles_TFL,Tackles_QBHits,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Win,Score,Opp Score,Player
+2008,2008-11-09,9,10,22.177,NOR,ATL,False,2,2,100.0,2,2,100.0,0,8,0.0,1,0,1,0,0,,,,,,,True,False,20,34,Garrett Hartley
+2008,2008-11-16,10,11,22.184,NOR,KAN,False,3,3,100.0,3,3,100.0,0,12,0.0,0,0,0,,,,,,,,,True,True,30,20,Garrett Hartley
+2008,2008-11-24,11,12,22.192,NOR,GNB,False,6,6,100.0,1,1,100.0,0,9,0.0,0,0,0,,,,,,,,,False,True,51,29,Garrett Hartley
+2008,2008-11-30,12,13,22.198,NOR,TAM,False,2,2,100.0,2,2,100.0,0,8,0.0,0,0,0,,,,,,,,,True,False,20,23,Garrett Hartley
+2008,2008-12-07,13,14,22.205,NOR,ATL,False,2,2,100.0,3,3,100.0,0,11,0.0,0,0,0,,,,,,,,,False,True,29,25,Garrett Hartley
+2008,2008-12-11,14,15,22.209,NOR,CHI,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,,,,,,,,,True,False,24,27,Garrett Hartley
+2008,2008-12-21,15,16,22.219,NOR,DET,False,6,6,100.0,,,,0,6,0.0,0,0,0,,,,,,,,,True,True,42,7,Garrett Hartley
+2008,2008-12-28,16,17,22.226,NOR,CAR,False,4,4,100.0,1,1,100.0,0,7,0.0,0,0,0,,,,,,,,,False,False,31,33,Garrett Hartley
+2009,2009-09-13,1,1,,NOR,DET,True,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,False,True,45,27,Garrett Hartley
+2009,2009-09-20,2,2,,NOR,PHI,True,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,True,True,48,22,Garrett Hartley
+2009,2009-09-27,3,3,,NOR,BUF,True,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,True,True,27,7,Garrett Hartley
+2009,2009-10-04,4,4,,NOR,NYJ,True,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,Suspended,False,True,24,10,Garrett Hartley
+2009,2009-10-18,5,6,,NOR,NYG,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,True,48,27,Garrett Hartley
+2009,2009-10-25,6,7,,NOR,MIA,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,True,46,34,Garrett Hartley
+2009,2009-11-02,7,8,,NOR,ATL,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,True,35,27,Garrett Hartley
+2009,2009-11-08,8,9,,NOR,CAR,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,True,30,20,Garrett Hartley
+2009,2009-11-15,9,10,,NOR,STL,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,True,28,23,Garrett Hartley
+2009,2009-11-22,10,11,,NOR,TAM,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,True,38,7,Garrett Hartley
+2009,2009-11-30,11,12,,NOR,NWE,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,True,38,17,Garrett Hartley
+2009,2009-12-06,12,13,23.204,NOR,WAS,False,3,3,100.0,4,5,80.0,0,15,0.0,0,0,0,,,,,,,,,True,True,33,30,Garrett Hartley
+2009,2009-12-13,13,14,23.211,NOR,ATL,False,2,3,66.7,2,2,100.0,0,8,0.0,0,0,0,,,,,,,,,True,True,26,23,Garrett Hartley
+2009,2009-12-19,14,15,23.217,NOR,DAL,False,2,2,100.0,1,1,100.0,0,5,0.0,0,0,0,,,,,,,,,False,False,17,24,Garrett Hartley
+2009,2009-12-27,15,16,23.225,NOR,TAM,False,2,2,100.0,1,2,50.0,0,5,0.0,0,0,0,,,,,,,,,False,False,17,20,Garrett Hartley
+2009,2010-01-03,16,17,23.232,NOR,CAR,False,1,1,100.0,1,1,100.0,0,4,0.0,0,0,0,,,,,,,,,True,False,10,23,Garrett Hartley
+2010,2010-09-09,1,1,24.116,NOR,MIN,False,2,2,100.0,,2,0.0,0,2,0.0,0,0,0,,,,,,,,,False,True,14,9,Garrett Hartley
+2010,2010-09-20,2,2,24.127,NOR,SFO,False,2,2,100.0,3,3,100.0,0,11,0.0,0,0,0,,,,,,,,,True,True,25,22,Garrett Hartley
+2010,2010-09-26,3,3,24.133,NOR,ATL,False,3,3,100.0,1,2,50.0,0,6,0.0,0,0,0,,,,,,,,,False,False,24,27,Garrett Hartley
+2010,2010-10-03,4,4,,NOR,CAR,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,True,16,14,Garrett Hartley
+2010,2010-10-10,5,5,,NOR,ARI,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,False,20,30,Garrett Hartley
+2010,2010-10-17,6,6,24.154,NOR,TAM,False,4,4,100.0,1,2,50.0,0,7,0.0,0,0,0,,,,,,,,,True,True,31,6,Garrett Hartley
+2010,2010-10-24,7,7,24.161,NOR,CLE,False,2,2,100.0,1,1,100.0,0,5,0.0,0,0,0,,,,,,,,,False,False,17,30,Garrett Hartley
+2010,2010-10-31,8,8,24.168,NOR,PIT,False,2,2,100.0,2,2,100.0,0,8,0.0,1,0,1,0,0,,,,,,,False,True,20,10,Garrett Hartley
+2010,2010-11-07,9,9,24.175,NOR,CAR,False,4,4,100.0,2,2,100.0,0,10,0.0,0,0,0,,,,,,,,,True,True,34,3,Garrett Hartley
+2010,2010-11-21,10,11,24.189,NOR,SEA,False,4,4,100.0,,1,0.0,0,4,0.0,0,0,0,,,,,,,,,False,True,34,19,Garrett Hartley
+2010,2010-11-25,11,12,24.193,NOR,DAL,False,3,3,100.0,3,3,100.0,0,12,0.0,0,0,0,,,,,,,,,True,True,30,27,Garrett Hartley
+2010,2010-12-05,12,13,24.203,NOR,CIN,False,4,4,100.0,2,2,100.0,0,10,0.0,0,0,0,,,,,,,,,True,True,34,30,Garrett Hartley
+2010,2010-12-12,13,14,24.210,NOR,STL,False,4,4,100.0,1,1,100.0,0,7,0.0,0,0,0,,,,,,,,,False,True,31,13,Garrett Hartley
+2010,2010-12-19,14,15,24.217,NOR,BAL,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,,,,,,,,,True,False,24,30,Garrett Hartley
+2010,2010-12-27,15,16,24.225,NOR,ATL,False,2,2,100.0,1,1,100.0,0,5,0.0,0,0,0,,,,,,,,,True,True,17,14,Garrett Hartley
+2010,2011-01-02,16,17,24.231,NOR,TAM,False,1,1,100.0,2,2,100.0,0,7,0.0,0,0,0,0,0,,,,,,,False,False,13,23,Garrett Hartley
+2011,2011-09-08,1,1,,NOR,GNB,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,False,34,42,Garrett Hartley
+2011,2011-09-18,2,2,,NOR,CHI,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,True,30,13,Garrett Hartley
+2011,2011-09-25,3,3,,NOR,HOU,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,True,40,33,Garrett Hartley
+2011,2011-10-02,4,4,,NOR,JAX,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,True,23,10,Garrett Hartley
+2011,2011-10-09,5,5,,NOR,CAR,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,True,30,27,Garrett Hartley
+2011,2011-10-16,6,6,,NOR,TAM,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,False,20,26,Garrett Hartley
+2011,2011-10-23,7,7,,NOR,IND,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,True,62,7,Garrett Hartley
+2011,2011-10-30,8,8,,NOR,STL,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,False,21,31,Garrett Hartley
+2011,2011-11-06,9,9,,NOR,TAM,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,True,27,16,Garrett Hartley
+2011,2011-11-13,10,10,,NOR,ATL,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,True,26,23,Garrett Hartley
+2011,2011-11-28,11,12,,NOR,NYG,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,True,49,24,Garrett Hartley
+2011,2011-12-04,12,13,,NOR,DET,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,True,31,17,Garrett Hartley
+2011,2011-12-11,13,14,,NOR,TEN,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,True,22,17,Garrett Hartley
+2011,2011-12-18,14,15,,NOR,MIN,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,True,42,20,Garrett Hartley
+2011,2011-12-26,15,16,,NOR,ATL,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,True,45,16,Garrett Hartley
+2011,2012-01-01,16,17,,NOR,CAR,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,True,45,17,Garrett Hartley
+2012,2012-09-09,1,1,26.116,NOR,WAS,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,,,0,0%,0,0%,4,10%,False,False,32,40,Garrett Hartley
+2012,2012-09-16,2,2,26.123,NOR,CAR,False,3,3,100.0,2,2,100.0,0,9,0.0,0,0,0,,,0,0%,0,0%,6,20%,True,False,27,35,Garrett Hartley
+2012,2012-09-23,3,3,26.130,NOR,KAN,False,3,3,100.0,1,2,50.0,0,6,0.0,0,0,0,,,0,0%,0,0%,5,14%,False,False,24,27,Garrett Hartley
+2012,2012-09-30,4,4,26.137,NOR,GNB,False,3,3,100.0,2,3,66.7,0,9,0.0,0,0,0,,,0,0%,0,0%,9,29%,True,False,27,28,Garrett Hartley
+2012,2012-10-07,5,5,26.144,NOR,SDG,False,4,4,100.0,1,1,100.0,0,7,0.0,0,0,0,,,0,0%,0,0%,5,17%,False,True,31,24,Garrett Hartley
+2012,2012-10-21,6,7,26.158,NOR,TAM,False,5,5,100.0,,,,0,5,0.0,0,0,0,,,0,0%,0,0%,5,17%,True,True,35,28,Garrett Hartley
+2012,2012-10-28,7,8,26.165,NOR,DEN,False,2,2,100.0,,,,0,2,0.0,0,0,0,,,0,0%,0,0%,3,10%,True,False,14,34,Garrett Hartley
+2012,2012-11-05,8,9,26.173,NOR,PHI,False,4,4,100.0,,1,0.0,0,4,0.0,0,0,0,,,0,0%,0,0%,5,21%,False,True,28,13,Garrett Hartley
+2012,2012-11-11,9,10,26.179,NOR,ATL,False,4,4,100.0,1,1,100.0,0,7,0.0,0,0,0,,,0,0%,0,0%,5,17%,False,True,31,27,Garrett Hartley
+2012,2012-11-18,10,11,26.186,NOR,OAK,False,5,5,100.0,1,1,100.0,0,8,0.0,0,0,0,,,0,0%,0,0%,6,21%,True,True,38,17,Garrett Hartley
+2012,2012-11-25,11,12,26.193,NOR,SFO,False,3,3,100.0,,,,0,3,0.0,0,0,0,,,0,0%,0,0%,3,10%,False,False,21,31,Garrett Hartley
+2012,2012-11-29,12,13,26.197,NOR,ATL,False,1,1,100.0,2,2,100.0,0,7,0.0,0,0,0,,,0,0%,0,0%,3,11%,True,False,13,23,Garrett Hartley
+2012,2012-12-09,13,14,26.207,NOR,NYG,False,3,3,100.0,2,2,100.0,0,9,0.0,0,0,0,,,0,0%,0,0%,5,14%,True,False,27,52,Garrett Hartley
+2012,2012-12-16,14,15,26.214,NOR,TAM,False,5,5,100.0,2,2,100.0,0,11,0.0,0,0,0,,,0,0%,0,0%,7,27%,False,True,41,0,Garrett Hartley
+2012,2012-12-23,15,16,26.221,NOR,DAL,False,4,4,100.0,2,3,66.7,0,10,0.0,0,0,0,,,0,0%,0,0%,7,20%,True,True,34,31,Garrett Hartley
+2012,2012-12-30,16,17,26.228,NOR,CAR,False,5,5,100.0,1,1,100.0,0,8,0.0,0,0,0,,,0,0%,0,0%,6,16%,False,False,38,44,Garrett Hartley
+2013,2013-09-08,1,1,27.115,NOR,ATL,False,2,2,100.0,3,3,100.0,0,11,0.0,0,0,0,,,0,0%,0,0%,5,19%,False,True,23,17,Garrett Hartley
+2013,2013-09-15,2,2,27.122,NOR,TAM,False,1,1,100.0,3,4,75.0,0,10,0.0,0,0,0,,,0,0%,0,0%,6,23%,True,True,16,14,Garrett Hartley
+2013,2013-09-22,3,3,27.129,NOR,ARI,False,4,4,100.0,1,1,100.0,0,7,0.0,0,0,0,,,0,0%,0,0%,5,19%,False,True,31,7,Garrett Hartley
+2013,2013-09-30,4,4,27.137,NOR,MIA,False,5,5,100.0,1,2,50.0,0,8,0.0,0,0,0,,,0,0%,0,0%,7,25%,False,True,38,17,Garrett Hartley
+2013,2013-10-06,5,5,27.143,NOR,CHI,False,2,2,100.0,4,4,100.0,0,14,0.0,0,0,0,,,0,0%,0,0%,6,22%,True,True,26,18,Garrett Hartley
+2013,2013-10-13,6,6,27.150,NOR,NWE,False,3,3,100.0,2,2,100.0,0,9,0.0,0,0,0,,,0,0%,0,0%,5,15%,True,False,27,30,Garrett Hartley
+2013,2013-10-27,7,8,27.164,NOR,BUF,False,5,5,100.0,,2,0.0,0,5,0.0,0,0,0,,,0,0%,0,0%,7,25%,False,True,35,17,Garrett Hartley
+2013,2013-11-03,8,9,27.171,NOR,NYJ,False,2,2,100.0,2,3,66.7,0,8,0.0,0,0,0,,,0,0%,0,0%,5,16%,True,False,20,26,Garrett Hartley
+2013,2013-11-10,9,10,27.178,NOR,DAL,False,7,7,100.0,,1,0.0,0,7,0.0,0,0,0,,,0,0%,0,0%,8,25%,False,True,49,17,Garrett Hartley
+2013,2013-11-17,10,11,27.185,NOR,SFO,False,2,2,100.0,3,3,100.0,0,11,0.0,0,0,0,,,0,0%,0,0%,5,17%,False,True,23,20,Garrett Hartley
+2013,2013-11-21,11,12,27.189,NOR,ATL,False,2,2,100.0,1,1,100.0,0,5,0.0,0,0,0,,,0,0%,0,0%,3,14%,True,True,17,13,Garrett Hartley
+2013,2013-12-02,12,13,27.200,NOR,SEA,False,1,1,100.0,,,,0,1,0.0,0,0,0,,,0,0%,0,0%,1,4%,True,False,7,34,Garrett Hartley
+2013,2013-12-08,13,14,27.206,NOR,CAR,False,4,4,100.0,1,1,100.0,0,7,0.0,0,0,0,,,0,0%,0,0%,5,18%,False,True,31,13,Garrett Hartley
+2013,2013-12-15,14,15,27.213,NOR,STL,False,1,1,100.0,1,3,33.3,0,4,0.0,0,0,0,,,0,0%,0,0%,5,19%,True,False,16,27,Garrett Hartley
+2014,2014-12-14,14,15,,CLE,CIN,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,False,0,30,Garrett Hartley
+2014,2014-12-21,15,16,28.219,CLE,CAR,False,1,1,100.0,2,2,100.0,0,7,0.0,0,0,0,,,0,0%,0,0%,3,12%,True,False,13,17,Garrett Hartley
+2014,2014-12-28,16,17,28.226,CLE,BAL,False,1,1,100.0,1,1,100.0,0,4,0.0,0,0,0,,,0,0%,0,0%,4,15%,True,False,10,20,Garrett Hartley
+,59 Games,,,,,,False,178,179,99.4,85,104,81.7,0,433,0.0,2,0,2,0,0,,,,,,,False,False,26,0,Garrett Hartley

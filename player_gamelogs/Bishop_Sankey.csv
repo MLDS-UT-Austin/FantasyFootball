@@ -1,0 +1,37 @@
+Year,Date,G#,Week,Age,Tm,Opp,GS,Rushing_Att,Rushing_Yds,Rushing_Y/A,Rushing_TD,Receiving_Tgt,Receiving_Rec,Receiving_Yds,Receiving_Y/R,Receiving_TD,Receiving_Ctch%,Receiving_Y/Tgt,Kick Returns_Rt,Kick Returns_Yds,Kick Returns_Y/Rt,Kick Returns_TD,Scoring_TD,Scoring_Pts,Fumbles_Fmb,Fumbles_FL,Fumbles_FF,Fumbles_FR,Fumbles_Yds,Fumbles_TD,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Win,Score,Opp Score,Player
+2014,2014-09-07,1,1,21.357,TEN,KAN,False,6,25,4.17,0,0,0,0,,0,0.0%,,0,0,,0,0,0,0,0,0,0,0,0,10,13%,0,0%,0,0%,True,True,26,10,Bishop Sankey
+2014,2014-09-14,2,2,21.364,TEN,DAL,False,2,3,1.50,0,0,0,0,,0,0.0%,,0,0,,0,0,0,0,0,0,0,0,0,4,8%,0,0%,0,0%,False,False,10,26,Bishop Sankey
+2014,2014-09-21,3,3,22.006,TEN,CIN,False,10,61,6.10,0,1,1,9,9.00,0,100.0%,9.00,0,0,,0,0,0,0,0,0,0,0,0,29,42%,0,0%,0,0%,True,False,7,33,Bishop Sankey
+2014,2014-09-28,4,4,22.013,TEN,IND,False,6,34,5.67,1,2,2,23,11.50,0,100.0%,11.50,0,0,,0,1,6,0,0,0,0,0,0,22,46%,0,0%,0,0%,True,False,17,41,Bishop Sankey
+2014,2014-10-05,5,5,22.020,TEN,CLE,False,8,27,3.38,0,1,0,0,,0,0.0%,0.00,0,0,,0,0,0,0,0,0,0,0,0,22,32%,0,0%,0,0%,False,False,28,29,Bishop Sankey
+2014,2014-10-12,6,6,22.027,TEN,JAX,True,18,61,3.39,0,1,1,7,7.00,0,100.0%,7.00,0,0,,0,0,0,0,0,0,0,0,0,29,50%,0,0%,0,0%,False,True,16,14,Bishop Sankey
+2014,2014-10-19,7,7,22.034,TEN,WAS,False,16,56,3.50,0,1,0,0,,0,0.0%,0.00,0,0,,0,0,0,0,0,0,0,0,0,35,62%,0,0%,0,0%,True,False,17,19,Bishop Sankey
+2014,2014-10-26,8,8,22.041,TEN,HOU,False,9,35,3.89,0,4,4,25,6.25,0,100.0%,6.25,0,0,,0,0,0,0,0,0,0,0,0,33,54%,0,0%,0,0%,False,False,16,30,Bishop Sankey
+2014,2014-11-09,9,10,22.055,TEN,BAL,True,16,55,3.44,0,3,3,19,6.33,0,100.0%,6.33,0,0,,0,0,0,0,0,0,0,0,0,32,58%,0,0%,0,0%,True,False,7,21,Bishop Sankey
+2014,2014-11-17,10,11,22.063,TEN,PIT,True,11,38,3.45,1,1,1,7,7.00,0,100.0%,7.00,3,82,27.33,0,1,6,0,0,0,0,0,0,23,58%,0,0%,6,23%,False,False,24,27,Bishop Sankey
+2014,2014-11-23,11,12,22.069,TEN,PHI,True,10,37,3.70,0,2,2,14,7.00,0,100.0%,7.00,2,45,22.50,0,0,0,1,1,0,0,0,0,22,32%,0,0%,4,11%,True,False,24,43,Bishop Sankey
+2014,2014-11-30,12,13,22.076,TEN,HOU,True,10,42,4.20,0,0,0,0,,0,0.0%,,2,71,35.50,0,0,0,0,0,0,0,0,0,21,34%,0,0%,8,26%,True,False,21,45,Bishop Sankey
+2014,2014-12-07,13,14,22.083,TEN,NYG,True,9,25,2.78,0,3,2,2,1.00,0,66.7%,0.67,0,0,,0,0,0,0,0,0,0,0,0,24,41%,0,0%,0,0%,False,False,7,36,Bishop Sankey
+2014,2014-12-14,14,15,22.090,TEN,NYJ,True,3,8,2.67,0,1,1,18,18.00,0,100.0%,18.00,0,0,,0,0,0,0,0,0,0,0,0,12,18%,0,0%,0,0%,False,False,11,16,Bishop Sankey
+2014,2014-12-18,15,16,22.094,TEN,JAX,True,14,44,3.14,0,2,1,9,9.00,0,50.0%,4.50,0,0,,0,0,0,0,0,0,0,0,0,23,34%,0,0%,0,0%,True,False,13,21,Bishop Sankey
+2014,2014-12-28,16,17,22.104,TEN,IND,True,4,18,4.50,0,1,0,0,,0,0.0%,0.00,0,0,,0,0,0,1,1,0,0,0,0,13,22%,0,0%,0,0%,False,False,10,27,Bishop Sankey
+2015,2015-09-13,1,1,22.363,TEN,TAM,True,12,74,6.17,1,3,2,12,6.00,1,66.7%,4.00,1,17,17.00,0,2,12,1,0,0,0,0,0,22,39%,0,0%,2,8%,True,True,42,14,Bishop Sankey
+2015,2015-09-20,2,2,23.005,TEN,CLE,True,12,42,3.50,0,2,0,0,,0,0.0%,0.00,0,0,,0,0,0,0,0,0,0,0,0,32,40%,0,0%,5,19%,True,False,14,28,Bishop Sankey
+2015,2015-09-27,3,3,23.012,TEN,IND,False,5,10,2.00,0,2,2,31,15.50,0,100.0%,15.50,0,0,,0,0,0,0,0,0,0,0,0,19,23%,0,0%,5,15%,False,False,33,35,Bishop Sankey
+2015,2015-10-11,4,5,23.026,TEN,BUF,True,7,20,2.86,0,3,3,23,7.67,0,100.0%,7.67,2,33,16.50,0,0,0,0,0,0,0,0,0,23,33%,0,0%,3,12%,False,False,13,14,Bishop Sankey
+2015,2015-10-18,5,6,23.033,TEN,MIA,False,3,13,4.33,0,3,1,7,7.00,0,33.3%,2.33,3,79,26.33,0,0,0,0,0,0,0,0,0,18,26%,0,0%,7,29%,False,False,10,38,Bishop Sankey
+2015,2015-10-25,6,7,23.040,TEN,ATL,False,0,0,,0,1,0,0,,0,0.0%,0.00,1,27,27.00,0,0,0,0,0,0,0,0,0,2,4%,0,0%,3,14%,False,False,7,10,Bishop Sankey
+2015,2015-11-01,7,8,23.047,TEN,HOU,False,0,0,,0,0,0,0,,0,0.0%,,2,36,18.00,0,0,0,1,1,0,0,0,0,0,0%,0,0%,2,7%,True,False,6,20,Bishop Sankey
+2015,2015-11-08,8,9,,TEN,NOR,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,True,34,28,Bishop Sankey
+2015,2015-11-15,9,10,23.061,TEN,CAR,False,2,7,3.50,0,0,0,0,,0,0.0%,,0,0,,0,0,0,0,0,0,0,0,0,3,7%,0,0%,0,0%,False,False,10,27,Bishop Sankey
+2015,2015-11-19,10,11,,TEN,JAX,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,False,13,19,Bishop Sankey
+2015,2015-11-29,11,12,23.075,TEN,OAK,False,0,0,,0,0,0,0,,0,0.0%,,0,0,,0,0,0,0,0,0,0,0,0,1,2%,0,0%,0,0%,False,False,21,24,Bishop Sankey
+2015,2015-12-06,12,13,23.082,TEN,JAX,False,0,0,,0,1,0,0,,0,0.0%,0.00,0,0,,0,0,0,0,0,0,0,0,0,3,4%,0,0%,0,0%,False,True,42,39,Bishop Sankey
+2015,2015-12-13,13,14,,TEN,NYJ,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,False,8,30,Bishop Sankey
+2015,2015-12-20,14,15,23.096,TEN,NWE,False,0,0,,0,3,3,23,7.67,0,100.0%,7.67,0,0,,0,0,0,0,0,0,0,0,0,16,26%,0,0%,0,0%,True,False,16,33,Bishop Sankey
+2015,2015-12-27,15,16,23.103,TEN,HOU,False,2,11,5.50,0,4,3,43,14.33,0,75.0%,10.75,0,0,,0,0,0,0,0,0,0,0,0,30,45%,0,0%,0,0%,False,False,6,34,Bishop Sankey
+2015,2016-01-03,16,17,23.110,TEN,IND,False,4,16,4.00,0,0,0,0,,0,0.0%,,0,0,,0,0,0,0,0,0,0,0,0,9,16%,0,0%,0,0%,True,False,24,30,Bishop Sankey
+2016,2016-11-06,8,9,,KAN,JAX,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,True,19,14,Bishop Sankey
+2016,2016-11-13,9,10,,KAN,CAR,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,True,20,17,Bishop Sankey
+2016,2016-11-20,10,11,,KAN,TAM,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,False,17,19,Bishop Sankey
+,29 Games,,,,,,False,199,762,3.83,3,45,32,272,8.50,1,71.1%,6.04,16,390,24.38,0,4,24,4,3,0,0,0,0,,,,,,,False,False,25,0,Bishop Sankey

@@ -1,0 +1,139 @@
+Year,Date,G#,Week,Age,Tm,Opp,GS,Receiving_Tgt,Receiving_Rec,Receiving_Yds,Receiving_Y/R,Receiving_TD,Receiving_Ctch%,Receiving_Y/Tgt,Rushing_Att,Rushing_Yds,Rushing_Y/A,Rushing_TD,Scoring_2PM,Scoring_TD,Scoring_Pts,Sk,Tackles_Solo,Tackles_Ast,Tackles_Comb,Tackles_TFL,Tackles_QBHits,Fumbles_Fmb,Fumbles_FL,Fumbles_FF,Fumbles_FR,Fumbles_Yds,Fumbles_TD,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Win,Score,Opp Score,Player
+2004,2004-09-12,1,1,22.063,WAS,TAM,True,2,1,16,16.00,0,50.0%,8.00,0,0,,0,,0,0,0.0,,,,,,0,,0,0,0,0,,,,,,,False,True,16,10,Chris Cooley
+2004,2004-09-19,2,2,22.070,WAS,NYG,True,4,3,14,4.67,1,75.0%,3.50,0,0,,0,,1,6,0.0,1,0,1,0,,0,,1,0,0,0,,,,,,,True,False,14,20,Chris Cooley
+2004,2004-09-27,3,3,22.078,WAS,DAL,False,3,2,22,11.00,0,66.7%,7.33,0,0,,0,,0,0,0.0,,,,,,0,,0,0,0,0,,,,,,,False,False,18,21,Chris Cooley
+2004,2004-10-03,4,4,22.084,WAS,CLE,True,4,0,0,,0,0.0%,0.00,,,,,,0,0,0.0,,,,,,0,,,0,0,0,,,,,,,True,False,13,17,Chris Cooley
+2004,2004-10-10,5,5,22.091,WAS,BAL,False,4,2,12,6.00,1,50.0%,3.00,0,0,,0,,1,6,0.0,,,,,,0,,0,0,0,0,,,,,,,False,False,10,17,Chris Cooley
+2004,2004-10-17,6,6,22.098,WAS,CHI,True,1,0,0,,0,0.0%,0.00,,,,,,0,0,0.0,,,,,,0,,,0,0,0,,,,,,,True,True,13,10,Chris Cooley
+2004,2004-10-31,7,8,22.112,WAS,GNB,False,3,2,23,11.50,0,66.7%,7.67,0,0,,0,,0,0,0.0,,,,,,0,,0,0,0,0,,,,,,,False,False,14,28,Chris Cooley
+2004,2004-11-07,8,9,22.119,WAS,DET,True,1,0,0,,0,0.0%,0.00,,,,,,0,0,0.0,,,,,,0,,,0,0,0,,,,,,,True,True,17,10,Chris Cooley
+2004,2004-11-14,9,10,22.126,WAS,CIN,False,3,1,9,9.00,1,33.3%,3.00,0,0,,0,,1,6,0.0,1,0,1,0,,0,,0,0,0,0,,,,,,,False,False,10,17,Chris Cooley
+2004,2004-11-21,10,11,22.133,WAS,PHI,True,3,2,22,11.00,0,66.7%,7.33,0,0,,0,,0,0,0.0,,,,,,0,,0,0,0,0,,,,,,,True,False,6,28,Chris Cooley
+2004,2004-11-28,11,12,22.140,WAS,PIT,True,10,7,31,4.43,1,70.0%,3.10,0,0,,0,,1,6,0.0,,,,,,0,,0,0,0,0,,,,,,,True,False,7,16,Chris Cooley
+2004,2004-12-05,12,13,22.147,WAS,NYG,True,3,3,21,7.00,1,100.0%,7.00,0,0,,0,,1,6,0.0,,,,,,0,,0,0,0,0,,,,,,,False,True,31,7,Chris Cooley
+2004,2004-12-12,13,14,22.154,WAS,PHI,False,9,5,75,15.00,0,55.6%,8.33,0,0,,0,,0,0,0.0,,,,,,0,,0,0,0,0,,,,,,,False,False,14,17,Chris Cooley
+2004,2004-12-18,14,15,22.160,WAS,SFO,False,3,3,21,7.00,0,100.0%,7.00,0,0,,0,,0,0,0.0,,,,,,0,,0,0,0,0,,,,,,,True,True,26,16,Chris Cooley
+2004,2004-12-26,15,16,22.168,WAS,DAL,True,5,3,24,8.00,0,60.0%,4.80,0,0,,0,,0,0,0.0,,,,,,0,,0,0,0,0,,,,,,,True,False,10,13,Chris Cooley
+2004,2005-01-02,16,17,22.175,WAS,MIN,False,5,3,24,8.00,1,60.0%,4.80,0,0,,0,,1,6,0.0,,,,,,0,,0,0,0,0,,,,,,,False,True,21,18,Chris Cooley
+2005,2005-09-11,1,1,23.062,WAS,CHI,True,6,3,34,11.33,0,50.0%,5.67,0,0,,0,,0,0,0.0,,,,,,0,,0,0,0,0,,,,,,,False,True,9,7,Chris Cooley
+2005,2005-09-19,2,2,23.070,WAS,DAL,True,3,2,20,10.00,0,66.7%,6.67,0,0,,0,,0,0,0.0,0,0,0,0,,0,,0,0,0,0,,,,,,,True,True,14,13,Chris Cooley
+2005,2005-10-02,3,4,23.083,WAS,SEA,True,6,4,61,15.25,0,66.7%,10.17,0,0,,0,,0,0,0.0,,,,,,0,,0,0,0,0,,,,,,,False,True,20,17,Chris Cooley
+2005,2005-10-09,4,5,23.090,WAS,DEN,True,12,8,82,10.25,1,66.7%,6.83,0,0,,0,,1,6,0.0,,,,,,0,,0,0,0,0,,,,,,,True,False,19,21,Chris Cooley
+2005,2005-10-16,5,6,23.097,WAS,KAN,True,8,6,54,9.00,1,75.0%,6.75,0,0,,0,,1,6,0.0,,,,,,0,,0,0,0,0,,,,,,,True,False,21,28,Chris Cooley
+2005,2005-10-23,6,7,23.104,WAS,SFO,True,4,2,48,24.00,0,50.0%,12.00,0,0,,0,,0,0,0.0,,,,,,0,,0,0,0,0,,,,,,,False,True,52,17,Chris Cooley
+2005,2005-10-30,7,8,23.111,WAS,NYG,True,4,3,19,6.33,0,75.0%,4.75,0,0,,0,,0,0,0.0,,,,,,1,1,0,0,0,0,,,,,,,True,False,0,36,Chris Cooley
+2005,2005-11-06,8,9,23.118,WAS,PHI,True,8,7,85,12.14,0,87.5%,10.63,0,0,,0,,0,0,0.0,,,,,,1,0,0,0,0,0,,,,,,,False,True,17,10,Chris Cooley
+2005,2005-11-13,9,10,23.125,WAS,TAM,True,6,6,66,11.00,0,100.0%,11.00,0,0,,0,,0,0,0.0,0,0,0,0,,0,,0,0,0,0,,,,,,,True,False,35,36,Chris Cooley
+2005,2005-11-20,10,11,23.132,WAS,OAK,True,8,5,74,14.80,0,62.5%,9.25,0,0,,0,,0,0,0.0,,,,,,0,,0,0,0,0,,,,,,,False,False,13,16,Chris Cooley
+2005,2005-11-27,11,12,23.139,WAS,SDG,True,5,3,28,9.33,0,60.0%,5.60,0,0,,0,,0,0,0.0,,,,,,0,,0,0,0,0,,,,,,,False,False,17,23,Chris Cooley
+2005,2005-12-04,12,13,23.146,WAS,STL,True,5,5,58,11.60,1,100.0%,11.60,0,0,,0,,1,6,0.0,,,,,,0,,0,0,0,0,,,,,,,True,True,24,9,Chris Cooley
+2005,2005-12-11,13,14,23.153,WAS,ARI,True,7,4,25,6.25,0,57.1%,3.57,0,0,,0,,0,0,0.0,,,,,,1,0,0,0,0,0,,,,,,,True,True,17,13,Chris Cooley
+2005,2005-12-18,14,15,23.160,WAS,DAL,True,7,6,71,11.83,3,85.7%,10.14,0,0,,0,,3,18,0.0,,,,,,0,,0,0,0,0,,,,,,,False,True,35,7,Chris Cooley
+2005,2005-12-24,15,16,23.166,WAS,NYG,True,7,5,41,8.20,1,71.4%,5.86,0,0,,0,,1,6,0.0,,,,,,0,,0,0,0,0,,,,,,,False,True,35,20,Chris Cooley
+2005,2006-01-01,16,17,23.174,WAS,PHI,True,7,2,8,4.00,0,28.6%,1.14,0,0,,0,,0,0,0.0,,,,,,0,,0,0,0,0,,,,,,,True,True,31,20,Chris Cooley
+2006,2006-09-11,1,1,24.062,WAS,MIN,True,7,2,-3,-1.50,0,28.6%,-0.43,0,0,,0,,0,0,0.0,,,,,,0,,0,0,0,0,,,,,,,False,False,16,19,Chris Cooley
+2006,2006-09-17,2,2,24.068,WAS,DAL,True,6,1,23,23.00,0,16.7%,3.83,0,0,,0,,0,0,0.0,,,,,,0,,0,0,0,0,,,,,,,True,False,10,27,Chris Cooley
+2006,2006-09-24,3,3,24.075,WAS,HOU,True,4,4,18,4.50,0,100.0%,4.50,0,0,,0,,0,0,0.0,,,,,,0,,0,0,0,0,,,,,,,True,True,31,15,Chris Cooley
+2006,2006-10-01,4,4,24.082,WAS,JAX,True,5,4,70,17.50,0,80.0%,14.00,0,0,,0,,0,0,0.0,,,,,,0,,0,0,0,0,,,,,,,False,True,36,30,Chris Cooley
+2006,2006-10-08,5,5,24.089,WAS,NYG,True,8,4,41,10.25,0,50.0%,5.13,0,0,,0,,0,0,0.0,,,,,,0,,0,0,0,0,,,,,,,True,False,3,19,Chris Cooley
+2006,2006-10-15,6,6,24.096,WAS,TEN,True,4,2,27,13.50,1,50.0%,6.75,0,0,,0,,1,6,0.0,0,0,0,0,0,0,,0,0,0,0,,,,,,,False,False,22,25,Chris Cooley
+2006,2006-10-22,7,7,24.103,WAS,IND,True,4,4,42,10.50,1,100.0%,10.50,0,0,,0,1,1,8,0.0,,,,,,0,,0,0,0,0,,,,,,,True,False,22,36,Chris Cooley
+2006,2006-11-05,8,9,24.117,WAS,DAL,True,5,3,66,22.00,1,60.0%,13.20,0,0,,0,,1,6,0.0,,,,,,0,,0,0,0,0,,,,,,,False,True,22,19,Chris Cooley
+2006,2006-11-12,9,10,24.124,WAS,PHI,True,5,3,39,13.00,0,60.0%,7.80,0,0,,0,,0,0,0.0,,,,,,0,,0,0,0,0,,,,,,,True,False,3,27,Chris Cooley
+2006,2006-11-19,10,11,24.131,WAS,TAM,True,6,5,58,11.60,1,83.3%,9.67,0,0,,0,,1,6,0.0,,,,,,0,,0,0,0,0,,,,,,,True,False,17,20,Chris Cooley
+2006,2006-11-26,11,12,24.138,WAS,CAR,True,7,3,89,29.67,1,42.9%,12.71,0,0,,0,,1,6,0.0,0,0,0,0,0,0,,0,1,0,0,,,,,,,False,True,17,13,Chris Cooley
+2006,2006-12-03,12,13,24.145,WAS,ATL,True,6,2,12,6.00,0,33.3%,2.00,0,0,,0,,0,0,0.0,,,,,,0,,0,0,0,0,,,,,,,False,False,14,24,Chris Cooley
+2006,2006-12-10,13,14,24.152,WAS,PHI,True,7,4,46,11.50,0,57.1%,6.57,0,0,,0,,0,0,0.0,,,,,,0,,0,0,0,0,,,,,,,False,False,19,21,Chris Cooley
+2006,2006-12-17,14,15,24.159,WAS,NOR,True,6,4,80,20.00,0,66.7%,13.33,0,0,,0,,0,0,0.0,,,,,,0,,0,0,0,0,,,,,,,True,True,16,10,Chris Cooley
+2006,2006-12-24,15,16,24.166,WAS,STL,True,10,7,77,11.00,1,70.0%,7.70,0,0,,0,,1,6,0.0,,,,,,0,,0,0,0,0,,,,,,,True,False,31,37,Chris Cooley
+2006,2006-12-30,16,17,24.172,WAS,NYG,True,5,5,49,9.80,0,100.0%,9.80,0,0,,0,,0,0,0.0,0,0,0,0,0,0,,0,0,0,0,,,,,,,False,False,28,34,Chris Cooley
+2007,2007-09-09,1,1,25.060,WAS,MIA,True,3,1,10,10.00,0,33.3%,3.33,0,0,,0,,0,0,0.0,,,,,,0,,0,0,0,0,,,,,,,False,True,16,13,Chris Cooley
+2007,2007-09-17,2,2,25.068,WAS,PHI,True,5,2,25,12.50,1,40.0%,5.00,0,0,,0,,1,6,0.0,,,,,,0,,0,0,0,0,,,,,,,True,True,20,12,Chris Cooley
+2007,2007-09-23,3,3,25.074,WAS,NYG,True,5,3,19,6.33,1,60.0%,3.80,0,0,,0,,1,6,0.0,0,0,0,0,0,0,,0,1,0,0,,,,,,,False,False,17,24,Chris Cooley
+2007,2007-10-07,4,5,25.088,WAS,DET,True,7,4,26,6.50,1,57.1%,3.71,0,0,,0,1,1,8,0.0,,,,,,0,,0,0,0,0,,,,,,,False,True,34,3,Chris Cooley
+2007,2007-10-14,5,6,25.095,WAS,GNB,True,10,9,105,11.67,1,90.0%,10.50,0,0,,0,,1,6,0.0,0,0,0,0,0,1,0,0,1,0,0,,,,,,,True,False,14,17,Chris Cooley
+2007,2007-10-21,6,7,25.102,WAS,ARI,True,2,1,3,3.00,0,50.0%,1.50,0,0,,0,,0,0,0.0,,,,,,0,,0,0,0,0,,,,,,,False,True,21,19,Chris Cooley
+2007,2007-10-28,7,8,25.109,WAS,NWE,True,8,3,31,10.33,1,37.5%,3.88,0,0,,0,,1,6,0.0,,,,,,0,,0,0,0,0,,,,,,,True,False,7,52,Chris Cooley
+2007,2007-11-04,8,9,25.116,WAS,NYJ,True,7,4,58,14.50,0,57.1%,8.29,0,0,,0,,0,0,0.0,,,,,,0,,0,0,0,0,,,,,,,True,True,23,20,Chris Cooley
+2007,2007-11-11,9,10,25.123,WAS,PHI,True,7,5,33,6.60,0,71.4%,4.71,0,0,,0,,0,0,0.0,,,,,,0,,0,0,0,0,,,,,,,False,False,25,33,Chris Cooley
+2007,2007-11-18,10,11,25.130,WAS,DAL,True,10,8,89,11.13,1,80.0%,8.90,0,0,,0,,1,6,0.0,,,,,,0,,0,0,0,0,,,,,,,True,False,23,28,Chris Cooley
+2007,2007-11-25,11,12,25.137,WAS,TAM,True,10,6,96,16.00,1,60.0%,9.60,0,0,,0,,1,6,0.0,,,,,,0,,0,0,0,0,,,,,,,True,False,13,19,Chris Cooley
+2007,2007-12-02,12,13,25.144,WAS,BUF,True,12,7,89,12.71,0,58.3%,7.42,0,0,,0,,0,0,0.0,,,,,,0,,0,0,0,0,,,,,,,False,False,16,17,Chris Cooley
+2007,2007-12-06,13,14,25.148,WAS,CHI,True,7,5,93,18.60,0,71.4%,13.29,0,0,,0,,0,0,0.0,,,,,,0,,0,0,0,0,,,,,,,False,True,24,16,Chris Cooley
+2007,2007-12-16,14,15,25.158,WAS,NYG,True,8,2,34,17.00,0,25.0%,4.25,0,0,,0,,0,0,0.0,,,,,,0,,0,0,0,0,,,,,,,True,True,22,10,Chris Cooley
+2007,2007-12-23,15,16,25.165,WAS,MIN,True,4,1,33,33.00,1,25.0%,8.25,0,0,,0,,1,6,0.0,,,,,,0,,0,0,0,0,,,,,,,True,True,32,21,Chris Cooley
+2007,2007-12-30,16,17,25.172,WAS,DAL,True,5,5,42,8.40,0,100.0%,8.40,0,0,,0,,0,0,0.0,,,,,,0,,0,0,0,0,,,,,,,False,True,27,6,Chris Cooley
+2008,2008-09-04,1,1,26.055,WAS,NYG,True,1,1,7,7.00,0,100.0%,7.00,0,0,,0,,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,True,False,7,16,Chris Cooley
+2008,2008-09-14,2,2,26.065,WAS,NOR,True,6,5,72,14.40,0,83.3%,12.00,0,0,,0,,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,True,29,24,Chris Cooley
+2008,2008-09-21,3,3,26.072,WAS,ARI,True,8,7,72,10.29,0,87.5%,9.00,0,0,,0,,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,True,24,17,Chris Cooley
+2008,2008-09-28,4,4,26.079,WAS,DAL,True,7,4,28,7.00,0,57.1%,4.00,0,0,,0,,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,True,True,26,24,Chris Cooley
+2008,2008-10-05,5,5,26.086,WAS,PHI,True,10,8,109,13.63,1,80.0%,10.90,0,0,,0,,1,6,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,True,True,23,17,Chris Cooley
+2008,2008-10-12,6,6,26.093,WAS,STL,True,6,5,57,11.40,0,83.3%,9.50,0,0,,0,,0,0,0.0,0,0,0,0,0,1,1,0,0,0,0,,,,,,,False,False,17,19,Chris Cooley
+2008,2008-10-19,7,7,26.100,WAS,CLE,True,7,4,32,8.00,0,57.1%,4.57,0,0,,0,,0,0,0.0,0,0,0,,,1,0,0,0,0,0,,,,,,,False,True,14,11,Chris Cooley
+2008,2008-10-26,8,8,26.107,WAS,DET,True,7,6,74,12.33,0,85.7%,10.57,0,0,,0,,0,0,0.0,0,0,0,0,0,0,,0,0,0,0,,,,,,,True,True,25,17,Chris Cooley
+2008,2008-11-03,9,9,26.115,WAS,PIT,True,11,8,78,9.75,0,72.7%,7.09,0,0,,0,,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,False,6,23,Chris Cooley
+2008,2008-11-16,10,11,26.128,WAS,DAL,True,9,7,47,6.71,0,77.8%,5.22,0,0,,0,,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,False,10,14,Chris Cooley
+2008,2008-11-23,11,12,26.135,WAS,SEA,True,8,5,54,10.80,0,62.5%,6.75,0,0,,0,,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,True,True,20,17,Chris Cooley
+2008,2008-11-30,12,13,26.142,WAS,NYG,True,7,6,71,11.83,0,85.7%,10.14,0,0,,0,,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,False,7,23,Chris Cooley
+2008,2008-12-07,13,14,26.149,WAS,BAL,True,4,1,12,12.00,0,25.0%,3.00,0,0,,0,,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,True,False,10,24,Chris Cooley
+2008,2008-12-14,14,15,26.156,WAS,CIN,True,8,6,51,8.50,0,75.0%,6.38,0,0,,0,,0,0,0.0,0,0,0,,,1,1,0,0,0,0,,,,,,,True,False,13,20,Chris Cooley
+2008,2008-12-21,15,16,26.163,WAS,PHI,True,5,4,28,7.00,0,80.0%,5.60,0,0,,0,,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,True,10,3,Chris Cooley
+2008,2008-12-28,16,17,26.170,WAS,SFO,True,7,6,57,9.50,0,85.7%,8.14,0,0,,0,,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,True,False,24,27,Chris Cooley
+2009,2009-09-13,1,1,27.064,WAS,NYG,True,8,7,68,9.71,1,87.5%,8.50,0,0,,0,,1,6,0.0,0,0,0,,,1,0,0,0,0,0,,,,,,,True,False,17,23,Chris Cooley
+2009,2009-09-20,2,2,27.071,WAS,STL,True,9,7,83,11.86,0,77.8%,9.22,0,0,,0,,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,True,9,7,Chris Cooley
+2009,2009-09-27,3,3,27.078,WAS,DET,True,5,3,38,12.67,0,60.0%,7.60,0,0,,0,,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,True,False,14,19,Chris Cooley
+2009,2009-10-04,4,4,27.085,WAS,TAM,True,10,5,65,13.00,1,50.0%,6.50,0,0,,0,,1,6,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,True,16,13,Chris Cooley
+2009,2009-10-11,5,5,27.092,WAS,CAR,True,,0,0,,0,0.0%,,0,0,,0,,0,0,0.0,0,0,0,0,0,0,,0,1,0,0,,,,,,,True,False,17,20,Chris Cooley
+2009,2009-10-18,6,6,27.099,WAS,KAN,True,9,5,57,11.40,0,55.6%,6.33,0,0,,0,,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,False,6,14,Chris Cooley
+2009,2009-10-26,7,7,27.107,WAS,PHI,True,4,2,21,10.50,0,50.0%,5.25,0,0,,0,,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,False,17,27,Chris Cooley
+2009,2009-11-08,8,9,,WAS,ATL,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,False,17,31,Chris Cooley
+2009,2009-11-15,9,10,,WAS,DEN,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,True,27,17,Chris Cooley
+2009,2009-11-22,10,11,,WAS,DAL,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,False,6,7,Chris Cooley
+2009,2009-11-29,11,12,,WAS,PHI,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,False,24,27,Chris Cooley
+2009,2009-12-06,12,13,,WAS,NOR,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,False,30,33,Chris Cooley
+2009,2009-12-13,13,14,,WAS,OAK,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,True,34,13,Chris Cooley
+2009,2009-12-21,14,15,,WAS,NYG,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,False,12,45,Chris Cooley
+2009,2009-12-27,15,16,,WAS,DAL,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,False,0,17,Chris Cooley
+2009,2010-01-03,16,17,,WAS,SDG,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,False,20,23,Chris Cooley
+2010,2010-09-12,1,1,28.063,WAS,DAL,True,9,6,80,13.33,0,66.7%,8.89,0,0,,0,,0,0,0.0,0,0,0,,,1,0,0,0,0,0,,,,,,,False,True,13,7,Chris Cooley
+2010,2010-09-19,2,2,28.070,WAS,HOU,True,3,3,64,21.33,1,100.0%,21.33,0,0,,0,,1,6,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,False,27,30,Chris Cooley
+2010,2010-09-26,3,3,28.077,WAS,STL,True,8,5,53,10.60,0,62.5%,6.63,0,0,,0,,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,True,False,16,30,Chris Cooley
+2010,2010-10-03,4,4,28.084,WAS,PHI,True,5,2,37,18.50,1,40.0%,7.40,0,0,,0,,1,6,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,True,True,17,12,Chris Cooley
+2010,2010-10-10,5,5,28.091,WAS,GNB,True,12,7,69,9.86,0,58.3%,5.75,0,0,,0,,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,True,16,13,Chris Cooley
+2010,2010-10-17,6,6,28.098,WAS,IND,True,8,5,37,7.40,0,62.5%,4.63,0,0,,0,,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,False,24,27,Chris Cooley
+2010,2010-10-24,7,7,28.105,WAS,CHI,True,9,7,52,7.43,0,77.8%,5.78,0,0,,0,,0,0,0.0,0,0,0,,,1,0,0,0,0,0,,,,,,,True,True,17,14,Chris Cooley
+2010,2010-10-31,8,8,28.112,WAS,DET,True,7,4,48,12.00,0,57.1%,6.86,0,0,,0,,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,True,False,25,37,Chris Cooley
+2010,2010-11-15,9,10,28.127,WAS,PHI,True,7,3,23,7.67,0,42.9%,3.29,0,0,,0,,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,False,28,59,Chris Cooley
+2010,2010-11-21,10,11,28.133,WAS,TEN,True,9,7,91,13.00,0,77.8%,10.11,0,0,,0,,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,True,True,19,16,Chris Cooley
+2010,2010-11-28,11,12,28.140,WAS,MIN,True,8,5,49,9.80,0,62.5%,6.13,0,0,,0,,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,False,13,17,Chris Cooley
+2010,2010-12-05,12,13,28.147,WAS,NYG,True,12,6,61,10.17,0,50.0%,5.08,0,0,,0,,0,0,0.0,0,0,0,0,0,1,1,0,0,0,0,,,,,,,True,False,7,31,Chris Cooley
+2010,2010-12-12,13,14,28.154,WAS,TAM,True,4,2,22,11.00,0,50.0%,5.50,0,0,,0,,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,False,16,17,Chris Cooley
+2010,2010-12-19,14,15,28.161,WAS,DAL,True,7,5,62,12.40,1,71.4%,8.86,0,0,,0,1,1,8,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,True,False,30,33,Chris Cooley
+2010,2010-12-26,15,16,28.168,WAS,JAX,True,11,5,48,9.60,0,45.5%,4.36,0,0,,0,,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,True,True,20,17,Chris Cooley
+2010,2011-01-02,16,17,28.175,WAS,NYG,True,7,5,53,10.60,0,71.4%,7.57,0,0,,0,,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,False,14,17,Chris Cooley
+2011,2011-09-11,1,1,29.062,WAS,NYG,True,3,2,21,10.50,0,66.7%,7.00,0,0,,0,,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,True,28,14,Chris Cooley
+2011,2011-09-18,2,2,29.069,WAS,ARI,True,2,0,0,,0,0.0%,0.00,0,0,,0,,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,True,22,21,Chris Cooley
+2011,2011-09-26,3,3,29.077,WAS,DAL,True,5,4,41,10.25,0,80.0%,8.20,2,3,1.50,0,,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,True,False,16,18,Chris Cooley
+2011,2011-10-02,4,4,29.083,WAS,STL,True,2,1,4,4.00,0,50.0%,2.00,0,0,,0,,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,True,True,17,10,Chris Cooley
+2011,2011-10-16,5,6,29.097,WAS,PHI,True,1,1,-1,-1.00,0,100.0%,-1.00,0,0,,0,,0,0,0.0,0,0,0,,,0,,0,0,0,0,,,,,,,False,False,13,20,Chris Cooley
+2011,2011-10-23,6,7,,WAS,CAR,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,False,20,33,Chris Cooley
+2011,2011-10-30,7,8,,WAS,BUF,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,False,0,23,Chris Cooley
+2011,2011-11-06,8,9,,WAS,SFO,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,False,11,19,Chris Cooley
+2011,2011-11-13,9,10,,WAS,MIA,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,False,9,20,Chris Cooley
+2011,2011-11-20,10,11,,WAS,DAL,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,False,24,27,Chris Cooley
+2011,2011-11-27,11,12,,WAS,SEA,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,True,23,17,Chris Cooley
+2011,2011-12-04,12,13,,WAS,NYJ,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,False,19,34,Chris Cooley
+2011,2011-12-11,13,14,,WAS,NWE,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,False,27,34,Chris Cooley
+2011,2011-12-18,14,15,,WAS,NYG,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,True,23,10,Chris Cooley
+2011,2011-12-24,15,16,,WAS,MIN,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,False,26,33,Chris Cooley
+2011,2012-01-01,16,17,,WAS,PHI,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,False,10,34,Chris Cooley
+2012,2012-10-28,8,8,30.109,WAS,PIT,True,1,0,0,,0,0.0%,0.00,0,0,,0,,0,0,0.0,0,0,0,,,0,0,0,0,0,0,19,32%,0,0%,0,0%,True,False,12,27,Chris Cooley
+2012,2012-11-04,9,9,30.116,WAS,CAR,True,1,0,0,,0,0.0%,0.00,0,0,,0,,0,0,0.0,0,0,0,,,0,0,0,0,0,0,10,12%,0,0%,0,0%,False,False,13,21,Chris Cooley
+2012,2012-11-18,10,11,30.130,WAS,PHI,False,,,,,,0.0%,,,,,,,0,0,0.0,,,,,,0,,,0,0,0,9,17%,0,0%,0,0%,False,True,31,6,Chris Cooley
+2012,2012-11-22,11,12,30.134,WAS,DAL,False,,,,,,0.0%,,,,,,,0,0,0.0,,,,,,0,,,0,0,0,3,5%,0,0%,2,6%,True,True,38,31,Chris Cooley
+2012,2012-12-03,12,13,30.145,WAS,NYG,False,,,,,,0.0%,,,,,,,0,0,0.0,,,,,,0,,,0,0,0,5,9%,0,0%,4,18%,False,True,17,16,Chris Cooley
+2012,2012-12-09,13,14,30.151,WAS,BAL,False,,,,,,0.0%,,,,,,,0,0,0.0,,,,,,0,,,0,0,0,12,17%,0,0%,5,16%,False,True,31,28,Chris Cooley
+2012,2012-12-16,14,15,30.158,WAS,CLE,False,,,,,,0.0%,,,,,,,0,0,0.0,,,,,,0,,,0,0,0,18,24%,0,0%,4,13%,True,True,38,21,Chris Cooley
+2012,2012-12-23,15,16,30.165,WAS,PHI,False,1,1,8,8.00,0,100.0%,8.00,0,0,,0,,0,0,0.0,0,0,0,,,0,0,0,0,0,0,7,13%,0,0%,5,21%,True,True,27,20,Chris Cooley
+2012,2012-12-30,16,17,30.172,WAS,DAL,False,,,,,,0.0%,,,,,,,0,0,0.0,,,,,,0,,,0,0,0,5,8%,0,0%,9,36%,False,True,28,18,Chris Cooley
+,117 Games,,,,,,False,669,429,4711,10.98,33,64.1%,7.04,2,3,1.50,0,3,33,204,0.0,2,0,2,0,0,11,4,1,4,0,0,,,,,,,False,False,61,0,Chris Cooley
