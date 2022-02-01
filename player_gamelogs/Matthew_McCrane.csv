@@ -1,10 +1,10 @@
-Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Scoring_XPM,Scoring_XPA,Scoring_XP%,Scoring_FGM,Scoring_FGA,Scoring_FG%,Scoring_TD,Scoring_Pts,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Player
-2018,2018-09-30,4,4,24.022,OAK,,CLE,W 45-42,False,4,4,100.0,3,5,60.0,0,13,0,0%,0,0%,17,40%,False,Matthew McCrane
-2018,2018-10-07,5,5,24.029,OAK,@,LAC,L 10-26,False,1,1,100.0,1,2,50.0,0,4,0,0%,0,0%,6,24%,True,Matthew McCrane
-2018,2018-10-14,6,6,24.036,OAK,,SEA,L 3-27,False,,,,1,2,50.0,0,3,0,0%,0,0%,4,21%,False,Matthew McCrane
-2018,2018-11-18,10,11,24.071,ARI,,OAK,L 21-23,False,3,3,100.0,,,,0,3,0,0%,0,0%,7,21%,False,Matthew McCrane
-2018,2018-12-30,16,17,24.113,PIT,,CIN,W 16-13,False,1,1,100.0,3,3,100.0,0,10,0,0%,0,0%,8,31%,False,Matthew McCrane
-2021,2021-09-19,2,2,,ARI,,MIN,W 34-33,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Matthew McCrane
-2021,2021-12-26,15,16,,PHI,,NYG,W 34-10,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Matthew McCrane
-2021,2022-01-02,16,17,,PHI,@,WAS,W 20-16,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Matthew McCrane
-,5 Games,,,,,,,2-3-0,False,9,9,100.0,8,12,66.7,0,33,,,,,,,False,Matthew McCrane
+Year,Date,G#,Week,Age,Tm,Opp,Result,GS,Scoring_XPM,Scoring_XPA,Scoring_XP%,Scoring_FGM,Scoring_FGA,Scoring_FG%,Scoring_TD,Scoring_Pts,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Player,Win,Score,Opp Score
+2018.0,2018-09-30,4.0,4.0,24.022,OAK,CLE,W 45-42,False,4,4,100.0,3,5,60.0,0,13,0,0%,0,0%,17,40%,False,Matthew McCrane,True,45,42
+2018.0,2018-10-07,5.0,5.0,24.029,OAK,LAC,L 10-26,False,1,1,100.0,1,2,50.0,0,4,0,0%,0,0%,6,24%,True,Matthew McCrane,False,10,26
+2018.0,2018-10-14,6.0,6.0,24.036,OAK,SEA,L 3-27,False,,,,1,2,50.0,0,3,0,0%,0,0%,4,21%,False,Matthew McCrane,False,3,27
+2018.0,2018-11-18,10.0,11.0,24.071,ARI,OAK,L 21-23,False,3,3,100.0,,,,0,3,0,0%,0,0%,7,21%,False,Matthew McCrane,False,21,23
+2018.0,2018-12-30,16.0,17.0,24.113,PIT,CIN,W 16-13,False,1,1,100.0,3,3,100.0,0,10,0,0%,0,0%,8,31%,False,Matthew McCrane,True,16,13
+2021.0,2021-09-19,2.0,2.0,,ARI,MIN,W 34-33,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Matthew McCrane,True,34,33
+2021.0,2021-12-26,15.0,16.0,,PHI,NYG,W 34-10,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Matthew McCrane,True,34,10
+2021.0,2022-01-02,16.0,17.0,,PHI,WAS,W 20-16,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Matthew McCrane,True,20,16
+,5 Games,,,,,,2-3-0,False,9,9,100.0,8,12,66.7,0,33,,,,,,,False,Matthew McCrane,False,3,0

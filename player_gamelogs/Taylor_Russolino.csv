@@ -1,2 +1,2 @@
-Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Scoring_XPM,Scoring_XPA,Scoring_XP%,Scoring_FGM,Scoring_FGA,Scoring_FG%,Scoring_TD,Scoring_Pts,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Player
-2020,2020-12-19,14,15,31.21,DEN,,BUF,L 19-48,False,1,3,33.3,,1,0.0,0,1,0,0%,0,0%,8,25%,False,Taylor Russolino
+Year,Date,G#,Week,Age,Tm,Opp,Result,GS,Scoring_XPM,Scoring_XPA,Scoring_XP%,Scoring_FGM,Scoring_FGA,Scoring_FG%,Scoring_TD,Scoring_Pts,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Player,Win,Score,Opp Score
+2020,2020-12-19,14,15,31.21,DEN,BUF,L 19-48,False,1,3,33.3,,1,0.0,0,1,0,0%,0,0%,8,25%,False,Taylor Russolino,False,19,48

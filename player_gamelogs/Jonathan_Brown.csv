@@ -1,2 +1,2 @@
-Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Scoring_XPM,Scoring_XPA,Scoring_XP%,Scoring_FGM,Scoring_FGA,Scoring_FG%,Scoring_TD,Scoring_Pts,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Player
-2020,2020-10-18,6,6,27.316,JAX,,DET,L 16-34,False,1,1,100.0,1,2,50.0,0,4,0,0%,0,0%,4,15%,False,Jonathan Brown
+Year,Date,G#,Week,Age,Tm,Opp,Result,GS,Scoring_XPM,Scoring_XPA,Scoring_XP%,Scoring_FGM,Scoring_FGA,Scoring_FG%,Scoring_TD,Scoring_Pts,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Player,Win,Score,Opp Score
+2020,2020-10-18,6,6,27.316,JAX,DET,L 16-34,False,1,1,100.0,1,2,50.0,0,4,0,0%,0,0%,4,15%,False,Jonathan Brown,False,16,34

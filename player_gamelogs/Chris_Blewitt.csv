@@ -1,7 +1,7 @@
-Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Scoring_XPM,Scoring_XPA,Scoring_XP%,Scoring_FGM,Scoring_FGA,Scoring_FG%,Scoring_TD,Scoring_Pts,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Player
-2021.0,2021-10-10,5.0,5.0,,WAS,,NOR,L 22-33,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Chris Blewitt
-2021.0,2021-10-24,7.0,7.0,26.175,WAS,@,GNB,L 10-24,False,1,1,100.0,1,2,50.0,0,4,0,0%,0,0%,6,32%,True,Chris Blewitt
-2021.0,2021-10-31,8.0,8.0,26.182,WAS,@,DEN,L 10-17,False,1,1,100.0,1,3,33.3,0,4,0,0%,0,0%,7,37%,True,Chris Blewitt
-2021.0,2022-01-03,16.0,17.0,,CLE,@,PIT,L 14-26,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Chris Blewitt
-2021.0,2022-01-09,17.0,18.0,,CLE,,CIN,W 21-16,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Chris Blewitt
-,2 Games,,,,,,,0-2-0,False,2,2,100.0,2,5,40.0,0,8,,,,,,,False,Chris Blewitt
+Year,Date,G#,Week,Age,Tm,Opp,Result,GS,Scoring_XPM,Scoring_XPA,Scoring_XP%,Scoring_FGM,Scoring_FGA,Scoring_FG%,Scoring_TD,Scoring_Pts,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Player,Win,Score,Opp Score
+2021.0,2021-10-10,5.0,5.0,,WAS,NOR,L 22-33,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Chris Blewitt,False,22,33
+2021.0,2021-10-24,7.0,7.0,26.175,WAS,GNB,L 10-24,False,1,1,100.0,1,2,50.0,0,4,0,0%,0,0%,6,32%,True,Chris Blewitt,False,10,24
+2021.0,2021-10-31,8.0,8.0,26.182,WAS,DEN,L 10-17,False,1,1,100.0,1,3,33.3,0,4,0,0%,0,0%,7,37%,True,Chris Blewitt,False,10,17
+2021.0,2022-01-03,16.0,17.0,,CLE,PIT,L 14-26,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Chris Blewitt,False,14,26
+2021.0,2022-01-09,17.0,18.0,,CLE,CIN,W 21-16,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Chris Blewitt,True,21,16
+,2 Games,,,,,,0-2-0,False,2,2,100.0,2,5,40.0,0,8,,,,,,,False,Chris Blewitt,False,2,0

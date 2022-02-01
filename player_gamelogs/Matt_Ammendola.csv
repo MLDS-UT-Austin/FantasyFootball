@@ -1,18 +1,18 @@
-Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Scoring_XPM,Scoring_XPA,Scoring_XP%,Scoring_FGM,Scoring_FGA,Scoring_FG%,Scoring_TD,Scoring_Pts,Punting_Pnt,Punting_Yds,Punting_Y/P,Punting_Blck,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Player
-2021.0,2021-09-12,1.0,1.0,24.275,NYJ,@,CAR,L 14-19,False,,,,,,,0,0,6,291,48.50,0,0,0%,0,0%,10,36%,True,Matt Ammendola
-2021.0,2021-09-19,2.0,2.0,24.282,NYJ,,NWE,L 6-25,False,,,,2,3,66.7,0,6,0,0,,0,0,0%,0,0%,6,24%,False,Matt Ammendola
-2021.0,2021-09-26,3.0,3.0,24.289,NYJ,@,DEN,L 0-26,False,,,,,,,0,0,0,0,,0,0,0%,0,0%,1,4%,True,Matt Ammendola
-2021.0,2021-10-03,4.0,4.0,24.296,NYJ,,TEN,W 27-24,False,3,3,100.0,2,2,100.0,0,9,0,0,,0,0,0%,0,0%,11,32%,False,Matt Ammendola
-2021.0,2021-10-10,5.0,5.0,24.303,NYJ,@,ATL,L 20-27,False,,1,0.0,2,2,100.0,0,6,0,0,,0,0,0%,0,0%,8,33%,True,Matt Ammendola
-2021.0,2021-10-24,6.0,7.0,24.317,NYJ,@,NWE,L 13-54,False,1,1,100.0,,1,0.0,0,1,0,0,,0,0,0%,0,0%,5,19%,True,Matt Ammendola
-2021.0,2021-10-31,7.0,8.0,24.324,NYJ,,CIN,W 34-31,False,2,2,100.0,2,3,66.7,0,8,0,0,,0,0,0%,0,0%,12,43%,False,Matt Ammendola
-2021.0,2021-11-04,8.0,9.0,24.328,NYJ,@,IND,L 30-45,False,3,3,100.0,1,1,100.0,0,6,0,0,,0,0,0%,0,0%,9,30%,True,Matt Ammendola
-2021.0,2021-11-14,9.0,10.0,24.338,NYJ,,BUF,L 17-45,False,2,2,100.0,1,1,100.0,0,5,0,0,,0,0,0%,0,0%,7,26%,False,Matt Ammendola
-2021.0,2021-11-21,10.0,11.0,24.345,NYJ,,MIA,L 17-24,False,2,2,100.0,1,3,33.3,0,5,0,0,,0,0,0%,0,0%,8,29%,False,Matt Ammendola
-2021.0,2021-11-28,11.0,12.0,24.352,NYJ,@,HOU,W 21-14,False,1,1,100.0,2,3,66.7,0,7,0,0,,0,0,0%,0,0%,10,40%,True,Matt Ammendola
-2021.0,2021-12-12,13.0,14.0,,NYJ,,NOR,L 9-30,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Matt Ammendola
-2021.0,2021-12-19,14.0,15.0,,NYJ,@,MIA,L 24-31,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Matt Ammendola
-2021.0,2021-12-26,15.0,16.0,,NYJ,,JAX,W 26-21,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Matt Ammendola
-2021.0,2022-01-02,16.0,17.0,,NYJ,,TAM,L 24-28,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Matt Ammendola
-2021.0,2022-01-09,17.0,18.0,,NYJ,@,BUF,L 10-27,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Matt Ammendola
-,11 Games,,,,,,,3-8-0,False,14,15,93.3,13,19,68.4,0,53,6,291,48.50,0,,,,,,,False,Matt Ammendola
+Year,Date,G#,Week,Age,Tm,Opp,Result,GS,Scoring_XPM,Scoring_XPA,Scoring_XP%,Scoring_FGM,Scoring_FGA,Scoring_FG%,Scoring_TD,Scoring_Pts,Punting_Pnt,Punting_Yds,Punting_Y/P,Punting_Blck,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Player,Win,Score,Opp Score
+2021.0,2021-09-12,1.0,1.0,24.275,NYJ,CAR,L 14-19,False,,,,,,,0,0,6,291,48.50,0,0,0%,0,0%,10,36%,True,Matt Ammendola,False,14,19
+2021.0,2021-09-19,2.0,2.0,24.282,NYJ,NWE,L 6-25,False,,,,2,3,66.7,0,6,0,0,,0,0,0%,0,0%,6,24%,False,Matt Ammendola,False,6,25
+2021.0,2021-09-26,3.0,3.0,24.289,NYJ,DEN,L 0-26,False,,,,,,,0,0,0,0,,0,0,0%,0,0%,1,4%,True,Matt Ammendola,False,0,26
+2021.0,2021-10-03,4.0,4.0,24.296,NYJ,TEN,W 27-24,False,3,3,100.0,2,2,100.0,0,9,0,0,,0,0,0%,0,0%,11,32%,False,Matt Ammendola,True,27,24
+2021.0,2021-10-10,5.0,5.0,24.303,NYJ,ATL,L 20-27,False,,1,0.0,2,2,100.0,0,6,0,0,,0,0,0%,0,0%,8,33%,True,Matt Ammendola,False,20,27
+2021.0,2021-10-24,6.0,7.0,24.317,NYJ,NWE,L 13-54,False,1,1,100.0,,1,0.0,0,1,0,0,,0,0,0%,0,0%,5,19%,True,Matt Ammendola,False,13,54
+2021.0,2021-10-31,7.0,8.0,24.324,NYJ,CIN,W 34-31,False,2,2,100.0,2,3,66.7,0,8,0,0,,0,0,0%,0,0%,12,43%,False,Matt Ammendola,True,34,31
+2021.0,2021-11-04,8.0,9.0,24.328,NYJ,IND,L 30-45,False,3,3,100.0,1,1,100.0,0,6,0,0,,0,0,0%,0,0%,9,30%,True,Matt Ammendola,False,30,45
+2021.0,2021-11-14,9.0,10.0,24.338,NYJ,BUF,L 17-45,False,2,2,100.0,1,1,100.0,0,5,0,0,,0,0,0%,0,0%,7,26%,False,Matt Ammendola,False,17,45
+2021.0,2021-11-21,10.0,11.0,24.345,NYJ,MIA,L 17-24,False,2,2,100.0,1,3,33.3,0,5,0,0,,0,0,0%,0,0%,8,29%,False,Matt Ammendola,False,17,24
+2021.0,2021-11-28,11.0,12.0,24.352,NYJ,HOU,W 21-14,False,1,1,100.0,2,3,66.7,0,7,0,0,,0,0,0%,0,0%,10,40%,True,Matt Ammendola,True,21,14
+2021.0,2021-12-12,13.0,14.0,,NYJ,NOR,L 9-30,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Matt Ammendola,False,9,30
+2021.0,2021-12-19,14.0,15.0,,NYJ,MIA,L 24-31,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Matt Ammendola,False,24,31
+2021.0,2021-12-26,15.0,16.0,,NYJ,JAX,W 26-21,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Matt Ammendola,True,26,21
+2021.0,2022-01-02,16.0,17.0,,NYJ,TAM,L 24-28,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Matt Ammendola,False,24,28
+2021.0,2022-01-09,17.0,18.0,,NYJ,BUF,L 10-27,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Matt Ammendola,False,10,27
+,11 Games,,,,,,3-8-0,False,14,15,93.3,13,19,68.4,0,53,6,291,48.50,0,,,,,,,False,Matt Ammendola,False,8,0

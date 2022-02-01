@@ -1,74 +1,74 @@
-Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Scoring_XPM,Scoring_XPA,Scoring_XP%,Scoring_FGM,Scoring_FGA,Scoring_FG%,Scoring_TD,Scoring_Pts,Sk,Tackles_Solo,Tackles_Ast,Tackles_Comb,Tackles_TFL,Tackles_QBHits,Punting_Pnt,Punting_Yds,Punting_Y/P,Punting_Blck,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Player
-2017,2017-09-10,1,1,22.126,CLE,,PIT,L 18-21,False,1,1,100.0,1,1,100.0,0,4,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,6,24%,False,Zane Gonzalez
-2017,2017-09-17,2,2,22.133,CLE,@,BAL,L 10-24,False,1,1,100.0,1,1,100.0,0,4,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,5,20%,True,Zane Gonzalez
-2017,2017-09-24,3,3,22.140,CLE,@,IND,L 28-31,False,4,4,100.0,,,,0,4,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,9,26%,True,Zane Gonzalez
-2017,2017-10-01,4,4,22.147,CLE,,CIN,L 7-31,False,1,1,100.0,,1,0.0,0,1,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,4,16%,False,Zane Gonzalez
-2017,2017-10-08,5,5,22.154,CLE,,NYJ,L 14-17,False,2,2,100.0,,2,0.0,0,2,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,7,33%,False,Zane Gonzalez
-2017,2017-10-15,6,6,22.161,CLE,@,HOU,L 17-33,False,2,2,100.0,1,1,100.0,0,5,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,7,21%,True,Zane Gonzalez
-2017,2017-10-22,7,7,22.168,CLE,,TEN,L 9-12,False,,,,3,3,100.0,0,9,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,7,28%,False,Zane Gonzalez
-2017,2017-10-29,8,8,22.175,CLE,,MIN,L 16-33,False,1,2,50.0,1,2,50.0,0,4,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,8,24%,False,Zane Gonzalez
-2017,2017-11-12,9,10,22.189,CLE,@,DET,L 24-38,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,9,29%,True,Zane Gonzalez
-2017,2017-11-19,10,11,22.196,CLE,,JAX,L 7-19,False,1,1,100.0,,,,0,1,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,3,10%,False,Zane Gonzalez
-2017,2017-11-26,11,12,22.203,CLE,@,CIN,L 16-30,False,1,1,100.0,3,4,75.0,0,10,0.0,0,0,0,,,1,16,16.00,0,0,0%,0,0%,10,37%,True,Zane Gonzalez
-2017,2017-12-03,12,13,22.210,CLE,@,LAC,L 10-19,False,1,1,100.0,1,1,100.0,0,4,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,5,24%,True,Zane Gonzalez
-2017,2017-12-10,13,14,22.217,CLE,,GNB,L 21-27,False,3,3,100.0,,,,0,3,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,7,29%,False,Zane Gonzalez
-2017,2017-12-17,14,15,22.224,CLE,,BAL,L 10-27,False,1,1,100.0,1,1,100.0,0,4,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,4,16%,False,Zane Gonzalez
-2017,2017-12-24,15,16,22.231,CLE,@,CHI,L 3-20,False,,,,1,1,100.0,0,3,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,3,12%,True,Zane Gonzalez
-2017,2017-12-31,16,17,22.238,CLE,@,PIT,L 24-28,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,9,33%,True,Zane Gonzalez
-2018,2018-09-09,1,1,23.125,CLE,,PIT,T 21-21,False,3,3,100.0,,1,0.0,0,3,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,8,22%,False,Zane Gonzalez
-2018,2018-09-16,2,2,23.132,CLE,@,NOR,L 18-21,False,,2,0.0,2,4,50.0,0,6,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,11,41%,True,Zane Gonzalez
-2018,2018-12-02,12,13,23.209,ARI,@,GNB,W 20-17,False,2,2,100.0,2,2,100.0,0,8,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,9,29%,True,Zane Gonzalez
-2018,2018-12-09,13,14,23.216,ARI,,DET,L 3-17,False,,,,1,2,50.0,0,3,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,4,17%,False,Zane Gonzalez
-2018,2018-12-16,14,15,23.223,ARI,@,ATL,L 14-40,False,2,2,100.0,,,,0,2,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,5,15%,True,Zane Gonzalez
-2018,2018-12-23,15,16,23.230,ARI,,LAR,L 9-31,False,,1,0.0,1,2,50.0,0,3,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,6,23%,False,Zane Gonzalez
-2018,2018-12-30,16,17,23.237,ARI,@,SEA,L 24-27,False,1,1,100.0,3,3,100.0,0,10,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,10,30%,True,Zane Gonzalez
-2019,2019-09-08,1,1,24.124,ARI,,DET,T 27-27,False,1,1,100.0,4,4,100.0,0,13,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,12,30%,False,Zane Gonzalez
-2019,2019-09-15,2,2,24.131,ARI,@,BAL,L 17-23,False,,,,3,3,100.0,0,9,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,9,32%,True,Zane Gonzalez
-2019,2019-09-22,3,3,24.138,ARI,,CAR,L 20-38,False,2,2,100.0,2,2,100.0,0,8,0.0,0,0,0,0,0,2,84,42.00,0,0,0%,0,0%,11,37%,False,Zane Gonzalez
-2019,2019-09-29,4,4,24.145,ARI,,SEA,L 10-27,False,1,1,100.0,1,3,33.3,0,4,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,27%,False,Zane Gonzalez
-2019,2019-10-06,5,5,24.152,ARI,@,CIN,W 26-23,False,2,2,100.0,4,5,80.0,0,14,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,13,43%,True,Zane Gonzalez
-2019,2019-10-13,6,6,24.159,ARI,,ATL,W 34-33,False,4,4,100.0,2,2,100.0,0,10,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,13,39%,False,Zane Gonzalez
-2019,2019-10-20,7,7,24.166,ARI,@,NYG,W 27-21,False,3,3,100.0,2,2,100.0,0,9,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,12,41%,True,Zane Gonzalez
-2019,2019-10-27,8,8,24.173,ARI,@,NOR,L 9-31,False,,,,3,3,100.0,0,9,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,25%,True,Zane Gonzalez
-2019,2019-10-31,9,9,24.177,ARI,,SFO,L 25-28,False,2,2,100.0,1,1,100.0,0,5,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,8,31%,False,Zane Gonzalez
-2019,2019-11-10,10,10,24.187,ARI,@,TAM,L 27-30,False,3,3,100.0,2,2,100.0,0,9,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,11,34%,True,Zane Gonzalez
-2019,2019-11-17,11,11,24.194,ARI,@,SFO,L 26-36,False,2,3,66.7,2,2,100.0,0,8,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,11,42%,True,Zane Gonzalez
-2019,2019-12-01,12,13,24.208,ARI,,LAR,L 7-34,False,1,1,100.0,,,,0,1,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,3,11%,False,Zane Gonzalez
-2019,2019-12-08,13,14,24.215,ARI,,PIT,L 17-23,False,2,2,100.0,1,1,100.0,0,5,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,28%,False,Zane Gonzalez
-2019,2019-12-15,14,15,24.222,ARI,,CLE,W 38-24,False,5,5,100.0,1,1,100.0,0,8,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,13,48%,False,Zane Gonzalez
-2019,2019-12-22,15,16,24.229,ARI,@,SEA,W 27-13,False,3,3,100.0,2,3,66.7,0,9,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,12,34%,True,Zane Gonzalez
-2019,2019-12-29,16,17,24.236,ARI,@,LAR,L 24-31,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,9,31%,True,Zane Gonzalez
-2020,2020-09-13,1,1,25.129,ARI,@,SFO,W 24-20,False,3,3,100.0,1,3,33.3,0,6,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,10,36%,True,Zane Gonzalez
-2020,2020-09-20,2,2,25.136,ARI,,WAS,W 30-15,False,3,3,100.0,3,3,100.0,0,12,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,13,47%,False,Zane Gonzalez
-2020,2020-09-27,3,3,25.143,ARI,,DET,L 23-26,False,2,3,66.7,1,1,100.0,0,5,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,9,32%,False,Zane Gonzalez
-2020,2020-10-04,4,4,25.150,ARI,@,CAR,L 21-31,False,3,3,100.0,,,,0,3,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,28%,True,Zane Gonzalez
-2020,2020-10-11,5,5,25.157,ARI,@,NYJ,W 30-10,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,0,0,0,0,,0,1,1%,0,0%,10,40%,True,Zane Gonzalez
-2020,2020-10-19,6,6,25.165,ARI,@,DAL,W 38-10,False,5,5,100.0,1,1,100.0,0,8,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,13,48%,True,Zane Gonzalez
-2020,2020-10-25,7,7,25.171,ARI,,SEA,W 37-34,False,4,4,100.0,3,4,75.0,0,13,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,15,45%,False,Zane Gonzalez
-2020,2020-11-08,8,9,25.185,ARI,,MIA,L 31-34,False,4,4,100.0,1,2,50.0,0,7,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,12,43%,False,Zane Gonzalez
-2020,2020-11-15,9,10,25.192,ARI,,BUF,W 32-30,False,2,2,100.0,4,4,100.0,0,14,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,14,41%,False,Zane Gonzalez
-2020,2020-11-19,10,11,25.196,ARI,@,SEA,L 21-28,False,3,3,100.0,,,,0,3,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,27%,True,Zane Gonzalez
-2020,2020-11-29,11,12,25.206,ARI,@,NWE,L 17-20,False,2,2,100.0,1,2,50.0,0,5,0.0,0,0,0,0,0,0,0,,0,1,1%,0,0%,8,36%,True,Zane Gonzalez
-2020,2020-12-06,12,13,25.213,ARI,,LAR,L 28-38,False,4,4,100.0,,1,0.0,0,4,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,10,33%,False,Zane Gonzalez
-2020,2020-12-13,13,14,,ARI,@,NYG,W 26-7,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Zane Gonzalez
-2020,2020-12-20,14,15,,ARI,,PHI,W 33-26,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Zane Gonzalez
-2020,2020-12-26,15,16,,ARI,,SFO,L 12-20,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Zane Gonzalez
-2020,2021-01-03,16,17,,ARI,@,LAR,L 7-18,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Zane Gonzalez
-2021,2021-09-12,1,1,,DET,,SFO,L 33-41,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Zane Gonzalez
-2021,2021-09-19,2,2,26.135,CAR,,NOR,W 26-7,False,2,3,66.7,2,3,66.7,0,8,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,12,48%,False,Zane Gonzalez
-2021,2021-09-23,3,3,26.139,CAR,@,HOU,W 24-9,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,9,39%,True,Zane Gonzalez
-2021,2021-10-03,4,4,26.149,CAR,@,DAL,L 28-36,False,4,4,100.0,,1,0.0,0,4,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,10,34%,True,Zane Gonzalez
-2021,2021-10-10,5,5,26.156,CAR,,PHI,L 18-21,False,1,1,100.0,3,3,100.0,0,10,0.0,0,0,0,0,0,1,40,40.00,0,0,0%,0,0%,10,33%,False,Zane Gonzalez
-2021,2021-10-17,6,6,26.163,CAR,,MIN,L 28-34,False,2,2,100.0,2,2,100.0,0,8,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,11,31%,False,Zane Gonzalez
-2021,2021-10-24,7,7,26.170,CAR,@,NYG,L 3-25,False,,,,1,1,100.0,0,3,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,3,11%,True,Zane Gonzalez
-2021,2021-10-31,8,8,26.177,CAR,@,ATL,W 19-13,False,1,1,100.0,4,4,100.0,0,13,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,10,38%,True,Zane Gonzalez
-2021,2021-11-07,9,9,26.184,CAR,,NWE,L 6-24,False,,,,2,2,100.0,0,6,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,5,23%,False,Zane Gonzalez
-2021,2021-11-14,10,10,26.191,CAR,@,ARI,W 34-10,False,2,2,100.0,4,4,100.0,0,14,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,13,52%,True,Zane Gonzalez
-2021,2021-11-21,11,11,26.198,CAR,,WAS,L 21-27,False,3,3,100.0,,,,0,3,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,27%,False,Zane Gonzalez
-2021,2021-11-28,12,12,26.205,CAR,@,MIA,L 10-33,False,1,1,100.0,1,1,100.0,0,4,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,4,14%,True,Zane Gonzalez
-2021,2021-12-12,13,14,26.219,CAR,,ATL,L 21-29,False,3,3,100.0,,,,0,3,0.0,1,0,1,0,0,0,0,,0,0,0%,0,0%,7,30%,False,Zane Gonzalez
-2021,2021-12-19,14,15,,CAR,@,BUF,L 14-31,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Zane Gonzalez
-2021,2021-12-26,15,16,,CAR,,TAM,L 6-32,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Zane Gonzalez
-2021,2022-01-02,16,17,,CAR,@,NOR,L 10-18,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Zane Gonzalez
-2021,2022-01-09,17,18,,CAR,@,TAM,L 17-41,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Zane Gonzalez
-,63 Games,,,,,,,16-45-2,False,127,134,94.8,91,113,80.5,0,400,0.0,1,0,1,0,0,4,140,35.00,0,,,,,,,False,Zane Gonzalez
+Year,Date,G#,Week,Age,Tm,Opp,Result,GS,Scoring_XPM,Scoring_XPA,Scoring_XP%,Scoring_FGM,Scoring_FGA,Scoring_FG%,Scoring_TD,Scoring_Pts,Sk,Tackles_Solo,Tackles_Ast,Tackles_Comb,Tackles_TFL,Tackles_QBHits,Punting_Pnt,Punting_Yds,Punting_Y/P,Punting_Blck,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Player,Win,Score,Opp Score
+2017.0,2017-09-10,1.0,1.0,22.126,CLE,PIT,L 18-21,False,1,1,100.0,1,1,100.0,0,4,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,6,24%,False,Zane Gonzalez,False,18,21
+2017.0,2017-09-17,2.0,2.0,22.133,CLE,BAL,L 10-24,False,1,1,100.0,1,1,100.0,0,4,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,5,20%,True,Zane Gonzalez,False,10,24
+2017.0,2017-09-24,3.0,3.0,22.14,CLE,IND,L 28-31,False,4,4,100.0,,,,0,4,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,9,26%,True,Zane Gonzalez,False,28,31
+2017.0,2017-10-01,4.0,4.0,22.147,CLE,CIN,L 7-31,False,1,1,100.0,,1,0.0,0,1,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,4,16%,False,Zane Gonzalez,False,7,31
+2017.0,2017-10-08,5.0,5.0,22.154,CLE,NYJ,L 14-17,False,2,2,100.0,,2,0.0,0,2,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,7,33%,False,Zane Gonzalez,False,14,17
+2017.0,2017-10-15,6.0,6.0,22.161,CLE,HOU,L 17-33,False,2,2,100.0,1,1,100.0,0,5,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,7,21%,True,Zane Gonzalez,False,17,33
+2017.0,2017-10-22,7.0,7.0,22.168,CLE,TEN,L 9-12,False,,,,3,3,100.0,0,9,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,7,28%,False,Zane Gonzalez,False,9,12
+2017.0,2017-10-29,8.0,8.0,22.175,CLE,MIN,L 16-33,False,1,2,50.0,1,2,50.0,0,4,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,8,24%,False,Zane Gonzalez,False,16,33
+2017.0,2017-11-12,9.0,10.0,22.189,CLE,DET,L 24-38,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,9,29%,True,Zane Gonzalez,False,24,38
+2017.0,2017-11-19,10.0,11.0,22.196,CLE,JAX,L 7-19,False,1,1,100.0,,,,0,1,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,3,10%,False,Zane Gonzalez,False,7,19
+2017.0,2017-11-26,11.0,12.0,22.203,CLE,CIN,L 16-30,False,1,1,100.0,3,4,75.0,0,10,0.0,0,0,0,,,1,16,16.00,0,0,0%,0,0%,10,37%,True,Zane Gonzalez,False,16,30
+2017.0,2017-12-03,12.0,13.0,22.21,CLE,LAC,L 10-19,False,1,1,100.0,1,1,100.0,0,4,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,5,24%,True,Zane Gonzalez,False,10,19
+2017.0,2017-12-10,13.0,14.0,22.217,CLE,GNB,L 21-27,False,3,3,100.0,,,,0,3,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,7,29%,False,Zane Gonzalez,False,21,27
+2017.0,2017-12-17,14.0,15.0,22.224,CLE,BAL,L 10-27,False,1,1,100.0,1,1,100.0,0,4,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,4,16%,False,Zane Gonzalez,False,10,27
+2017.0,2017-12-24,15.0,16.0,22.231,CLE,CHI,L 3-20,False,,,,1,1,100.0,0,3,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,3,12%,True,Zane Gonzalez,False,3,20
+2017.0,2017-12-31,16.0,17.0,22.238,CLE,PIT,L 24-28,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,9,33%,True,Zane Gonzalez,False,24,28
+2018.0,2018-09-09,1.0,1.0,23.125,CLE,PIT,T 21-21,False,3,3,100.0,,1,0.0,0,3,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,8,22%,False,Zane Gonzalez,False,21,21
+2018.0,2018-09-16,2.0,2.0,23.132,CLE,NOR,L 18-21,False,,2,0.0,2,4,50.0,0,6,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,11,41%,True,Zane Gonzalez,False,18,21
+2018.0,2018-12-02,12.0,13.0,23.209,ARI,GNB,W 20-17,False,2,2,100.0,2,2,100.0,0,8,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,9,29%,True,Zane Gonzalez,True,20,17
+2018.0,2018-12-09,13.0,14.0,23.216,ARI,DET,L 3-17,False,,,,1,2,50.0,0,3,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,4,17%,False,Zane Gonzalez,False,3,17
+2018.0,2018-12-16,14.0,15.0,23.223,ARI,ATL,L 14-40,False,2,2,100.0,,,,0,2,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,5,15%,True,Zane Gonzalez,False,14,40
+2018.0,2018-12-23,15.0,16.0,23.23,ARI,LAR,L 9-31,False,,1,0.0,1,2,50.0,0,3,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,6,23%,False,Zane Gonzalez,False,9,31
+2018.0,2018-12-30,16.0,17.0,23.237,ARI,SEA,L 24-27,False,1,1,100.0,3,3,100.0,0,10,0.0,0,0,0,,,0,0,,0,0,0%,0,0%,10,30%,True,Zane Gonzalez,False,24,27
+2019.0,2019-09-08,1.0,1.0,24.124,ARI,DET,T 27-27,False,1,1,100.0,4,4,100.0,0,13,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,12,30%,False,Zane Gonzalez,False,27,27
+2019.0,2019-09-15,2.0,2.0,24.131,ARI,BAL,L 17-23,False,,,,3,3,100.0,0,9,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,9,32%,True,Zane Gonzalez,False,17,23
+2019.0,2019-09-22,3.0,3.0,24.138,ARI,CAR,L 20-38,False,2,2,100.0,2,2,100.0,0,8,0.0,0,0,0,0,0,2,84,42.00,0,0,0%,0,0%,11,37%,False,Zane Gonzalez,False,20,38
+2019.0,2019-09-29,4.0,4.0,24.145,ARI,SEA,L 10-27,False,1,1,100.0,1,3,33.3,0,4,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,27%,False,Zane Gonzalez,False,10,27
+2019.0,2019-10-06,5.0,5.0,24.152,ARI,CIN,W 26-23,False,2,2,100.0,4,5,80.0,0,14,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,13,43%,True,Zane Gonzalez,True,26,23
+2019.0,2019-10-13,6.0,6.0,24.159,ARI,ATL,W 34-33,False,4,4,100.0,2,2,100.0,0,10,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,13,39%,False,Zane Gonzalez,True,34,33
+2019.0,2019-10-20,7.0,7.0,24.166,ARI,NYG,W 27-21,False,3,3,100.0,2,2,100.0,0,9,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,12,41%,True,Zane Gonzalez,True,27,21
+2019.0,2019-10-27,8.0,8.0,24.173,ARI,NOR,L 9-31,False,,,,3,3,100.0,0,9,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,25%,True,Zane Gonzalez,False,9,31
+2019.0,2019-10-31,9.0,9.0,24.177,ARI,SFO,L 25-28,False,2,2,100.0,1,1,100.0,0,5,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,8,31%,False,Zane Gonzalez,False,25,28
+2019.0,2019-11-10,10.0,10.0,24.187,ARI,TAM,L 27-30,False,3,3,100.0,2,2,100.0,0,9,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,11,34%,True,Zane Gonzalez,False,27,30
+2019.0,2019-11-17,11.0,11.0,24.194,ARI,SFO,L 26-36,False,2,3,66.7,2,2,100.0,0,8,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,11,42%,True,Zane Gonzalez,False,26,36
+2019.0,2019-12-01,12.0,13.0,24.208,ARI,LAR,L 7-34,False,1,1,100.0,,,,0,1,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,3,11%,False,Zane Gonzalez,False,7,34
+2019.0,2019-12-08,13.0,14.0,24.215,ARI,PIT,L 17-23,False,2,2,100.0,1,1,100.0,0,5,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,28%,False,Zane Gonzalez,False,17,23
+2019.0,2019-12-15,14.0,15.0,24.222,ARI,CLE,W 38-24,False,5,5,100.0,1,1,100.0,0,8,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,13,48%,False,Zane Gonzalez,True,38,24
+2019.0,2019-12-22,15.0,16.0,24.229,ARI,SEA,W 27-13,False,3,3,100.0,2,3,66.7,0,9,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,12,34%,True,Zane Gonzalez,True,27,13
+2019.0,2019-12-29,16.0,17.0,24.236,ARI,LAR,L 24-31,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,9,31%,True,Zane Gonzalez,False,24,31
+2020.0,2020-09-13,1.0,1.0,25.129,ARI,SFO,W 24-20,False,3,3,100.0,1,3,33.3,0,6,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,10,36%,True,Zane Gonzalez,True,24,20
+2020.0,2020-09-20,2.0,2.0,25.136,ARI,WAS,W 30-15,False,3,3,100.0,3,3,100.0,0,12,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,13,47%,False,Zane Gonzalez,True,30,15
+2020.0,2020-09-27,3.0,3.0,25.143,ARI,DET,L 23-26,False,2,3,66.7,1,1,100.0,0,5,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,9,32%,False,Zane Gonzalez,False,23,26
+2020.0,2020-10-04,4.0,4.0,25.15,ARI,CAR,L 21-31,False,3,3,100.0,,,,0,3,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,28%,True,Zane Gonzalez,False,21,31
+2020.0,2020-10-11,5.0,5.0,25.157,ARI,NYJ,W 30-10,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,0,0,0,0,,0,1,1%,0,0%,10,40%,True,Zane Gonzalez,True,30,10
+2020.0,2020-10-19,6.0,6.0,25.165,ARI,DAL,W 38-10,False,5,5,100.0,1,1,100.0,0,8,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,13,48%,True,Zane Gonzalez,True,38,10
+2020.0,2020-10-25,7.0,7.0,25.171,ARI,SEA,W 37-34,False,4,4,100.0,3,4,75.0,0,13,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,15,45%,False,Zane Gonzalez,True,37,34
+2020.0,2020-11-08,8.0,9.0,25.185,ARI,MIA,L 31-34,False,4,4,100.0,1,2,50.0,0,7,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,12,43%,False,Zane Gonzalez,False,31,34
+2020.0,2020-11-15,9.0,10.0,25.192,ARI,BUF,W 32-30,False,2,2,100.0,4,4,100.0,0,14,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,14,41%,False,Zane Gonzalez,True,32,30
+2020.0,2020-11-19,10.0,11.0,25.196,ARI,SEA,L 21-28,False,3,3,100.0,,,,0,3,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,27%,True,Zane Gonzalez,False,21,28
+2020.0,2020-11-29,11.0,12.0,25.206,ARI,NWE,L 17-20,False,2,2,100.0,1,2,50.0,0,5,0.0,0,0,0,0,0,0,0,,0,1,1%,0,0%,8,36%,True,Zane Gonzalez,False,17,20
+2020.0,2020-12-06,12.0,13.0,25.213,ARI,LAR,L 28-38,False,4,4,100.0,,1,0.0,0,4,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,10,33%,False,Zane Gonzalez,False,28,38
+2020.0,2020-12-13,13.0,14.0,,ARI,NYG,W 26-7,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Zane Gonzalez,True,26,7
+2020.0,2020-12-20,14.0,15.0,,ARI,PHI,W 33-26,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Zane Gonzalez,True,33,26
+2020.0,2020-12-26,15.0,16.0,,ARI,SFO,L 12-20,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Zane Gonzalez,False,12,20
+2020.0,2021-01-03,16.0,17.0,,ARI,LAR,L 7-18,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Zane Gonzalez,False,7,18
+2021.0,2021-09-12,1.0,1.0,,DET,SFO,L 33-41,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Zane Gonzalez,False,33,41
+2021.0,2021-09-19,2.0,2.0,26.135,CAR,NOR,W 26-7,False,2,3,66.7,2,3,66.7,0,8,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,12,48%,False,Zane Gonzalez,True,26,7
+2021.0,2021-09-23,3.0,3.0,26.139,CAR,HOU,W 24-9,False,3,3,100.0,1,1,100.0,0,6,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,9,39%,True,Zane Gonzalez,True,24,9
+2021.0,2021-10-03,4.0,4.0,26.149,CAR,DAL,L 28-36,False,4,4,100.0,,1,0.0,0,4,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,10,34%,True,Zane Gonzalez,False,28,36
+2021.0,2021-10-10,5.0,5.0,26.156,CAR,PHI,L 18-21,False,1,1,100.0,3,3,100.0,0,10,0.0,0,0,0,0,0,1,40,40.00,0,0,0%,0,0%,10,33%,False,Zane Gonzalez,False,18,21
+2021.0,2021-10-17,6.0,6.0,26.163,CAR,MIN,L 28-34,False,2,2,100.0,2,2,100.0,0,8,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,11,31%,False,Zane Gonzalez,False,28,34
+2021.0,2021-10-24,7.0,7.0,26.17,CAR,NYG,L 3-25,False,,,,1,1,100.0,0,3,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,3,11%,True,Zane Gonzalez,False,3,25
+2021.0,2021-10-31,8.0,8.0,26.177,CAR,ATL,W 19-13,False,1,1,100.0,4,4,100.0,0,13,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,10,38%,True,Zane Gonzalez,True,19,13
+2021.0,2021-11-07,9.0,9.0,26.184,CAR,NWE,L 6-24,False,,,,2,2,100.0,0,6,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,5,23%,False,Zane Gonzalez,False,6,24
+2021.0,2021-11-14,10.0,10.0,26.191,CAR,ARI,W 34-10,False,2,2,100.0,4,4,100.0,0,14,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,13,52%,True,Zane Gonzalez,True,34,10
+2021.0,2021-11-21,11.0,11.0,26.198,CAR,WAS,L 21-27,False,3,3,100.0,,,,0,3,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,7,27%,False,Zane Gonzalez,False,21,27
+2021.0,2021-11-28,12.0,12.0,26.205,CAR,MIA,L 10-33,False,1,1,100.0,1,1,100.0,0,4,0.0,0,0,0,0,0,0,0,,0,0,0%,0,0%,4,14%,True,Zane Gonzalez,False,10,33
+2021.0,2021-12-12,13.0,14.0,26.219,CAR,ATL,L 21-29,False,3,3,100.0,,,,0,3,0.0,1,0,1,0,0,0,0,,0,0,0%,0,0%,7,30%,False,Zane Gonzalez,False,21,29
+2021.0,2021-12-19,14.0,15.0,,CAR,BUF,L 14-31,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Zane Gonzalez,False,14,31
+2021.0,2021-12-26,15.0,16.0,,CAR,TAM,L 6-32,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Zane Gonzalez,False,6,32
+2021.0,2022-01-02,16.0,17.0,,CAR,NOR,L 10-18,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Zane Gonzalez,False,10,18
+2021.0,2022-01-09,17.0,18.0,,CAR,TAM,L 17-41,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Zane Gonzalez,False,17,41
+,63 Games,,,,,,16-45-2,False,127,134,94.8,91,113,80.5,0,400,0.0,1,0,1,0,0,4,140,35.00,0,,,,,,,False,Zane Gonzalez,False,45,2

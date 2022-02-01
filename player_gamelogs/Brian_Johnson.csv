@@ -1,18 +1,18 @@
-Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Scoring_XPM,Scoring_XPA,Scoring_XP%,Scoring_FGM,Scoring_FGA,Scoring_FG%,Scoring_TD,Scoring_Pts,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Player
-2021.0,2021-09-12,1.0,1.0,,CHI,@,LAR,L 14-34,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Brian Johnson
-2021.0,2021-09-19,2.0,2.0,,CHI,,CIN,W 20-17,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Brian Johnson
-2021.0,2021-09-26,3.0,3.0,,CHI,@,CLE,L 6-26,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Brian Johnson
-2021.0,2021-10-03,4.0,4.0,,CHI,,DET,W 24-14,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Brian Johnson
-2021.0,2021-10-10,5.0,5.0,,CHI,@,LVR,W 20-9,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Brian Johnson
-2021.0,2021-10-25,6.0,7.0,22.234,NOR,@,SEA,W 13-10,False,1,1,100.0,2,2,100.0,0,7,0,0%,0,0%,7,28%,True,Brian Johnson
-2021.0,2021-10-31,7.0,8.0,22.24,NOR,,TAM,W 36-27,False,3,4,75.0,3,3,100.0,0,12,0,0%,0,0%,15,52%,False,Brian Johnson
-2021.0,2021-11-07,8.0,9.0,22.247,NOR,,ATL,L 25-27,False,1,1,100.0,2,2,100.0,0,7,0,0%,0,0%,9,33%,False,Brian Johnson
-2021.0,2021-11-14,9.0,10.0,22.254,NOR,@,TEN,L 21-23,False,,2,0.0,1,1,100.0,0,3,0,0%,0,0%,8,28%,True,Brian Johnson
-2021.0,2021-11-25,11.0,12.0,,CHI,@,DET,W 16-14,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Brian Johnson
-2021.0,2021-12-05,12.0,13.0,22.275,WAS,@,LVR,W 17-15,False,2,2,100.0,1,1,100.0,0,5,0,0%,0,0%,7,30%,True,Brian Johnson
-2021.0,2021-12-12,13.0,14.0,22.282,WAS,,DAL,L 20-27,False,,1,0.0,,,,0,0,0,0%,0,0%,5,17%,False,Brian Johnson
-2021.0,2021-12-21,14.0,15.0,22.291,WAS,@,PHI,L 17-27,False,2,2,100.0,1,1,100.0,0,5,0,0%,0,0%,7,28%,True,Brian Johnson
-2021.0,2021-12-26,15.0,16.0,,WAS,@,DAL,L 14-56,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Brian Johnson
-2021.0,2022-01-02,16.0,17.0,,WAS,,PHI,L 16-20,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Brian Johnson
-2021.0,2022-01-09,17.0,18.0,,WAS,@,NYG,W 22-7,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Brian Johnson
-,7 Games,,,,,,,3-4-0,False,9,13,69.2,10,10,100.0,0,39,,,,,,,False,Brian Johnson
+Year,Date,G#,Week,Age,Tm,Opp,Result,GS,Scoring_XPM,Scoring_XPA,Scoring_XP%,Scoring_FGM,Scoring_FGA,Scoring_FG%,Scoring_TD,Scoring_Pts,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Player,Win,Score,Opp Score
+2021.0,2021-09-12,1.0,1.0,,CHI,LAR,L 14-34,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Brian Johnson,False,14,34
+2021.0,2021-09-19,2.0,2.0,,CHI,CIN,W 20-17,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Brian Johnson,True,20,17
+2021.0,2021-09-26,3.0,3.0,,CHI,CLE,L 6-26,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Brian Johnson,False,6,26
+2021.0,2021-10-03,4.0,4.0,,CHI,DET,W 24-14,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Brian Johnson,True,24,14
+2021.0,2021-10-10,5.0,5.0,,CHI,LVR,W 20-9,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Brian Johnson,True,20,9
+2021.0,2021-10-25,6.0,7.0,22.234,NOR,SEA,W 13-10,False,1,1,100.0,2,2,100.0,0,7,0,0%,0,0%,7,28%,True,Brian Johnson,True,13,10
+2021.0,2021-10-31,7.0,8.0,22.24,NOR,TAM,W 36-27,False,3,4,75.0,3,3,100.0,0,12,0,0%,0,0%,15,52%,False,Brian Johnson,True,36,27
+2021.0,2021-11-07,8.0,9.0,22.247,NOR,ATL,L 25-27,False,1,1,100.0,2,2,100.0,0,7,0,0%,0,0%,9,33%,False,Brian Johnson,False,25,27
+2021.0,2021-11-14,9.0,10.0,22.254,NOR,TEN,L 21-23,False,,2,0.0,1,1,100.0,0,3,0,0%,0,0%,8,28%,True,Brian Johnson,False,21,23
+2021.0,2021-11-25,11.0,12.0,,CHI,DET,W 16-14,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Brian Johnson,True,16,14
+2021.0,2021-12-05,12.0,13.0,22.275,WAS,LVR,W 17-15,False,2,2,100.0,1,1,100.0,0,5,0,0%,0,0%,7,30%,True,Brian Johnson,True,17,15
+2021.0,2021-12-12,13.0,14.0,22.282,WAS,DAL,L 20-27,False,,1,0.0,,,,0,0,0,0%,0,0%,5,17%,False,Brian Johnson,False,20,27
+2021.0,2021-12-21,14.0,15.0,22.291,WAS,PHI,L 17-27,False,2,2,100.0,1,1,100.0,0,5,0,0%,0,0%,7,28%,True,Brian Johnson,False,17,27
+2021.0,2021-12-26,15.0,16.0,,WAS,DAL,L 14-56,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Brian Johnson,False,14,56
+2021.0,2022-01-02,16.0,17.0,,WAS,PHI,L 16-20,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Brian Johnson,False,16,20
+2021.0,2022-01-09,17.0,18.0,,WAS,NYG,W 22-7,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Brian Johnson,True,22,7
+,7 Games,,,,,,3-4-0,False,9,13,69.2,10,10,100.0,0,39,,,,,,,False,Brian Johnson,False,4,0

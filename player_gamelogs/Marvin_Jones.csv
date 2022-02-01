@@ -1,163 +1,163 @@
-Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Receiving_Tgt,Receiving_Rec,Receiving_Yds,Receiving_Y/R,Receiving_TD,Receiving_Ctch%,Receiving_Y/Tgt,Rushing_Att,Rushing_Yds,Rushing_Y/A,Rushing_TD,Scoring_TD,Scoring_Pts,Sk,Tackles_Solo,Tackles_Ast,Tackles_Comb,Tackles_TFL,Tackles_QBHits,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Player
-2012,2012-09-10,1,1,22.182,CIN,@,BAL,L 13-44,False,,,,,,0.0%,,,,,,0,0,0.0,,,,,,10,14%,0,0%,3,10%,True,Marvin Jones
-2012,2012-09-16,2,2,22.188,CIN,,CLE,W 34-27,False,,,,,,0.0%,,,,,,0,0,0.0,,,,,,12,18%,0,0%,5,16%,False,Marvin Jones
-2012,2012-09-23,3,3,,CIN,@,WAS,W 38-31,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Marvin Jones
-2012,2012-09-30,4,4,22.202,CIN,@,JAX,W 27-10,False,2,1,5,5.00,0,50.0%,2.50,0,0,,0,0,0,0.0,0,0,0,,,11,17%,0,0%,11,41%,True,Marvin Jones
-2012,2012-10-07,5,5,,CIN,,MIA,L 13-17,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Marvin Jones
-2012,2012-10-14,6,6,22.216,CIN,@,CLE,L 24-34,False,2,2,21,10.50,0,100.0%,10.50,0,0,,0,0,0,0.0,1,0,1,0,0,16,22%,0,0%,11,30%,True,Marvin Jones
-2012,2012-10-21,7,7,22.223,CIN,,PIT,L 17-24,False,,,,,,0.0%,,,,,,0,0,0.0,,,,,,0,0%,0,0%,2,8%,False,Marvin Jones
-2012,2012-11-04,8,9,,CIN,,DEN,L 23-31,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Marvin Jones
-2012,2012-11-11,9,10,,CIN,,NYG,W 31-13,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Marvin Jones
-2012,2012-11-18,10,11,,CIN,@,KAN,W 28-6,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Marvin Jones
-2012,2012-11-25,11,12,22.258,CIN,,OAK,W 34-10,False,2,0,0,,0,0.0%,0.00,0,0,,0,0,0,0.0,0,0,0,,,9,13%,0,0%,0,0%,False,Marvin Jones
-2012,2012-12-02,12,13,22.265,CIN,@,SDG,W 20-13,True,3,2,20,10.00,0,66.7%,6.67,0,0,,0,0,0,0.0,0,0,0,0,0,67,88%,0,0%,0,0%,True,Marvin Jones
-2012,2012-12-09,13,14,22.272,CIN,,DAL,L 19-20,True,4,3,45,15.00,0,75.0%,11.25,1,37,37.00,0,0,0,0.0,0,0,0,,,57,92%,0,0%,0,0%,False,Marvin Jones
-2012,2012-12-13,14,15,22.276,CIN,@,PHI,W 34-13,True,4,0,0,,0,0.0%,0.00,1,10,10.00,0,0,0,0.0,0,0,0,,,65,83%,0,0%,0,0%,True,Marvin Jones
-2012,2012-12-23,15,16,22.286,CIN,@,PIT,W 13-10,True,7,5,65,13.00,0,71.4%,9.29,1,0,0.00,0,0,0,0.0,0,0,0,,,60,92%,0,0%,0,0%,True,Marvin Jones
-2012,2012-12-30,16,17,22.293,CIN,,BAL,W 23-17,True,8,5,45,9.00,1,62.5%,5.63,0,0,,0,1,6,0.0,0,0,0,,,48,94%,0,0%,0,0%,False,Marvin Jones
-2013,2013-09-08,1,1,23.180,CIN,@,CHI,L 21-24,False,2,1,7,7.00,0,50.0%,3.50,1,14,14.00,0,0,0,0.0,0,0,0,,,17,29%,0,0%,7,28%,True,Marvin Jones
-2013,2013-09-16,2,2,23.188,CIN,,PIT,W 20-10,False,4,3,35,11.67,0,75.0%,8.75,0,0,,0,0,0,0.0,0,0,0,,,24,29%,0,0%,15,54%,False,Marvin Jones
-2013,2013-09-22,3,3,23.194,CIN,,GNB,W 34-30,False,4,3,38,12.67,1,75.0%,9.50,0,0,,0,1,6,0.0,0,0,0,,,30,54%,0,0%,10,33%,False,Marvin Jones
-2013,2013-09-29,4,4,23.201,CIN,@,CLE,L 6-17,False,3,0,0,,0,0.0%,0.00,0,0,,0,0,0,0.0,0,0,0,,,38,56%,0,0%,6,26%,True,Marvin Jones
-2013,2013-10-06,5,5,23.208,CIN,,NWE,W 13-6,False,2,2,39,19.50,0,100.0%,19.50,1,8,8.00,0,0,0,0.0,1,1,2,0,0,37,53%,0,0%,17,65%,False,Marvin Jones
-2013,2013-10-13,6,6,23.215,CIN,@,BUF,W 27-24,False,5,3,71,23.67,1,60.0%,14.20,1,34,34.00,0,1,6,0.0,1,0,1,0,0,26,30%,0,0%,7,22%,True,Marvin Jones
-2013,2013-10-20,7,7,23.222,CIN,@,DET,W 27-24,False,6,4,57,14.25,1,66.7%,9.50,0,0,,0,1,6,0.0,0,0,0,,,24,42%,0,0%,2,7%,True,Marvin Jones
-2013,2013-10-27,8,8,23.229,CIN,,NYJ,W 49-9,False,8,8,122,15.25,4,100.0%,15.25,0,0,,0,4,24,0.0,0,0,0,,,18,32%,0,0%,0,0%,False,Marvin Jones
-2013,2013-10-31,9,9,23.233,CIN,@,MIA,L 20-22,False,7,4,66,16.50,0,57.1%,9.43,0,0,,0,0,0,0.0,0,0,0,,,50,54%,0,0%,0,0%,True,Marvin Jones
-2013,2013-11-10,10,10,23.243,CIN,@,BAL,L 17-20,False,7,1,2,2.00,0,14.3%,0.29,1,7,7.00,0,0,0,0.0,0,0,0,0,0,61,69%,0,0%,0,0%,True,Marvin Jones
-2013,2013-11-17,11,11,23.250,CIN,,CLE,W 41-20,True,2,1,9,9.00,0,50.0%,4.50,1,-1,-1.00,0,0,0,0.0,0,0,0,,,23,37%,0,0%,0,0%,False,Marvin Jones
-2013,2013-12-01,12,13,23.264,CIN,@,SDG,W 17-10,True,3,2,12,6.00,0,66.7%,4.00,0,0,,0,0,0,0.0,0,0,0,,,24,39%,0,0%,2,10%,True,Marvin Jones
-2013,2013-12-08,13,14,23.271,CIN,,IND,W 42-28,False,4,3,60,20.00,1,75.0%,15.00,1,-3,-3.00,0,1,6,0.0,0,0,0,,,30,39%,0,0%,1,3%,False,Marvin Jones
-2013,2013-12-15,14,15,23.278,CIN,@,PIT,L 20-30,False,9,5,48,9.60,1,55.6%,5.33,0,0,,0,1,6,0.0,0,0,0,,,49,71%,0,0%,0,0%,True,Marvin Jones
-2013,2013-12-22,15,16,23.285,CIN,,MIN,W 42-14,False,7,6,85,14.17,0,85.7%,12.14,2,6,3.00,0,0,0,0.0,0,0,0,,,51,65%,0,0%,0,0%,False,Marvin Jones
-2013,2013-12-29,16,17,23.292,CIN,,BAL,W 34-17,True,7,5,61,12.20,1,71.4%,8.71,0,0,,0,1,6,0.0,0,0,0,0,0,40,59%,0,0%,0,0%,False,Marvin Jones
-2014,2014-09-07,1,1,,CIN,@,BAL,W 23-16,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Marvin Jones
-2014,2014-09-14,2,2,,CIN,,ATL,W 24-10,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Marvin Jones
-2014,2014-09-21,3,3,,CIN,,TEN,W 33-7,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Marvin Jones
-2014,2014-10-05,4,5,,CIN,@,NWE,L 17-43,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Marvin Jones
-2014,2014-10-12,5,6,,CIN,,CAR,T 37-37,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Marvin Jones
-2014,2014-10-19,6,7,,CIN,@,IND,L 0-27,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Marvin Jones
-2014,2014-10-26,7,8,,CIN,,BAL,W 27-24,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Marvin Jones
-2014,2014-11-02,8,9,,CIN,,JAX,W 33-23,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Marvin Jones
-2014,2014-11-06,9,10,,CIN,,CLE,L 3-24,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Marvin Jones
-2014,2014-11-16,10,11,,CIN,@,NOR,W 27-10,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Marvin Jones
-2014,2014-11-23,11,12,,CIN,@,HOU,W 22-13,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Marvin Jones
-2014,2014-11-30,12,13,,CIN,@,TAM,W 14-13,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Marvin Jones
-2014,2014-12-07,13,14,,CIN,,PIT,L 21-42,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Marvin Jones
-2014,2014-12-14,14,15,,CIN,@,CLE,W 30-0,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Marvin Jones
-2014,2014-12-22,15,16,,CIN,,DEN,W 37-28,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Marvin Jones
-2014,2014-12-28,16,17,,CIN,@,PIT,L 17-27,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Marvin Jones
-2015,2015-09-13,1,1,25.185,CIN,@,OAK,W 33-13,False,3,2,19,9.50,0,66.7%,6.33,0,0,,0,0,0,0.0,0,0,0,,,43,63%,0,0%,2,7%,True,Marvin Jones
-2015,2015-09-20,2,2,25.192,CIN,,SDG,W 24-19,True,5,2,48,24.00,1,40.0%,9.60,1,3,3.00,0,1,6,0.0,0,0,0,0,0,53,80%,0,0%,0,0%,False,Marvin Jones
-2015,2015-09-27,3,3,25.199,CIN,@,BAL,W 28-24,True,8,5,94,18.80,1,62.5%,11.75,0,0,,0,1,6,0.0,0,0,0,,,63,86%,0,0%,0,0%,True,Marvin Jones
-2015,2015-10-04,4,4,25.206,CIN,,KAN,W 36-21,True,2,1,4,4.00,0,50.0%,2.00,1,6,6.00,0,0,0,0.0,0,0,0,,,44,81%,0,0%,0,0%,False,Marvin Jones
-2015,2015-10-11,5,5,25.213,CIN,,SEA,W 27-24,False,8,5,61,12.20,0,62.5%,7.63,0,0,,0,0,0,0.0,0,0,0,,,78,92%,0,0%,0,0%,False,Marvin Jones
-2015,2015-10-18,6,6,25.220,CIN,@,BUF,W 34-21,True,12,9,95,10.56,1,75.0%,7.92,0,0,,0,1,6,0.0,0,0,0,,,49,80%,0,0%,1,4%,True,Marvin Jones
-2015,2015-11-01,7,8,25.234,CIN,@,PIT,W 16-10,True,5,2,12,6.00,0,40.0%,2.40,1,2,2.00,0,0,0,0.0,0,0,0,0,0,60,90%,0,0%,0,0%,True,Marvin Jones
-2015,2015-11-05,8,9,25.238,CIN,,CLE,W 31-10,True,6,5,78,15.60,0,83.3%,13.00,0,0,,0,0,0,0.0,0,0,0,,,52,78%,0,0%,0,0%,False,Marvin Jones
-2015,2015-11-16,9,10,25.249,CIN,,HOU,L 6-10,True,9,4,44,11.00,0,44.4%,4.89,1,-8,-8.00,0,0,0,0.0,0,0,0,,,62,93%,0,0%,0,0%,False,Marvin Jones
-2015,2015-11-22,10,11,25.255,CIN,@,ARI,L 31-34,True,9,4,60,15.00,0,44.4%,6.67,0,0,,0,0,0,0.0,0,0,0,,,69,91%,0,0%,0,0%,True,Marvin Jones
-2015,2015-11-29,11,12,25.262,CIN,,STL,W 31-7,False,5,3,25,8.33,0,60.0%,5.00,1,30,30.00,0,0,0,0.0,0,0,0,0,0,50,85%,0,0%,0,0%,False,Marvin Jones
-2015,2015-12-06,12,13,25.269,CIN,@,CLE,W 37-3,True,5,5,55,11.00,1,100.0%,11.00,0,0,,0,1,6,0.0,0,0,0,,,43,75%,0,0%,0,0%,True,Marvin Jones
-2015,2015-12-13,13,14,25.276,CIN,,PIT,L 20-33,True,8,6,61,10.17,0,75.0%,7.63,0,0,,0,0,0,0.0,0,0,0,,,57,98%,0,0%,0,0%,False,Marvin Jones
-2015,2015-12-20,14,15,25.283,CIN,@,SFO,W 24-14,True,6,4,89,22.25,0,66.7%,14.83,0,0,,0,0,0,0.0,0,0,0,,,58,91%,0,0%,1,3%,True,Marvin Jones
-2015,2015-12-28,15,16,25.291,CIN,@,DEN,L 17-20,True,7,3,33,11.00,0,42.9%,4.71,0,0,,0,0,0,0.0,0,0,0,,,65,90%,0,0%,0,0%,True,Marvin Jones
-2015,2016-01-03,16,17,25.297,CIN,,BAL,W 24-16,True,5,5,38,7.60,0,100.0%,7.60,0,0,,0,0,0,0.0,0,0,0,,,54,89%,0,0%,0,0%,False,Marvin Jones
-2016,2016-09-11,1,1,26.183,DET,@,IND,W 39-35,True,10,4,85,21.25,0,40.0%,8.50,0,0,,0,0,0,0.0,0,0,0,,,61,94%,0,0%,0,0%,True,Marvin Jones
-2016,2016-09-18,2,2,26.190,DET,,TEN,L 15-16,True,11,8,118,14.75,0,72.7%,10.73,0,0,,0,0,0,0.0,0,0,0,,,73,92%,0,0%,0,0%,False,Marvin Jones
-2016,2016-09-25,3,3,26.197,DET,@,GNB,L 27-34,True,8,6,205,34.17,2,75.0%,25.63,0,0,,0,2,12,0.0,0,0,0,,,65,96%,0,0%,0,0%,True,Marvin Jones
-2016,2016-10-02,4,4,26.204,DET,@,CHI,L 14-17,True,7,5,74,14.80,0,71.4%,10.57,0,0,,0,0,0,0.0,0,0,0,,,61,97%,0,0%,0,0%,True,Marvin Jones
-2016,2016-10-09,5,5,26.211,DET,,PHI,W 24-23,True,5,4,37,9.25,1,80.0%,7.40,0,0,,0,1,6,0.0,0,0,0,,,53,87%,0,0%,0,0%,False,Marvin Jones
-2016,2016-10-16,6,6,26.218,DET,,LAR,W 31-28,True,6,2,10,5.00,1,33.3%,1.67,1,3,3.00,0,1,6,0.0,0,0,0,,,56,90%,0,0%,0,0%,False,Marvin Jones
-2016,2016-10-23,7,7,26.225,DET,,WAS,W 20-17,True,5,4,94,23.50,0,80.0%,18.80,0,0,,0,0,0,0.0,0,0,0,,,49,92%,0,0%,0,0%,False,Marvin Jones
-2016,2016-10-30,8,8,26.232,DET,@,HOU,L 13-20,True,7,3,33,11.00,0,42.9%,4.71,0,0,,0,0,0,0.0,0,0,0,,,60,98%,0,0%,0,0%,True,Marvin Jones
-2016,2016-11-06,9,9,26.239,DET,@,MIN,W 22-16,True,5,1,5,5.00,0,20.0%,1.00,0,0,,0,0,0,0.0,0,0,0,,,62,94%,0,0%,0,0%,True,Marvin Jones
-2016,2016-11-20,10,11,26.253,DET,,JAX,W 26-19,True,2,1,15,15.00,0,50.0%,7.50,0,0,,0,0,0,0.0,0,0,0,,,51,89%,0,0%,0,0%,False,Marvin Jones
-2016,2016-11-24,11,12,26.257,DET,,MIN,W 16-13,True,11,4,54,13.50,0,36.4%,4.91,0,0,,0,0,0,0.0,0,0,0,,,59,97%,0,0%,0,0%,False,Marvin Jones
-2016,2016-12-04,12,13,,DET,@,NOR,W 28-13,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Marvin Jones
-2016,2016-12-11,13,14,26.274,DET,,CHI,W 20-17,True,5,4,67,16.75,0,80.0%,13.40,0,0,,0,0,0,0.0,0,0,0,,,60,83%,0,0%,0,0%,False,Marvin Jones
-2016,2016-12-18,14,15,26.281,DET,@,NYG,L 6-17,True,5,3,41,13.67,0,60.0%,8.20,0,0,,0,0,0,0.0,0,0,0,,,51,82%,0,0%,0,0%,True,Marvin Jones
-2016,2016-12-26,15,16,26.289,DET,@,DAL,L 21-42,True,7,1,16,16.00,0,14.3%,2.29,0,0,,0,0,0,0.0,0,0,0,,,56,79%,0,0%,0,0%,True,Marvin Jones
-2016,2017-01-01,16,17,26.295,DET,,GNB,L 24-31,True,9,5,76,15.20,0,55.6%,8.44,0,0,,0,0,0,0.0,0,0,0,,,62,94%,0,0%,0,0%,False,Marvin Jones
-2017,2017-09-10,1,1,27.182,DET,,ARI,W 35-23,True,2,2,37,18.50,1,100.0%,18.50,0,0,,0,1,6,0.0,0,0,0,,,68,96%,0,0%,0,0%,False,Marvin Jones
-2017,2017-09-18,2,2,27.190,DET,@,NYG,W 24-10,True,5,1,27,27.00,1,20.0%,5.40,0,0,,0,1,6,0.0,0,0,0,,,56,90%,0,0%,0,0%,True,Marvin Jones
-2017,2017-09-24,3,3,27.196,DET,,ATL,L 26-30,True,6,3,24,8.00,0,50.0%,4.00,0,0,,0,0,0,0.0,0,0,0,,,68,97%,0,0%,0,0%,False,Marvin Jones
-2017,2017-10-01,4,4,27.203,DET,@,MIN,W 14-7,True,5,2,42,21.00,0,40.0%,8.40,0,0,,0,0,0,0.0,0,0,0,,,64,91%,0,0%,0,0%,True,Marvin Jones
-2017,2017-10-08,5,5,27.210,DET,,CAR,L 24-27,True,8,6,54,9.00,0,75.0%,6.75,0,0,,0,0,0,0.0,0,0,0,,,58,95%,0,0%,0,0%,False,Marvin Jones
-2017,2017-10-15,6,6,27.217,DET,@,NOR,L 38-52,True,14,6,96,16.00,1,42.9%,6.86,0,0,,0,1,6,0.0,0,0,0,,,80,99%,0,0%,0,0%,True,Marvin Jones
-2017,2017-10-29,7,8,27.231,DET,,PIT,L 15-20,True,11,6,128,21.33,0,54.5%,11.64,0,0,,0,0,0,0.0,0,0,0,,,68,96%,0,0%,0,0%,False,Marvin Jones
-2017,2017-11-06,8,9,27.239,DET,@,GNB,W 30-17,True,11,7,107,15.29,2,63.6%,9.73,0,0,,0,2,12,0.0,0,0,0,,,65,96%,0,0%,0,0%,True,Marvin Jones
-2017,2017-11-12,9,10,27.245,DET,,CLE,W 38-24,True,2,1,22,22.00,0,50.0%,11.00,0,0,,0,0,0,0.0,0,0,0,,,50,96%,0,0%,0,0%,False,Marvin Jones
-2017,2017-11-19,10,11,27.252,DET,@,CHI,W 27-24,True,7,4,85,21.25,1,57.1%,12.14,0,0,,0,1,6,0.0,0,0,0,,,62,98%,0,0%,0,0%,True,Marvin Jones
-2017,2017-11-23,11,12,27.256,DET,,MIN,L 23-30,True,9,6,109,18.17,2,66.7%,12.11,0,0,,0,2,12,0.0,0,0,0,,,59,100%,0,0%,0,0%,False,Marvin Jones
-2017,2017-12-03,12,13,27.266,DET,@,BAL,L 20-44,True,8,4,90,22.50,0,50.0%,11.25,0,0,,0,0,0,0.0,0,0,0,,,59,94%,0,0%,0,0%,True,Marvin Jones
-2017,2017-12-10,13,14,27.273,DET,@,TAM,W 24-21,True,4,3,64,21.33,0,75.0%,16.00,0,0,,0,0,0,0.0,0,0,0,,,67,99%,0,0%,0,0%,True,Marvin Jones
-2017,2017-12-16,14,15,27.279,DET,,CHI,W 20-10,True,5,3,85,28.33,0,60.0%,17.00,0,0,,0,0,0,0.0,0,0,0,,,62,98%,0,0%,1,4%,False,Marvin Jones
-2017,2017-12-24,15,16,27.287,DET,@,CIN,L 17-26,True,5,3,50,16.67,0,60.0%,10.00,0,0,,0,0,0,0.0,0,0,0,,,61,100%,0,0%,0,0%,True,Marvin Jones
-2017,2017-12-31,16,17,27.294,DET,,GNB,W 35-11,True,5,4,81,20.25,1,80.0%,16.20,0,0,,0,1,6,0.0,0,0,0,,,55,95%,0,0%,1,4%,False,Marvin Jones
-2018,2018-09-10,1,1,28.182,DET,,NYJ,L 17-48,True,8,4,54,13.50,0,50.0%,6.75,0,0,,0,0,0,0.0,0,0,0,0,0,62,89%,0,0%,0,0%,False,Marvin Jones
-2018,2018-09-16,2,2,28.188,DET,@,SFO,L 27-30,True,9,4,54,13.50,1,44.4%,6.00,0,0,,0,1,6,0.0,0,0,0,,,77,100%,0,0%,0,0%,True,Marvin Jones
-2018,2018-09-23,3,3,28.195,DET,,NWE,W 26-10,True,6,4,69,17.25,1,66.7%,11.50,0,0,,0,1,6,0.0,0,0,0,,,67,92%,0,0%,0,0%,False,Marvin Jones
-2018,2018-09-30,4,4,28.202,DET,@,DAL,L 24-26,True,6,3,56,18.67,0,50.0%,9.33,0,0,,0,0,0,0.0,0,0,0,,,50,93%,0,0%,0,0%,True,Marvin Jones
-2018,2018-10-07,5,5,28.209,DET,,GNB,W 31-23,True,4,1,8,8.00,1,25.0%,2.00,0,0,,0,1,6,0.0,0,0,0,,,58,94%,0,0%,1,4%,False,Marvin Jones
-2018,2018-10-21,6,7,28.223,DET,@,MIA,W 32-21,True,4,3,29,9.67,0,75.0%,7.25,0,0,,0,0,0,0.0,0,0,0,,,56,88%,0,0%,0,0%,True,Marvin Jones
-2018,2018-10-28,7,8,28.230,DET,,SEA,L 14-28,True,10,7,117,16.71,2,70.0%,11.70,0,0,,0,2,12,0.0,0,0,0,,,57,97%,0,0%,0,0%,False,Marvin Jones
-2018,2018-11-04,8,9,28.237,DET,@,MIN,L 9-24,True,8,6,66,11.00,0,75.0%,8.25,0,0,,0,0,0,0.0,0,0,0,,,63,90%,0,0%,0,0%,True,Marvin Jones
-2018,2018-11-11,9,10,28.244,DET,@,CHI,L 22-34,True,7,3,55,18.33,0,42.9%,7.86,0,0,,0,0,0,0.0,0,0,0,,,48,62%,0,0%,0,0%,True,Marvin Jones
-2018,2018-11-18,10,11,,DET,,CAR,W 20-19,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Marvin Jones
-2018,2018-11-22,11,12,,DET,,CHI,L 16-23,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Marvin Jones
-2018,2018-12-02,12,13,,DET,,LAR,L 16-30,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Marvin Jones
-2018,2018-12-09,13,14,,DET,@,ARI,W 17-3,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Marvin Jones
-2018,2018-12-16,14,15,,DET,@,BUF,L 13-14,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Marvin Jones
-2018,2018-12-23,15,16,,DET,,MIN,L 9-27,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Marvin Jones
-2018,2018-12-30,16,17,,DET,@,GNB,W 31-0,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Marvin Jones
-2019,2019-09-08,1,1,29.180,DET,@,ARI,T 27-27,True,4,4,56,14.00,0,100.0%,14.00,1,4,4.00,0,0,0,0.0,0,0,0,0,0,68,81%,0,0%,0,0%,True,Marvin Jones
-2019,2019-09-15,2,2,29.187,DET,,LAC,W 13-10,True,6,5,43,8.60,0,83.3%,7.17,0,0,,0,0,0,0.0,0,0,0,0,0,55,92%,0,0%,0,0%,False,Marvin Jones
-2019,2019-09-22,3,3,29.194,DET,@,PHI,W 27-24,True,9,6,101,16.83,1,66.7%,11.22,0,0,,0,1,6,0.0,0,0,0,0,0,50,82%,0,0%,0,0%,True,Marvin Jones
-2019,2019-09-29,4,4,29.201,DET,,KAN,L 30-34,True,5,3,77,25.67,0,60.0%,15.40,0,0,,0,0,0,0.0,0,0,0,0,0,74,97%,0,0%,0,0%,False,Marvin Jones
-2019,2019-10-14,5,6,29.216,DET,@,GNB,L 22-23,False,5,2,17,8.50,0,40.0%,3.40,0,0,,0,0,0,0.0,0,0,0,0,0,45,82%,0,0%,0,0%,True,Marvin Jones
-2019,2019-10-20,6,7,29.222,DET,,MIN,L 30-42,True,13,10,93,9.30,4,76.9%,7.15,0,0,,0,4,24,0.0,0,0,0,0,0,72,96%,0,0%,0,0%,False,Marvin Jones
-2019,2019-10-27,7,8,29.229,DET,,NYG,W 31-26,True,5,4,22,5.50,0,80.0%,4.40,0,0,,0,0,0,0.0,0,0,0,0,0,55,89%,0,0%,1,4%,False,Marvin Jones
-2019,2019-11-03,8,9,29.236,DET,@,OAK,L 24-31,True,10,8,126,15.75,1,80.0%,12.60,0,0,,0,1,6,0.0,0,0,0,0,0,61,88%,0,0%,0,0%,True,Marvin Jones
-2019,2019-11-10,9,10,29.243,DET,@,CHI,L 13-20,True,5,5,77,15.40,0,100.0%,15.40,0,0,,0,0,0,0.0,0,0,0,0,0,75,91%,0,0%,0,0%,True,Marvin Jones
-2019,2019-11-17,10,11,29.250,DET,,DAL,L 27-35,False,5,4,43,10.75,2,80.0%,8.60,1,-4,-4.00,0,2,12,0.0,0,0,0,0,0,54,87%,0,0%,1,3%,False,Marvin Jones
-2019,2019-11-24,11,12,29.257,DET,@,WAS,L 16-19,True,11,5,46,9.20,0,45.5%,4.18,0,0,,0,0,0,0.0,0,0,0,0,0,67,91%,0,0%,0,0%,True,Marvin Jones
-2019,2019-11-28,12,13,29.261,DET,,CHI,L 20-24,True,6,3,40,13.33,1,50.0%,6.67,0,0,,0,1,6,0.0,0,0,0,0,0,71,96%,0,0%,0,0%,False,Marvin Jones
-2019,2019-12-08,13,14,29.271,DET,@,MIN,L 7-20,True,7,3,38,12.67,0,42.9%,5.43,0,0,,0,0,0,0.0,0,0,0,0,0,71,100%,0,0%,0,0%,True,Marvin Jones
-2019,2019-12-15,14,15,,DET,,TAM,L 17-38,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Marvin Jones
-2019,2019-12-22,15,16,,DET,@,DEN,L 17-27,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Marvin Jones
-2019,2019-12-29,16,17,,DET,,GNB,L 20-23,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Marvin Jones
-2020,2020-09-13,1,1,30.185,DET,,CHI,L 23-27,True,8,4,55,13.75,0,50.0%,6.88,0,0,,0,0,0,0.0,0,0,0,0,0,71,91%,0,0%,0,0%,False,Marvin Jones
-2020,2020-09-20,2,2,30.192,DET,@,GNB,L 21-42,True,6,4,23,5.75,1,66.7%,3.83,0,0,,0,1,6,0.0,0,0,0,0,0,53,90%,0,0%,0,0%,True,Marvin Jones
-2020,2020-09-27,3,3,30.199,DET,@,ARI,W 26-23,True,3,3,51,17.00,0,100.0%,17.00,0,0,,0,0,0,0.0,0,0,0,0,0,60,91%,0,0%,0,0%,True,Marvin Jones
-2020,2020-10-04,4,4,30.206,DET,,NOR,L 29-35,True,2,1,9,9.00,0,50.0%,4.50,0,0,,0,0,0,0.0,0,0,0,0,0,54,89%,0,0%,0,0%,False,Marvin Jones
-2020,2020-10-18,5,6,30.220,DET,@,JAX,W 34-16,True,5,2,8,4.00,0,40.0%,1.60,0,0,,0,0,0,0.0,0,0,0,0,0,62,81%,0,0%,1,4%,True,Marvin Jones
-2020,2020-10-25,6,7,30.227,DET,@,ATL,W 23-22,True,6,5,80,16.00,0,83.3%,13.33,0,0,,0,0,0,0.0,0,0,0,0,0,55,90%,0,0%,0,0%,True,Marvin Jones
-2020,2020-11-01,7,8,30.234,DET,,IND,L 21-41,True,7,3,39,13.00,2,42.9%,5.57,0,0,,0,2,12,0.0,0,0,0,0,0,60,98%,0,0%,0,0%,False,Marvin Jones
-2020,2020-11-08,8,9,30.241,DET,@,MIN,L 20-34,True,4,3,43,14.33,1,75.0%,10.75,0,0,,0,1,6,0.0,0,0,0,0,0,71,95%,0,0%,0,0%,True,Marvin Jones
-2020,2020-11-15,9,10,30.248,DET,,WAS,W 30-27,True,10,8,96,12.00,1,80.0%,9.60,0,0,,0,1,6,0.0,0,0,0,0,0,51,86%,0,0%,0,0%,False,Marvin Jones
-2020,2020-11-22,10,11,30.255,DET,@,CAR,L 0-20,True,6,4,51,12.75,0,66.7%,8.50,0,0,,0,0,0,0.0,0,0,0,0,0,50,89%,0,0%,0,0%,True,Marvin Jones
-2020,2020-11-26,11,12,30.259,DET,,HOU,L 25-41,True,12,6,48,8.00,0,50.0%,4.00,0,0,,0,0,0,0.0,0,0,0,0,0,68,83%,0,0%,0,0%,False,Marvin Jones
-2020,2020-12-06,12,13,30.269,DET,@,CHI,W 34-30,True,12,8,116,14.50,1,66.7%,9.67,0,0,,0,1,6,0.0,0,0,0,0,0,64,94%,0,0%,0,0%,True,Marvin Jones
-2020,2020-12-13,13,14,30.276,DET,,GNB,L 24-31,True,8,4,48,12.00,0,50.0%,6.00,0,0,,0,0,0,0.0,0,0,0,0,0,59,88%,0,0%,0,0%,False,Marvin Jones
-2020,2020-12-20,14,15,30.283,DET,@,TEN,L 25-46,True,12,10,112,11.20,1,83.3%,9.33,0,0,,0,1,6,0.0,0,0,0,0,0,58,89%,0,0%,0,0%,True,Marvin Jones
-2020,2020-12-26,15,16,30.289,DET,,TAM,L 7-47,True,3,3,19,6.33,0,100.0%,6.33,0,0,,0,0,0,0.0,0,0,0,0,0,50,94%,0,0%,0,0%,False,Marvin Jones
-2020,2021-01-03,16,17,30.297,DET,,MIN,L 35-37,True,11,8,180,22.50,2,72.7%,16.36,0,0,,0,2,12,0.0,0,0,0,0,0,53,91%,0,0%,0,0%,False,Marvin Jones
-2021,2021-09-12,1,1,31.184,JAX,@,HOU,L 21-37,True,9,5,77,15.40,1,55.6%,8.56,0,0,,0,1,6,0.0,0,0,0,0,0,67,90%,0,0%,0,0%,True,Marvin Jones
-2021,2021-09-19,2,2,31.191,JAX,,DEN,L 13-23,True,11,6,55,9.17,1,54.5%,5.00,0,0,,0,1,6,0.0,0,0,0,0,0,49,88%,0,0%,0,0%,False,Marvin Jones
-2021,2021-09-26,3,3,31.198,JAX,,ARI,L 19-31,True,8,6,62,10.33,0,75.0%,7.75,0,0,,0,0,0,0.0,0,0,0,0,0,66,97%,0,0%,0,0%,False,Marvin Jones
-2021,2021-09-30,4,4,31.202,JAX,@,CIN,L 21-24,False,3,3,24,8.00,0,100.0%,8.00,0,0,,0,0,0,0.0,0,0,0,0,0,52,93%,0,0%,0,0%,True,Marvin Jones
-2021,2021-10-10,5,5,31.212,JAX,,TEN,L 19-37,True,6,1,25,25.00,0,16.7%,4.17,0,0,,0,0,0,0.0,0,0,0,0,0,66,93%,0,0%,0,0%,False,Marvin Jones
-2021,2021-10-17,6,6,31.219,JAX,,MIA,W 23-20,True,10,7,100,14.29,1,70.0%,10.00,0,0,,0,1,6,0.0,0,0,0,0,0,57,86%,0,0%,0,0%,False,Marvin Jones
-2021,2021-10-31,7,8,31.233,JAX,@,SEA,L 7-31,True,8,5,35,7.00,0,62.5%,4.38,0,0,,0,0,0,0.0,0,0,0,0,0,69,91%,0,0%,0,0%,True,Marvin Jones
-2021,2021-11-07,8,9,31.240,JAX,,BUF,W 9-6,True,5,3,21,7.00,0,60.0%,4.20,0,0,,0,0,0,0.0,0,0,0,0,0,51,84%,0,0%,0,0%,False,Marvin Jones
-2021,2021-11-14,9,10,31.247,JAX,@,IND,L 17-23,True,6,2,35,17.50,0,33.3%,5.83,0,0,,0,0,0,0.0,0,0,0,0,0,56,85%,0,0%,0,0%,True,Marvin Jones
-2021,2021-11-21,10,11,31.254,JAX,,SFO,L 10-30,True,6,4,52,13.00,0,66.7%,8.67,0,0,,0,0,0,0.0,0,0,0,0,0,42,91%,0,0%,0,0%,False,Marvin Jones
-2021,2021-11-28,11,12,31.261,JAX,,ATL,L 14-21,True,7,4,43,10.75,0,57.1%,6.14,0,0,,0,0,0,0.0,0,0,0,0,0,71,97%,0,0%,0,0%,False,Marvin Jones
-2021,2021-12-05,12,13,31.268,JAX,@,LAR,L 7-37,True,3,2,11,5.50,0,66.7%,3.67,0,0,,0,0,0,0.0,0,0,0,0,0,49,83%,0,0%,0,0%,True,Marvin Jones
-2021,2021-12-12,13,14,31.275,JAX,@,TEN,L 0-20,True,7,6,70,11.67,0,85.7%,10.00,0,0,,0,0,0,0.0,1,0,1,0,0,54,98%,0,0%,0,0%,True,Marvin Jones
-2021,2021-12-19,14,15,31.282,JAX,,HOU,L 16-30,True,4,2,14,7.00,0,50.0%,3.50,0,0,,0,0,0,0.0,0,0,0,0,0,65,93%,0,0%,0,0%,False,Marvin Jones
-2021,2021-12-26,15,16,31.289,JAX,@,NYJ,L 21-26,True,13,8,74,9.25,0,61.5%,5.69,0,0,,0,0,0,0.0,0,0,0,0,0,60,82%,0,0%,0,0%,True,Marvin Jones
-2021,2022-01-02,16,17,31.296,JAX,@,NWE,L 10-50,True,6,2,46,23.00,0,33.3%,7.67,0,0,,0,0,0,0.0,0,0,0,0,0,45,96%,0,0%,0,0%,True,Marvin Jones
-2021,2022-01-09,17,18,31.303,JAX,,IND,W 26-11,True,8,7,88,12.57,1,87.5%,11.00,0,0,,0,1,6,0.0,0,0,0,0,0,61,90%,0,0%,1,5%,False,Marvin Jones
-,129 Games,,,,,,,61-67-1,False,813,496,6857,13.82,55,61.0%,8.43,19,148,7.79,0,55,330,0.0,4,1,5,0,0,,,,,,,False,Marvin Jones
+Year,Date,G#,Week,Age,Tm,Opp,Result,GS,Receiving_Tgt,Receiving_Rec,Receiving_Yds,Receiving_Y/R,Receiving_TD,Receiving_Ctch%,Receiving_Y/Tgt,Rushing_Att,Rushing_Yds,Rushing_Y/A,Rushing_TD,Scoring_TD,Scoring_Pts,Sk,Tackles_Solo,Tackles_Ast,Tackles_Comb,Tackles_TFL,Tackles_QBHits,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Player,Win,Score,Opp Score
+2012.0,2012-09-10,1.0,1.0,22.182,CIN,BAL,L 13-44,False,,,,,,0.0%,,,,,,0,0,0.0,,,,,,10,14%,0,0%,3,10%,True,Marvin Jones,False,13,44
+2012.0,2012-09-16,2.0,2.0,22.188,CIN,CLE,W 34-27,False,,,,,,0.0%,,,,,,0,0,0.0,,,,,,12,18%,0,0%,5,16%,False,Marvin Jones,True,34,27
+2012.0,2012-09-23,3.0,3.0,,CIN,WAS,W 38-31,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Marvin Jones,True,38,31
+2012.0,2012-09-30,4.0,4.0,22.202,CIN,JAX,W 27-10,False,2,1,5,5.00,0,50.0%,2.50,0,0,,0,0,0,0.0,0,0,0,,,11,17%,0,0%,11,41%,True,Marvin Jones,True,27,10
+2012.0,2012-10-07,5.0,5.0,,CIN,MIA,L 13-17,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Marvin Jones,False,13,17
+2012.0,2012-10-14,6.0,6.0,22.216,CIN,CLE,L 24-34,False,2,2,21,10.50,0,100.0%,10.50,0,0,,0,0,0,0.0,1,0,1,0,0,16,22%,0,0%,11,30%,True,Marvin Jones,False,24,34
+2012.0,2012-10-21,7.0,7.0,22.223,CIN,PIT,L 17-24,False,,,,,,0.0%,,,,,,0,0,0.0,,,,,,0,0%,0,0%,2,8%,False,Marvin Jones,False,17,24
+2012.0,2012-11-04,8.0,9.0,,CIN,DEN,L 23-31,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Marvin Jones,False,23,31
+2012.0,2012-11-11,9.0,10.0,,CIN,NYG,W 31-13,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Marvin Jones,True,31,13
+2012.0,2012-11-18,10.0,11.0,,CIN,KAN,W 28-6,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Marvin Jones,True,28,6
+2012.0,2012-11-25,11.0,12.0,22.258,CIN,OAK,W 34-10,False,2,0,0,,0,0.0%,0.00,0,0,,0,0,0,0.0,0,0,0,,,9,13%,0,0%,0,0%,False,Marvin Jones,True,34,10
+2012.0,2012-12-02,12.0,13.0,22.265,CIN,SDG,W 20-13,True,3,2,20,10.00,0,66.7%,6.67,0,0,,0,0,0,0.0,0,0,0,0,0,67,88%,0,0%,0,0%,True,Marvin Jones,True,20,13
+2012.0,2012-12-09,13.0,14.0,22.272,CIN,DAL,L 19-20,True,4,3,45,15.00,0,75.0%,11.25,1,37,37.00,0,0,0,0.0,0,0,0,,,57,92%,0,0%,0,0%,False,Marvin Jones,False,19,20
+2012.0,2012-12-13,14.0,15.0,22.276,CIN,PHI,W 34-13,True,4,0,0,,0,0.0%,0.00,1,10,10.00,0,0,0,0.0,0,0,0,,,65,83%,0,0%,0,0%,True,Marvin Jones,True,34,13
+2012.0,2012-12-23,15.0,16.0,22.286,CIN,PIT,W 13-10,True,7,5,65,13.00,0,71.4%,9.29,1,0,0.00,0,0,0,0.0,0,0,0,,,60,92%,0,0%,0,0%,True,Marvin Jones,True,13,10
+2012.0,2012-12-30,16.0,17.0,22.293,CIN,BAL,W 23-17,True,8,5,45,9.00,1,62.5%,5.63,0,0,,0,1,6,0.0,0,0,0,,,48,94%,0,0%,0,0%,False,Marvin Jones,True,23,17
+2013.0,2013-09-08,1.0,1.0,23.18,CIN,CHI,L 21-24,False,2,1,7,7.00,0,50.0%,3.50,1,14,14.00,0,0,0,0.0,0,0,0,,,17,29%,0,0%,7,28%,True,Marvin Jones,False,21,24
+2013.0,2013-09-16,2.0,2.0,23.188,CIN,PIT,W 20-10,False,4,3,35,11.67,0,75.0%,8.75,0,0,,0,0,0,0.0,0,0,0,,,24,29%,0,0%,15,54%,False,Marvin Jones,True,20,10
+2013.0,2013-09-22,3.0,3.0,23.194,CIN,GNB,W 34-30,False,4,3,38,12.67,1,75.0%,9.50,0,0,,0,1,6,0.0,0,0,0,,,30,54%,0,0%,10,33%,False,Marvin Jones,True,34,30
+2013.0,2013-09-29,4.0,4.0,23.201,CIN,CLE,L 6-17,False,3,0,0,,0,0.0%,0.00,0,0,,0,0,0,0.0,0,0,0,,,38,56%,0,0%,6,26%,True,Marvin Jones,False,6,17
+2013.0,2013-10-06,5.0,5.0,23.208,CIN,NWE,W 13-6,False,2,2,39,19.50,0,100.0%,19.50,1,8,8.00,0,0,0,0.0,1,1,2,0,0,37,53%,0,0%,17,65%,False,Marvin Jones,True,13,6
+2013.0,2013-10-13,6.0,6.0,23.215,CIN,BUF,W 27-24,False,5,3,71,23.67,1,60.0%,14.20,1,34,34.00,0,1,6,0.0,1,0,1,0,0,26,30%,0,0%,7,22%,True,Marvin Jones,True,27,24
+2013.0,2013-10-20,7.0,7.0,23.222,CIN,DET,W 27-24,False,6,4,57,14.25,1,66.7%,9.50,0,0,,0,1,6,0.0,0,0,0,,,24,42%,0,0%,2,7%,True,Marvin Jones,True,27,24
+2013.0,2013-10-27,8.0,8.0,23.229,CIN,NYJ,W 49-9,False,8,8,122,15.25,4,100.0%,15.25,0,0,,0,4,24,0.0,0,0,0,,,18,32%,0,0%,0,0%,False,Marvin Jones,True,49,9
+2013.0,2013-10-31,9.0,9.0,23.233,CIN,MIA,L 20-22,False,7,4,66,16.50,0,57.1%,9.43,0,0,,0,0,0,0.0,0,0,0,,,50,54%,0,0%,0,0%,True,Marvin Jones,False,20,22
+2013.0,2013-11-10,10.0,10.0,23.243,CIN,BAL,L 17-20,False,7,1,2,2.00,0,14.3%,0.29,1,7,7.00,0,0,0,0.0,0,0,0,0,0,61,69%,0,0%,0,0%,True,Marvin Jones,False,17,20
+2013.0,2013-11-17,11.0,11.0,23.25,CIN,CLE,W 41-20,True,2,1,9,9.00,0,50.0%,4.50,1,-1,-1.00,0,0,0,0.0,0,0,0,,,23,37%,0,0%,0,0%,False,Marvin Jones,True,41,20
+2013.0,2013-12-01,12.0,13.0,23.264,CIN,SDG,W 17-10,True,3,2,12,6.00,0,66.7%,4.00,0,0,,0,0,0,0.0,0,0,0,,,24,39%,0,0%,2,10%,True,Marvin Jones,True,17,10
+2013.0,2013-12-08,13.0,14.0,23.271,CIN,IND,W 42-28,False,4,3,60,20.00,1,75.0%,15.00,1,-3,-3.00,0,1,6,0.0,0,0,0,,,30,39%,0,0%,1,3%,False,Marvin Jones,True,42,28
+2013.0,2013-12-15,14.0,15.0,23.278,CIN,PIT,L 20-30,False,9,5,48,9.60,1,55.6%,5.33,0,0,,0,1,6,0.0,0,0,0,,,49,71%,0,0%,0,0%,True,Marvin Jones,False,20,30
+2013.0,2013-12-22,15.0,16.0,23.285,CIN,MIN,W 42-14,False,7,6,85,14.17,0,85.7%,12.14,2,6,3.00,0,0,0,0.0,0,0,0,,,51,65%,0,0%,0,0%,False,Marvin Jones,True,42,14
+2013.0,2013-12-29,16.0,17.0,23.292,CIN,BAL,W 34-17,True,7,5,61,12.20,1,71.4%,8.71,0,0,,0,1,6,0.0,0,0,0,0,0,40,59%,0,0%,0,0%,False,Marvin Jones,True,34,17
+2014.0,2014-09-07,1.0,1.0,,CIN,BAL,W 23-16,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Marvin Jones,True,23,16
+2014.0,2014-09-14,2.0,2.0,,CIN,ATL,W 24-10,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Marvin Jones,True,24,10
+2014.0,2014-09-21,3.0,3.0,,CIN,TEN,W 33-7,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Marvin Jones,True,33,7
+2014.0,2014-10-05,4.0,5.0,,CIN,NWE,L 17-43,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Marvin Jones,False,17,43
+2014.0,2014-10-12,5.0,6.0,,CIN,CAR,T 37-37,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Marvin Jones,False,37,37
+2014.0,2014-10-19,6.0,7.0,,CIN,IND,L 0-27,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Marvin Jones,False,0,27
+2014.0,2014-10-26,7.0,8.0,,CIN,BAL,W 27-24,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Marvin Jones,True,27,24
+2014.0,2014-11-02,8.0,9.0,,CIN,JAX,W 33-23,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Marvin Jones,True,33,23
+2014.0,2014-11-06,9.0,10.0,,CIN,CLE,L 3-24,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Marvin Jones,False,3,24
+2014.0,2014-11-16,10.0,11.0,,CIN,NOR,W 27-10,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Marvin Jones,True,27,10
+2014.0,2014-11-23,11.0,12.0,,CIN,HOU,W 22-13,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Marvin Jones,True,22,13
+2014.0,2014-11-30,12.0,13.0,,CIN,TAM,W 14-13,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Marvin Jones,True,14,13
+2014.0,2014-12-07,13.0,14.0,,CIN,PIT,L 21-42,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Marvin Jones,False,21,42
+2014.0,2014-12-14,14.0,15.0,,CIN,CLE,W 30-0,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Marvin Jones,True,30,0
+2014.0,2014-12-22,15.0,16.0,,CIN,DEN,W 37-28,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Marvin Jones,True,37,28
+2014.0,2014-12-28,16.0,17.0,,CIN,PIT,L 17-27,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Marvin Jones,False,17,27
+2015.0,2015-09-13,1.0,1.0,25.185,CIN,OAK,W 33-13,False,3,2,19,9.50,0,66.7%,6.33,0,0,,0,0,0,0.0,0,0,0,,,43,63%,0,0%,2,7%,True,Marvin Jones,True,33,13
+2015.0,2015-09-20,2.0,2.0,25.192,CIN,SDG,W 24-19,True,5,2,48,24.00,1,40.0%,9.60,1,3,3.00,0,1,6,0.0,0,0,0,0,0,53,80%,0,0%,0,0%,False,Marvin Jones,True,24,19
+2015.0,2015-09-27,3.0,3.0,25.199,CIN,BAL,W 28-24,True,8,5,94,18.80,1,62.5%,11.75,0,0,,0,1,6,0.0,0,0,0,,,63,86%,0,0%,0,0%,True,Marvin Jones,True,28,24
+2015.0,2015-10-04,4.0,4.0,25.206,CIN,KAN,W 36-21,True,2,1,4,4.00,0,50.0%,2.00,1,6,6.00,0,0,0,0.0,0,0,0,,,44,81%,0,0%,0,0%,False,Marvin Jones,True,36,21
+2015.0,2015-10-11,5.0,5.0,25.213,CIN,SEA,W 27-24,False,8,5,61,12.20,0,62.5%,7.63,0,0,,0,0,0,0.0,0,0,0,,,78,92%,0,0%,0,0%,False,Marvin Jones,True,27,24
+2015.0,2015-10-18,6.0,6.0,25.22,CIN,BUF,W 34-21,True,12,9,95,10.56,1,75.0%,7.92,0,0,,0,1,6,0.0,0,0,0,,,49,80%,0,0%,1,4%,True,Marvin Jones,True,34,21
+2015.0,2015-11-01,7.0,8.0,25.234,CIN,PIT,W 16-10,True,5,2,12,6.00,0,40.0%,2.40,1,2,2.00,0,0,0,0.0,0,0,0,0,0,60,90%,0,0%,0,0%,True,Marvin Jones,True,16,10
+2015.0,2015-11-05,8.0,9.0,25.238,CIN,CLE,W 31-10,True,6,5,78,15.60,0,83.3%,13.00,0,0,,0,0,0,0.0,0,0,0,,,52,78%,0,0%,0,0%,False,Marvin Jones,True,31,10
+2015.0,2015-11-16,9.0,10.0,25.249,CIN,HOU,L 6-10,True,9,4,44,11.00,0,44.4%,4.89,1,-8,-8.00,0,0,0,0.0,0,0,0,,,62,93%,0,0%,0,0%,False,Marvin Jones,False,6,10
+2015.0,2015-11-22,10.0,11.0,25.255,CIN,ARI,L 31-34,True,9,4,60,15.00,0,44.4%,6.67,0,0,,0,0,0,0.0,0,0,0,,,69,91%,0,0%,0,0%,True,Marvin Jones,False,31,34
+2015.0,2015-11-29,11.0,12.0,25.262,CIN,STL,W 31-7,False,5,3,25,8.33,0,60.0%,5.00,1,30,30.00,0,0,0,0.0,0,0,0,0,0,50,85%,0,0%,0,0%,False,Marvin Jones,True,31,7
+2015.0,2015-12-06,12.0,13.0,25.269,CIN,CLE,W 37-3,True,5,5,55,11.00,1,100.0%,11.00,0,0,,0,1,6,0.0,0,0,0,,,43,75%,0,0%,0,0%,True,Marvin Jones,True,37,3
+2015.0,2015-12-13,13.0,14.0,25.276,CIN,PIT,L 20-33,True,8,6,61,10.17,0,75.0%,7.63,0,0,,0,0,0,0.0,0,0,0,,,57,98%,0,0%,0,0%,False,Marvin Jones,False,20,33
+2015.0,2015-12-20,14.0,15.0,25.283,CIN,SFO,W 24-14,True,6,4,89,22.25,0,66.7%,14.83,0,0,,0,0,0,0.0,0,0,0,,,58,91%,0,0%,1,3%,True,Marvin Jones,True,24,14
+2015.0,2015-12-28,15.0,16.0,25.291,CIN,DEN,L 17-20,True,7,3,33,11.00,0,42.9%,4.71,0,0,,0,0,0,0.0,0,0,0,,,65,90%,0,0%,0,0%,True,Marvin Jones,False,17,20
+2015.0,2016-01-03,16.0,17.0,25.297,CIN,BAL,W 24-16,True,5,5,38,7.60,0,100.0%,7.60,0,0,,0,0,0,0.0,0,0,0,,,54,89%,0,0%,0,0%,False,Marvin Jones,True,24,16
+2016.0,2016-09-11,1.0,1.0,26.183,DET,IND,W 39-35,True,10,4,85,21.25,0,40.0%,8.50,0,0,,0,0,0,0.0,0,0,0,,,61,94%,0,0%,0,0%,True,Marvin Jones,True,39,35
+2016.0,2016-09-18,2.0,2.0,26.19,DET,TEN,L 15-16,True,11,8,118,14.75,0,72.7%,10.73,0,0,,0,0,0,0.0,0,0,0,,,73,92%,0,0%,0,0%,False,Marvin Jones,False,15,16
+2016.0,2016-09-25,3.0,3.0,26.197,DET,GNB,L 27-34,True,8,6,205,34.17,2,75.0%,25.63,0,0,,0,2,12,0.0,0,0,0,,,65,96%,0,0%,0,0%,True,Marvin Jones,False,27,34
+2016.0,2016-10-02,4.0,4.0,26.204,DET,CHI,L 14-17,True,7,5,74,14.80,0,71.4%,10.57,0,0,,0,0,0,0.0,0,0,0,,,61,97%,0,0%,0,0%,True,Marvin Jones,False,14,17
+2016.0,2016-10-09,5.0,5.0,26.211,DET,PHI,W 24-23,True,5,4,37,9.25,1,80.0%,7.40,0,0,,0,1,6,0.0,0,0,0,,,53,87%,0,0%,0,0%,False,Marvin Jones,True,24,23
+2016.0,2016-10-16,6.0,6.0,26.218,DET,LAR,W 31-28,True,6,2,10,5.00,1,33.3%,1.67,1,3,3.00,0,1,6,0.0,0,0,0,,,56,90%,0,0%,0,0%,False,Marvin Jones,True,31,28
+2016.0,2016-10-23,7.0,7.0,26.225,DET,WAS,W 20-17,True,5,4,94,23.50,0,80.0%,18.80,0,0,,0,0,0,0.0,0,0,0,,,49,92%,0,0%,0,0%,False,Marvin Jones,True,20,17
+2016.0,2016-10-30,8.0,8.0,26.232,DET,HOU,L 13-20,True,7,3,33,11.00,0,42.9%,4.71,0,0,,0,0,0,0.0,0,0,0,,,60,98%,0,0%,0,0%,True,Marvin Jones,False,13,20
+2016.0,2016-11-06,9.0,9.0,26.239,DET,MIN,W 22-16,True,5,1,5,5.00,0,20.0%,1.00,0,0,,0,0,0,0.0,0,0,0,,,62,94%,0,0%,0,0%,True,Marvin Jones,True,22,16
+2016.0,2016-11-20,10.0,11.0,26.253,DET,JAX,W 26-19,True,2,1,15,15.00,0,50.0%,7.50,0,0,,0,0,0,0.0,0,0,0,,,51,89%,0,0%,0,0%,False,Marvin Jones,True,26,19
+2016.0,2016-11-24,11.0,12.0,26.257,DET,MIN,W 16-13,True,11,4,54,13.50,0,36.4%,4.91,0,0,,0,0,0,0.0,0,0,0,,,59,97%,0,0%,0,0%,False,Marvin Jones,True,16,13
+2016.0,2016-12-04,12.0,13.0,,DET,NOR,W 28-13,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Marvin Jones,True,28,13
+2016.0,2016-12-11,13.0,14.0,26.274,DET,CHI,W 20-17,True,5,4,67,16.75,0,80.0%,13.40,0,0,,0,0,0,0.0,0,0,0,,,60,83%,0,0%,0,0%,False,Marvin Jones,True,20,17
+2016.0,2016-12-18,14.0,15.0,26.281,DET,NYG,L 6-17,True,5,3,41,13.67,0,60.0%,8.20,0,0,,0,0,0,0.0,0,0,0,,,51,82%,0,0%,0,0%,True,Marvin Jones,False,6,17
+2016.0,2016-12-26,15.0,16.0,26.289,DET,DAL,L 21-42,True,7,1,16,16.00,0,14.3%,2.29,0,0,,0,0,0,0.0,0,0,0,,,56,79%,0,0%,0,0%,True,Marvin Jones,False,21,42
+2016.0,2017-01-01,16.0,17.0,26.295,DET,GNB,L 24-31,True,9,5,76,15.20,0,55.6%,8.44,0,0,,0,0,0,0.0,0,0,0,,,62,94%,0,0%,0,0%,False,Marvin Jones,False,24,31
+2017.0,2017-09-10,1.0,1.0,27.182,DET,ARI,W 35-23,True,2,2,37,18.50,1,100.0%,18.50,0,0,,0,1,6,0.0,0,0,0,,,68,96%,0,0%,0,0%,False,Marvin Jones,True,35,23
+2017.0,2017-09-18,2.0,2.0,27.19,DET,NYG,W 24-10,True,5,1,27,27.00,1,20.0%,5.40,0,0,,0,1,6,0.0,0,0,0,,,56,90%,0,0%,0,0%,True,Marvin Jones,True,24,10
+2017.0,2017-09-24,3.0,3.0,27.196,DET,ATL,L 26-30,True,6,3,24,8.00,0,50.0%,4.00,0,0,,0,0,0,0.0,0,0,0,,,68,97%,0,0%,0,0%,False,Marvin Jones,False,26,30
+2017.0,2017-10-01,4.0,4.0,27.203,DET,MIN,W 14-7,True,5,2,42,21.00,0,40.0%,8.40,0,0,,0,0,0,0.0,0,0,0,,,64,91%,0,0%,0,0%,True,Marvin Jones,True,14,7
+2017.0,2017-10-08,5.0,5.0,27.21,DET,CAR,L 24-27,True,8,6,54,9.00,0,75.0%,6.75,0,0,,0,0,0,0.0,0,0,0,,,58,95%,0,0%,0,0%,False,Marvin Jones,False,24,27
+2017.0,2017-10-15,6.0,6.0,27.217,DET,NOR,L 38-52,True,14,6,96,16.00,1,42.9%,6.86,0,0,,0,1,6,0.0,0,0,0,,,80,99%,0,0%,0,0%,True,Marvin Jones,False,38,52
+2017.0,2017-10-29,7.0,8.0,27.231,DET,PIT,L 15-20,True,11,6,128,21.33,0,54.5%,11.64,0,0,,0,0,0,0.0,0,0,0,,,68,96%,0,0%,0,0%,False,Marvin Jones,False,15,20
+2017.0,2017-11-06,8.0,9.0,27.239,DET,GNB,W 30-17,True,11,7,107,15.29,2,63.6%,9.73,0,0,,0,2,12,0.0,0,0,0,,,65,96%,0,0%,0,0%,True,Marvin Jones,True,30,17
+2017.0,2017-11-12,9.0,10.0,27.245,DET,CLE,W 38-24,True,2,1,22,22.00,0,50.0%,11.00,0,0,,0,0,0,0.0,0,0,0,,,50,96%,0,0%,0,0%,False,Marvin Jones,True,38,24
+2017.0,2017-11-19,10.0,11.0,27.252,DET,CHI,W 27-24,True,7,4,85,21.25,1,57.1%,12.14,0,0,,0,1,6,0.0,0,0,0,,,62,98%,0,0%,0,0%,True,Marvin Jones,True,27,24
+2017.0,2017-11-23,11.0,12.0,27.256,DET,MIN,L 23-30,True,9,6,109,18.17,2,66.7%,12.11,0,0,,0,2,12,0.0,0,0,0,,,59,100%,0,0%,0,0%,False,Marvin Jones,False,23,30
+2017.0,2017-12-03,12.0,13.0,27.266,DET,BAL,L 20-44,True,8,4,90,22.50,0,50.0%,11.25,0,0,,0,0,0,0.0,0,0,0,,,59,94%,0,0%,0,0%,True,Marvin Jones,False,20,44
+2017.0,2017-12-10,13.0,14.0,27.273,DET,TAM,W 24-21,True,4,3,64,21.33,0,75.0%,16.00,0,0,,0,0,0,0.0,0,0,0,,,67,99%,0,0%,0,0%,True,Marvin Jones,True,24,21
+2017.0,2017-12-16,14.0,15.0,27.279,DET,CHI,W 20-10,True,5,3,85,28.33,0,60.0%,17.00,0,0,,0,0,0,0.0,0,0,0,,,62,98%,0,0%,1,4%,False,Marvin Jones,True,20,10
+2017.0,2017-12-24,15.0,16.0,27.287,DET,CIN,L 17-26,True,5,3,50,16.67,0,60.0%,10.00,0,0,,0,0,0,0.0,0,0,0,,,61,100%,0,0%,0,0%,True,Marvin Jones,False,17,26
+2017.0,2017-12-31,16.0,17.0,27.294,DET,GNB,W 35-11,True,5,4,81,20.25,1,80.0%,16.20,0,0,,0,1,6,0.0,0,0,0,,,55,95%,0,0%,1,4%,False,Marvin Jones,True,35,11
+2018.0,2018-09-10,1.0,1.0,28.182,DET,NYJ,L 17-48,True,8,4,54,13.50,0,50.0%,6.75,0,0,,0,0,0,0.0,0,0,0,0,0,62,89%,0,0%,0,0%,False,Marvin Jones,False,17,48
+2018.0,2018-09-16,2.0,2.0,28.188,DET,SFO,L 27-30,True,9,4,54,13.50,1,44.4%,6.00,0,0,,0,1,6,0.0,0,0,0,,,77,100%,0,0%,0,0%,True,Marvin Jones,False,27,30
+2018.0,2018-09-23,3.0,3.0,28.195,DET,NWE,W 26-10,True,6,4,69,17.25,1,66.7%,11.50,0,0,,0,1,6,0.0,0,0,0,,,67,92%,0,0%,0,0%,False,Marvin Jones,True,26,10
+2018.0,2018-09-30,4.0,4.0,28.202,DET,DAL,L 24-26,True,6,3,56,18.67,0,50.0%,9.33,0,0,,0,0,0,0.0,0,0,0,,,50,93%,0,0%,0,0%,True,Marvin Jones,False,24,26
+2018.0,2018-10-07,5.0,5.0,28.209,DET,GNB,W 31-23,True,4,1,8,8.00,1,25.0%,2.00,0,0,,0,1,6,0.0,0,0,0,,,58,94%,0,0%,1,4%,False,Marvin Jones,True,31,23
+2018.0,2018-10-21,6.0,7.0,28.223,DET,MIA,W 32-21,True,4,3,29,9.67,0,75.0%,7.25,0,0,,0,0,0,0.0,0,0,0,,,56,88%,0,0%,0,0%,True,Marvin Jones,True,32,21
+2018.0,2018-10-28,7.0,8.0,28.23,DET,SEA,L 14-28,True,10,7,117,16.71,2,70.0%,11.70,0,0,,0,2,12,0.0,0,0,0,,,57,97%,0,0%,0,0%,False,Marvin Jones,False,14,28
+2018.0,2018-11-04,8.0,9.0,28.237,DET,MIN,L 9-24,True,8,6,66,11.00,0,75.0%,8.25,0,0,,0,0,0,0.0,0,0,0,,,63,90%,0,0%,0,0%,True,Marvin Jones,False,9,24
+2018.0,2018-11-11,9.0,10.0,28.244,DET,CHI,L 22-34,True,7,3,55,18.33,0,42.9%,7.86,0,0,,0,0,0,0.0,0,0,0,,,48,62%,0,0%,0,0%,True,Marvin Jones,False,22,34
+2018.0,2018-11-18,10.0,11.0,,DET,CAR,W 20-19,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Marvin Jones,True,20,19
+2018.0,2018-11-22,11.0,12.0,,DET,CHI,L 16-23,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Marvin Jones,False,16,23
+2018.0,2018-12-02,12.0,13.0,,DET,LAR,L 16-30,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Marvin Jones,False,16,30
+2018.0,2018-12-09,13.0,14.0,,DET,ARI,W 17-3,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Marvin Jones,True,17,3
+2018.0,2018-12-16,14.0,15.0,,DET,BUF,L 13-14,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Marvin Jones,False,13,14
+2018.0,2018-12-23,15.0,16.0,,DET,MIN,L 9-27,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Marvin Jones,False,9,27
+2018.0,2018-12-30,16.0,17.0,,DET,GNB,W 31-0,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Marvin Jones,True,31,0
+2019.0,2019-09-08,1.0,1.0,29.18,DET,ARI,T 27-27,True,4,4,56,14.00,0,100.0%,14.00,1,4,4.00,0,0,0,0.0,0,0,0,0,0,68,81%,0,0%,0,0%,True,Marvin Jones,False,27,27
+2019.0,2019-09-15,2.0,2.0,29.187,DET,LAC,W 13-10,True,6,5,43,8.60,0,83.3%,7.17,0,0,,0,0,0,0.0,0,0,0,0,0,55,92%,0,0%,0,0%,False,Marvin Jones,True,13,10
+2019.0,2019-09-22,3.0,3.0,29.194,DET,PHI,W 27-24,True,9,6,101,16.83,1,66.7%,11.22,0,0,,0,1,6,0.0,0,0,0,0,0,50,82%,0,0%,0,0%,True,Marvin Jones,True,27,24
+2019.0,2019-09-29,4.0,4.0,29.201,DET,KAN,L 30-34,True,5,3,77,25.67,0,60.0%,15.40,0,0,,0,0,0,0.0,0,0,0,0,0,74,97%,0,0%,0,0%,False,Marvin Jones,False,30,34
+2019.0,2019-10-14,5.0,6.0,29.216,DET,GNB,L 22-23,False,5,2,17,8.50,0,40.0%,3.40,0,0,,0,0,0,0.0,0,0,0,0,0,45,82%,0,0%,0,0%,True,Marvin Jones,False,22,23
+2019.0,2019-10-20,6.0,7.0,29.222,DET,MIN,L 30-42,True,13,10,93,9.30,4,76.9%,7.15,0,0,,0,4,24,0.0,0,0,0,0,0,72,96%,0,0%,0,0%,False,Marvin Jones,False,30,42
+2019.0,2019-10-27,7.0,8.0,29.229,DET,NYG,W 31-26,True,5,4,22,5.50,0,80.0%,4.40,0,0,,0,0,0,0.0,0,0,0,0,0,55,89%,0,0%,1,4%,False,Marvin Jones,True,31,26
+2019.0,2019-11-03,8.0,9.0,29.236,DET,OAK,L 24-31,True,10,8,126,15.75,1,80.0%,12.60,0,0,,0,1,6,0.0,0,0,0,0,0,61,88%,0,0%,0,0%,True,Marvin Jones,False,24,31
+2019.0,2019-11-10,9.0,10.0,29.243,DET,CHI,L 13-20,True,5,5,77,15.40,0,100.0%,15.40,0,0,,0,0,0,0.0,0,0,0,0,0,75,91%,0,0%,0,0%,True,Marvin Jones,False,13,20
+2019.0,2019-11-17,10.0,11.0,29.25,DET,DAL,L 27-35,False,5,4,43,10.75,2,80.0%,8.60,1,-4,-4.00,0,2,12,0.0,0,0,0,0,0,54,87%,0,0%,1,3%,False,Marvin Jones,False,27,35
+2019.0,2019-11-24,11.0,12.0,29.257,DET,WAS,L 16-19,True,11,5,46,9.20,0,45.5%,4.18,0,0,,0,0,0,0.0,0,0,0,0,0,67,91%,0,0%,0,0%,True,Marvin Jones,False,16,19
+2019.0,2019-11-28,12.0,13.0,29.261,DET,CHI,L 20-24,True,6,3,40,13.33,1,50.0%,6.67,0,0,,0,1,6,0.0,0,0,0,0,0,71,96%,0,0%,0,0%,False,Marvin Jones,False,20,24
+2019.0,2019-12-08,13.0,14.0,29.271,DET,MIN,L 7-20,True,7,3,38,12.67,0,42.9%,5.43,0,0,,0,0,0,0.0,0,0,0,0,0,71,100%,0,0%,0,0%,True,Marvin Jones,False,7,20
+2019.0,2019-12-15,14.0,15.0,,DET,TAM,L 17-38,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Marvin Jones,False,17,38
+2019.0,2019-12-22,15.0,16.0,,DET,DEN,L 17-27,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,True,Marvin Jones,False,17,27
+2019.0,2019-12-29,16.0,17.0,,DET,GNB,L 20-23,True,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,False,Marvin Jones,False,20,23
+2020.0,2020-09-13,1.0,1.0,30.185,DET,CHI,L 23-27,True,8,4,55,13.75,0,50.0%,6.88,0,0,,0,0,0,0.0,0,0,0,0,0,71,91%,0,0%,0,0%,False,Marvin Jones,False,23,27
+2020.0,2020-09-20,2.0,2.0,30.192,DET,GNB,L 21-42,True,6,4,23,5.75,1,66.7%,3.83,0,0,,0,1,6,0.0,0,0,0,0,0,53,90%,0,0%,0,0%,True,Marvin Jones,False,21,42
+2020.0,2020-09-27,3.0,3.0,30.199,DET,ARI,W 26-23,True,3,3,51,17.00,0,100.0%,17.00,0,0,,0,0,0,0.0,0,0,0,0,0,60,91%,0,0%,0,0%,True,Marvin Jones,True,26,23
+2020.0,2020-10-04,4.0,4.0,30.206,DET,NOR,L 29-35,True,2,1,9,9.00,0,50.0%,4.50,0,0,,0,0,0,0.0,0,0,0,0,0,54,89%,0,0%,0,0%,False,Marvin Jones,False,29,35
+2020.0,2020-10-18,5.0,6.0,30.22,DET,JAX,W 34-16,True,5,2,8,4.00,0,40.0%,1.60,0,0,,0,0,0,0.0,0,0,0,0,0,62,81%,0,0%,1,4%,True,Marvin Jones,True,34,16
+2020.0,2020-10-25,6.0,7.0,30.227,DET,ATL,W 23-22,True,6,5,80,16.00,0,83.3%,13.33,0,0,,0,0,0,0.0,0,0,0,0,0,55,90%,0,0%,0,0%,True,Marvin Jones,True,23,22
+2020.0,2020-11-01,7.0,8.0,30.234,DET,IND,L 21-41,True,7,3,39,13.00,2,42.9%,5.57,0,0,,0,2,12,0.0,0,0,0,0,0,60,98%,0,0%,0,0%,False,Marvin Jones,False,21,41
+2020.0,2020-11-08,8.0,9.0,30.241,DET,MIN,L 20-34,True,4,3,43,14.33,1,75.0%,10.75,0,0,,0,1,6,0.0,0,0,0,0,0,71,95%,0,0%,0,0%,True,Marvin Jones,False,20,34
+2020.0,2020-11-15,9.0,10.0,30.248,DET,WAS,W 30-27,True,10,8,96,12.00,1,80.0%,9.60,0,0,,0,1,6,0.0,0,0,0,0,0,51,86%,0,0%,0,0%,False,Marvin Jones,True,30,27
+2020.0,2020-11-22,10.0,11.0,30.255,DET,CAR,L 0-20,True,6,4,51,12.75,0,66.7%,8.50,0,0,,0,0,0,0.0,0,0,0,0,0,50,89%,0,0%,0,0%,True,Marvin Jones,False,0,20
+2020.0,2020-11-26,11.0,12.0,30.259,DET,HOU,L 25-41,True,12,6,48,8.00,0,50.0%,4.00,0,0,,0,0,0,0.0,0,0,0,0,0,68,83%,0,0%,0,0%,False,Marvin Jones,False,25,41
+2020.0,2020-12-06,12.0,13.0,30.269,DET,CHI,W 34-30,True,12,8,116,14.50,1,66.7%,9.67,0,0,,0,1,6,0.0,0,0,0,0,0,64,94%,0,0%,0,0%,True,Marvin Jones,True,34,30
+2020.0,2020-12-13,13.0,14.0,30.276,DET,GNB,L 24-31,True,8,4,48,12.00,0,50.0%,6.00,0,0,,0,0,0,0.0,0,0,0,0,0,59,88%,0,0%,0,0%,False,Marvin Jones,False,24,31
+2020.0,2020-12-20,14.0,15.0,30.283,DET,TEN,L 25-46,True,12,10,112,11.20,1,83.3%,9.33,0,0,,0,1,6,0.0,0,0,0,0,0,58,89%,0,0%,0,0%,True,Marvin Jones,False,25,46
+2020.0,2020-12-26,15.0,16.0,30.289,DET,TAM,L 7-47,True,3,3,19,6.33,0,100.0%,6.33,0,0,,0,0,0,0.0,0,0,0,0,0,50,94%,0,0%,0,0%,False,Marvin Jones,False,7,47
+2020.0,2021-01-03,16.0,17.0,30.297,DET,MIN,L 35-37,True,11,8,180,22.50,2,72.7%,16.36,0,0,,0,2,12,0.0,0,0,0,0,0,53,91%,0,0%,0,0%,False,Marvin Jones,False,35,37
+2021.0,2021-09-12,1.0,1.0,31.184,JAX,HOU,L 21-37,True,9,5,77,15.40,1,55.6%,8.56,0,0,,0,1,6,0.0,0,0,0,0,0,67,90%,0,0%,0,0%,True,Marvin Jones,False,21,37
+2021.0,2021-09-19,2.0,2.0,31.191,JAX,DEN,L 13-23,True,11,6,55,9.17,1,54.5%,5.00,0,0,,0,1,6,0.0,0,0,0,0,0,49,88%,0,0%,0,0%,False,Marvin Jones,False,13,23
+2021.0,2021-09-26,3.0,3.0,31.198,JAX,ARI,L 19-31,True,8,6,62,10.33,0,75.0%,7.75,0,0,,0,0,0,0.0,0,0,0,0,0,66,97%,0,0%,0,0%,False,Marvin Jones,False,19,31
+2021.0,2021-09-30,4.0,4.0,31.202,JAX,CIN,L 21-24,False,3,3,24,8.00,0,100.0%,8.00,0,0,,0,0,0,0.0,0,0,0,0,0,52,93%,0,0%,0,0%,True,Marvin Jones,False,21,24
+2021.0,2021-10-10,5.0,5.0,31.212,JAX,TEN,L 19-37,True,6,1,25,25.00,0,16.7%,4.17,0,0,,0,0,0,0.0,0,0,0,0,0,66,93%,0,0%,0,0%,False,Marvin Jones,False,19,37
+2021.0,2021-10-17,6.0,6.0,31.219,JAX,MIA,W 23-20,True,10,7,100,14.29,1,70.0%,10.00,0,0,,0,1,6,0.0,0,0,0,0,0,57,86%,0,0%,0,0%,False,Marvin Jones,True,23,20
+2021.0,2021-10-31,7.0,8.0,31.233,JAX,SEA,L 7-31,True,8,5,35,7.00,0,62.5%,4.38,0,0,,0,0,0,0.0,0,0,0,0,0,69,91%,0,0%,0,0%,True,Marvin Jones,False,7,31
+2021.0,2021-11-07,8.0,9.0,31.24,JAX,BUF,W 9-6,True,5,3,21,7.00,0,60.0%,4.20,0,0,,0,0,0,0.0,0,0,0,0,0,51,84%,0,0%,0,0%,False,Marvin Jones,True,9,6
+2021.0,2021-11-14,9.0,10.0,31.247,JAX,IND,L 17-23,True,6,2,35,17.50,0,33.3%,5.83,0,0,,0,0,0,0.0,0,0,0,0,0,56,85%,0,0%,0,0%,True,Marvin Jones,False,17,23
+2021.0,2021-11-21,10.0,11.0,31.254,JAX,SFO,L 10-30,True,6,4,52,13.00,0,66.7%,8.67,0,0,,0,0,0,0.0,0,0,0,0,0,42,91%,0,0%,0,0%,False,Marvin Jones,False,10,30
+2021.0,2021-11-28,11.0,12.0,31.261,JAX,ATL,L 14-21,True,7,4,43,10.75,0,57.1%,6.14,0,0,,0,0,0,0.0,0,0,0,0,0,71,97%,0,0%,0,0%,False,Marvin Jones,False,14,21
+2021.0,2021-12-05,12.0,13.0,31.268,JAX,LAR,L 7-37,True,3,2,11,5.50,0,66.7%,3.67,0,0,,0,0,0,0.0,0,0,0,0,0,49,83%,0,0%,0,0%,True,Marvin Jones,False,7,37
+2021.0,2021-12-12,13.0,14.0,31.275,JAX,TEN,L 0-20,True,7,6,70,11.67,0,85.7%,10.00,0,0,,0,0,0,0.0,1,0,1,0,0,54,98%,0,0%,0,0%,True,Marvin Jones,False,0,20
+2021.0,2021-12-19,14.0,15.0,31.282,JAX,HOU,L 16-30,True,4,2,14,7.00,0,50.0%,3.50,0,0,,0,0,0,0.0,0,0,0,0,0,65,93%,0,0%,0,0%,False,Marvin Jones,False,16,30
+2021.0,2021-12-26,15.0,16.0,31.289,JAX,NYJ,L 21-26,True,13,8,74,9.25,0,61.5%,5.69,0,0,,0,0,0,0.0,0,0,0,0,0,60,82%,0,0%,0,0%,True,Marvin Jones,False,21,26
+2021.0,2022-01-02,16.0,17.0,31.296,JAX,NWE,L 10-50,True,6,2,46,23.00,0,33.3%,7.67,0,0,,0,0,0,0.0,0,0,0,0,0,45,96%,0,0%,0,0%,True,Marvin Jones,False,10,50
+2021.0,2022-01-09,17.0,18.0,31.303,JAX,IND,W 26-11,True,8,7,88,12.57,1,87.5%,11.00,0,0,,0,1,6,0.0,0,0,0,0,0,61,90%,0,0%,1,5%,False,Marvin Jones,True,26,11
+,129 Games,,,,,,61-67-1,False,813,496,6857,13.82,55,61.0%,8.43,19,148,7.79,0,55,330,0.0,4,1,5,0,0,,,,,,,False,Marvin Jones,False,67,1

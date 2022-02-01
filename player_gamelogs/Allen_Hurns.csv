@@ -1,115 +1,115 @@
-Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Receiving_Tgt,Receiving_Rec,Receiving_Yds,Receiving_Y/R,Receiving_TD,Receiving_Ctch%,Receiving_Y/Tgt,Scoring_TD,Scoring_Pts,Fumbles_Fmb,Fumbles_FL,Fumbles_FF,Fumbles_FR,Fumbles_Yds,Fumbles_TD,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Player
-2014,2014-09-07,1,1,22.299,JAX,@,PHI,L 17-34,True,9,4,110,27.50,2,44.4%,12.22,2,12,0,0,0,0,0,0,65,89%,0,0%,0,0%,True,Allen Hurns
-2014,2014-09-14,2,2,22.306,JAX,@,WAS,L 10-41,True,6,2,13,6.50,0,33.3%,2.17,0,0,0,0,0,0,0,0,48,96%,0,0%,0,0%,True,Allen Hurns
-2014,2014-09-21,3,3,22.313,JAX,,IND,L 17-44,False,3,1,63,63.00,1,33.3%,21.00,1,6,0,0,0,0,0,0,52,87%,0,0%,0,0%,False,Allen Hurns
-2014,2014-09-28,4,4,22.320,JAX,@,SDG,L 14-33,True,6,5,68,13.60,0,83.3%,11.33,0,0,0,0,0,0,0,0,60,91%,0,0%,0,0%,True,Allen Hurns
-2014,2014-10-05,5,5,22.327,JAX,,PIT,L 9-17,True,11,4,26,6.50,0,36.4%,2.36,0,0,0,0,0,0,0,0,55,98%,0,0%,0,0%,False,Allen Hurns
-2014,2014-10-12,6,6,22.334,JAX,@,TEN,L 14-16,False,4,2,18,9.00,0,50.0%,4.50,0,0,0,0,0,0,0,0,49,64%,0,0%,1,4%,True,Allen Hurns
-2014,2014-10-19,7,7,22.341,JAX,,CLE,W 24-6,True,2,1,7,7.00,0,50.0%,3.50,0,0,0,0,0,0,0,0,38,52%,0,0%,0,0%,False,Allen Hurns
-2014,2014-10-26,8,8,22.348,JAX,,MIA,L 13-27,False,4,3,49,16.33,0,75.0%,12.25,0,0,0,0,0,0,0,0,39,55%,0,0%,1,3%,False,Allen Hurns
-2014,2014-11-02,9,9,22.355,JAX,@,CIN,L 23-33,False,9,7,112,16.00,2,77.8%,12.44,2,12,0,0,0,0,0,0,54,86%,0,0%,0,0%,True,Allen Hurns
-2014,2014-11-09,10,10,22.362,JAX,,DAL,L 17-31,False,2,1,9,9.00,0,50.0%,4.50,0,0,0,0,0,0,0,0,33,46%,0,0%,0,0%,False,Allen Hurns
-2014,2014-11-23,11,12,23.011,JAX,@,IND,L 3-23,True,4,1,13,13.00,0,25.0%,3.25,0,0,0,0,0,0,0,0,49,91%,0,0%,0,0%,True,Allen Hurns
-2014,2014-11-30,12,13,23.018,JAX,,NYG,W 25-24,True,8,4,42,10.50,0,50.0%,5.25,0,0,0,0,0,0,0,0,61,90%,0,0%,0,0%,False,Allen Hurns
-2014,2014-12-07,13,14,23.025,JAX,,HOU,L 13-27,False,10,5,36,7.20,1,50.0%,3.60,1,6,0,0,0,0,0,0,64,90%,0,0%,0,0%,False,Allen Hurns
-2014,2014-12-14,14,15,23.032,JAX,@,BAL,L 12-20,False,9,6,70,11.67,0,66.7%,7.78,0,0,0,0,0,0,0,0,53,78%,0,0%,0,0%,True,Allen Hurns
-2014,2014-12-18,15,16,23.036,JAX,,TEN,W 21-13,False,6,3,26,8.67,0,50.0%,4.33,0,0,0,0,0,0,0,0,36,61%,0,0%,0,0%,False,Allen Hurns
-2014,2014-12-28,16,17,23.046,JAX,@,HOU,L 17-23,True,4,2,15,7.50,0,50.0%,3.75,0,0,0,0,0,0,0,0,32,56%,0,0%,0,0%,True,Allen Hurns
-2015,2015-09-13,1,1,23.305,JAX,,CAR,L 9-20,True,7,5,60,12.00,0,71.4%,8.57,0,0,1,1,0,0,0,0,64,96%,0,0%,0,0%,False,Allen Hurns
-2015,2015-09-20,2,2,23.312,JAX,,MIA,W 23-20,True,4,4,68,17.00,0,100.0%,17.00,0,0,0,0,0,0,0,0,58,79%,0,0%,0,0%,False,Allen Hurns
-2015,2015-09-27,3,3,23.319,JAX,@,NWE,L 17-51,True,4,2,70,35.00,1,50.0%,17.50,1,6,0,0,0,0,0,0,47,82%,0,0%,0,0%,True,Allen Hurns
-2015,2015-10-04,4,4,23.326,JAX,@,IND,L 13-16,True,15,11,116,10.55,1,73.3%,7.73,1,6,1,0,0,0,0,0,72,88%,0,0%,0,0%,True,Allen Hurns
-2015,2015-10-11,5,5,23.333,JAX,@,TAM,L 31-38,True,6,5,116,23.20,1,83.3%,19.33,1,6,0,0,0,0,0,0,58,98%,0,0%,0,0%,True,Allen Hurns
-2015,2015-10-18,6,6,23.340,JAX,,HOU,L 20-31,False,7,2,30,15.00,1,28.6%,4.29,1,6,0,0,0,0,0,0,78,96%,0,0%,2,7%,False,Allen Hurns
-2015,2015-10-25,7,7,23.347,JAX,,BUF,W 34-31,True,8,2,53,26.50,1,25.0%,6.63,1,6,0,0,0,0,0,0,59,88%,0,0%,1,3%,False,Allen Hurns
-2015,2015-11-08,8,9,23.361,JAX,@,NYJ,L 23-28,True,8,5,122,24.40,1,62.5%,15.25,1,6,0,0,0,0,0,0,66,100%,0,0%,1,3%,True,Allen Hurns
-2015,2015-11-15,9,10,24.003,JAX,@,BAL,W 22-20,True,9,5,62,12.40,1,55.6%,6.89,1,6,0,0,0,0,0,0,66,89%,0,0%,0,0%,True,Allen Hurns
-2015,2015-11-19,10,11,24.007,JAX,,TEN,W 19-13,True,4,3,19,6.33,0,75.0%,4.75,0,0,0,0,0,0,0,0,42,70%,0,0%,0,0%,False,Allen Hurns
-2015,2015-11-29,11,12,24.017,JAX,,SDG,L 25-31,True,9,4,42,10.50,0,44.4%,4.67,0,0,0,0,0,0,0,0,57,80%,0,0%,0,0%,False,Allen Hurns
-2015,2015-12-06,12,13,,JAX,@,TEN,L 39-42,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Allen Hurns
-2015,2015-12-13,13,14,24.031,JAX,,IND,W 51-16,True,4,3,105,35.00,1,75.0%,26.25,1,6,0,0,0,0,0,0,42,65%,0,0%,0,0%,False,Allen Hurns
-2015,2015-12-20,14,15,24.038,JAX,,ATL,L 17-23,True,5,2,44,22.00,0,40.0%,8.80,0,0,0,0,0,1,0,0,54,87%,0,0%,0,0%,False,Allen Hurns
-2015,2015-12-27,15,16,24.045,JAX,@,NOR,L 27-38,True,10,8,107,13.38,2,80.0%,10.70,2,12,0,0,0,0,0,0,51,89%,0,0%,0,0%,True,Allen Hurns
-2015,2016-01-03,16,17,24.052,JAX,@,HOU,L 6-30,True,5,3,17,5.67,0,60.0%,3.40,0,0,0,0,0,0,0,0,51,89%,0,0%,0,0%,True,Allen Hurns
-2016,2016-09-11,1,1,24.304,JAX,,GNB,L 23-27,True,5,4,75,18.75,0,80.0%,15.00,0,0,0,0,0,0,0,0,63,88%,0,0%,0,0%,False,Allen Hurns
-2016,2016-09-18,2,2,24.311,JAX,@,SDG,L 14-38,True,10,5,64,12.80,0,50.0%,6.40,0,0,0,0,0,0,0,0,58,88%,0,0%,0,0%,True,Allen Hurns
-2016,2016-09-25,3,3,24.318,JAX,,BAL,L 17-19,True,8,4,40,10.00,0,50.0%,5.00,0,0,0,0,0,0,0,0,58,88%,0,0%,0,0%,False,Allen Hurns
-2016,2016-10-02,4,4,24.325,JAX,,IND,W 30-27,True,4,2,47,23.50,1,50.0%,11.75,1,6,0,0,0,0,0,0,64,89%,0,0%,1,3%,False,Allen Hurns
-2016,2016-10-16,5,6,24.339,JAX,@,CHI,W 17-16,True,11,5,74,14.80,0,45.5%,6.73,0,0,0,0,0,0,0,0,49,82%,0,0%,0,0%,True,Allen Hurns
-2016,2016-10-23,6,7,24.346,JAX,,OAK,L 16-33,True,7,4,45,11.25,0,57.1%,6.43,0,0,0,0,0,0,0,0,57,84%,0,0%,0,0%,False,Allen Hurns
-2016,2016-10-27,7,8,24.350,JAX,@,TEN,L 22-36,True,11,7,98,14.00,1,63.6%,8.91,1,6,0,0,0,0,0,0,61,85%,0,0%,0,0%,True,Allen Hurns
-2016,2016-11-06,8,9,24.360,JAX,@,KAN,L 14-19,True,4,0,0,,0,0.0%,0.00,0,0,0,0,0,0,0,0,42,55%,0,0%,0,0%,True,Allen Hurns
-2016,2016-11-13,9,10,25.001,JAX,,HOU,L 21-24,True,7,2,13,6.50,0,28.6%,1.86,0,0,1,0,0,1,0,0,72,92%,0,0%,0,0%,False,Allen Hurns
-2016,2016-11-20,10,11,25.008,JAX,@,DET,L 19-26,True,2,1,9,9.00,0,50.0%,4.50,0,0,0,0,0,0,0,0,59,89%,0,0%,0,0%,True,Allen Hurns
-2016,2016-11-27,11,12,25.015,JAX,@,BUF,L 21-28,True,7,1,12,12.00,1,14.3%,1.71,1,6,0,0,0,0,0,0,54,79%,0,0%,0,0%,True,Allen Hurns
-2016,2016-12-04,12,13,,JAX,,DEN,L 10-20,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Allen Hurns
-2016,2016-12-11,13,14,,JAX,,MIN,L 16-25,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Allen Hurns
-2016,2016-12-18,14,15,,JAX,@,HOU,L 20-21,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Allen Hurns
-2016,2016-12-24,15,16,,JAX,,TEN,W 38-17,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Allen Hurns
-2016,2017-01-01,16,17,,JAX,@,IND,L 20-24,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Allen Hurns
-2017,2017-09-10,1,1,25.302,JAX,@,HOU,W 29-7,False,4,3,42,14.00,0,75.0%,10.50,0,0,0,0,0,0,0,0,51,80%,0,0%,0,0%,True,Allen Hurns
-2017,2017-09-17,2,2,25.309,JAX,,TEN,L 16-37,True,7,6,82,13.67,1,85.7%,11.71,1,6,0,0,0,0,0,0,59,88%,0,0%,0,0%,False,Allen Hurns
-2017,2017-09-24,3,3,25.316,JAX,,BAL,W 44-7,True,3,3,20,6.67,1,100.0%,6.67,1,6,0,0,0,0,0,0,44,60%,0,0%,1,3%,False,Allen Hurns
-2017,2017-10-01,4,4,25.323,JAX,@,NYJ,L 20-23,True,10,4,42,10.50,0,40.0%,4.20,0,0,0,0,0,0,0,0,60,77%,0,0%,0,0%,True,Allen Hurns
-2017,2017-10-08,5,5,25.330,JAX,@,PIT,W 30-9,True,3,2,21,10.50,0,66.7%,7.00,0,0,0,0,0,0,0,0,39,72%,0,0%,0,0%,True,Allen Hurns
-2017,2017-10-15,6,6,25.337,JAX,,LAR,L 17-27,True,3,3,37,12.33,0,100.0%,12.33,0,0,0,0,0,0,0,0,56,81%,0,0%,0,0%,False,Allen Hurns
-2017,2017-10-22,7,7,25.344,JAX,@,IND,W 27-0,True,8,5,101,20.20,0,62.5%,12.63,0,0,0,0,0,0,0,0,50,74%,0,0%,0,0%,True,Allen Hurns
-2017,2017-11-05,8,9,25.358,JAX,,CIN,W 23-7,True,4,3,31,10.33,0,75.0%,7.75,0,0,0,0,0,0,0,0,71,89%,0,0%,0,0%,False,Allen Hurns
-2017,2017-11-12,9,10,26.000,JAX,,LAC,W 20-17,True,9,7,70,10.00,0,77.8%,7.78,0,0,0,0,0,0,0,0,60,71%,0,0%,0,0%,False,Allen Hurns
-2017,2017-11-19,10,11,,JAX,@,CLE,W 19-7,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Allen Hurns
-2017,2017-11-26,11,12,,JAX,@,ARI,L 24-27,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Allen Hurns
-2017,2017-12-03,12,13,,JAX,,IND,W 30-10,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Allen Hurns
-2017,2017-12-10,13,14,,JAX,,SEA,W 30-24,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Allen Hurns
-2017,2017-12-17,14,15,,JAX,,HOU,W 45-7,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Allen Hurns
-2017,2017-12-24,15,16,,JAX,@,SFO,L 33-44,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Allen Hurns
-2017,2017-12-31,16,17,26.049,JAX,@,TEN,L 10-15,False,5,3,38,12.67,0,60.0%,7.60,0,0,0,0,0,0,0,0,47,78%,0,0%,0,0%,True,Allen Hurns
-2018,2018-09-09,1,1,26.301,DAL,@,CAR,L 8-16,False,3,1,20,20.00,0,33.3%,6.67,0,0,0,0,0,0,0,0,38,59%,0,0%,0,0%,True,Allen Hurns
-2018,2018-09-16,2,2,26.308,DAL,,NYG,W 20-13,True,2,1,9,9.00,0,50.0%,4.50,0,0,0,0,0,0,0,0,27,51%,0,0%,2,8%,False,Allen Hurns
-2018,2018-09-23,3,3,26.315,DAL,@,SEA,L 13-24,False,4,2,22,11.00,0,50.0%,5.50,0,0,0,0,0,0,0,0,39,66%,0,0%,0,0%,True,Allen Hurns
-2018,2018-09-30,4,4,26.322,DAL,,DET,W 26-24,True,5,3,30,10.00,0,60.0%,6.00,0,0,0,0,0,0,0,0,47,68%,0,0%,0,0%,False,Allen Hurns
-2018,2018-10-07,5,5,26.329,DAL,@,HOU,L 16-19,True,2,1,3,3.00,1,50.0%,1.50,1,6,0,0,0,0,0,0,38,61%,0,0%,0,0%,True,Allen Hurns
-2018,2018-10-14,6,6,26.336,DAL,,JAX,W 40-7,True,5,0,0,,0,0.0%,0.00,0,0,0,0,0,0,0,0,57,78%,0,0%,0,0%,False,Allen Hurns
-2018,2018-10-21,7,7,26.343,DAL,@,WAS,L 17-20,True,6,5,74,14.80,0,83.3%,12.33,0,0,1,0,0,1,0,0,54,82%,0,0%,0,0%,True,Allen Hurns
-2018,2018-11-05,8,9,26.358,DAL,,TEN,L 14-28,False,1,1,23,23.00,1,100.0%,23.00,1,6,0,0,0,0,0,0,18,31%,0,0%,0,0%,False,Allen Hurns
-2018,2018-11-11,9,10,26.364,DAL,@,PHI,W 27-20,False,2,2,40,20.00,0,100.0%,20.00,0,0,0,0,0,0,0,0,15,22%,0,0%,0,0%,True,Allen Hurns
-2018,2018-11-18,10,11,27.006,DAL,@,ATL,W 22-19,False,0,0,0,,0,0.0%,,0,0,0,0,0,0,0,0,8,12%,0,0%,0,0%,True,Allen Hurns
-2018,2018-11-22,11,12,27.010,DAL,,WAS,W 31-23,True,1,1,7,7.00,0,100.0%,7.00,0,0,0,0,0,0,0,0,32,46%,0,0%,1,3%,False,Allen Hurns
-2018,2018-11-29,12,13,27.017,DAL,,NOR,W 13-10,False,0,0,0,,0,0.0%,,0,0,0,0,0,0,0,0,16,23%,0,0%,0,0%,False,Allen Hurns
-2018,2018-12-09,13,14,27.027,DAL,,PHI,W 29-23,True,1,1,9,9.00,0,100.0%,9.00,0,0,0,0,0,0,0,0,27,27%,0,0%,0,0%,False,Allen Hurns
-2018,2018-12-16,14,15,27.034,DAL,@,IND,L 0-23,False,2,1,9,9.00,0,50.0%,4.50,0,0,0,0,0,0,0,0,22,32%,0,0%,0,0%,True,Allen Hurns
-2018,2018-12-23,15,16,27.041,DAL,,TAM,W 27-20,False,0,0,0,,0,0.0%,,0,0,0,0,0,0,0,0,4,8%,0,0%,0,0%,False,Allen Hurns
-2018,2018-12-30,16,17,27.048,DAL,@,NYG,W 36-35,False,1,1,49,49.00,0,100.0%,49.00,0,0,0,0,0,0,0,0,9,12%,0,0%,0,0%,True,Allen Hurns
-2019,2019-09-08,1,1,27.300,MIA,,BAL,L 10-59,False,2,1,22,22.00,0,50.0%,11.00,0,0,0,0,0,0,0,0,34,69%,0,0%,0,0%,False,Allen Hurns
-2019,2019-09-15,2,2,27.307,MIA,,NWE,L 0-43,False,2,1,13,13.00,0,50.0%,6.50,0,0,0,0,0,0,0,0,28,45%,0,0%,0,0%,False,Allen Hurns
-2019,2019-09-22,3,3,27.314,MIA,@,DAL,L 6-31,True,2,1,6,6.00,0,50.0%,3.00,0,0,0,0,0,0,0,0,5,7%,0,0%,0,0%,True,Allen Hurns
-2019,2019-09-29,4,4,,MIA,,LAC,L 10-30,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Allen Hurns
-2019,2019-10-13,5,6,27.335,MIA,,WAS,L 16-17,False,2,2,16,8.00,0,100.0%,8.00,0,0,0,0,0,0,0,0,26,35%,0,0%,0,0%,False,Allen Hurns
-2019,2019-10-20,6,7,27.342,MIA,@,BUF,L 21-31,False,3,3,53,17.67,0,100.0%,17.67,0,0,0,0,0,0,0,0,26,36%,0,0%,0,0%,True,Allen Hurns
-2019,2019-10-28,7,8,27.350,MIA,@,PIT,L 14-27,False,1,1,12,12.00,1,100.0%,12.00,1,6,0,0,0,0,0,0,19,33%,0,0%,0,0%,True,Allen Hurns
-2019,2019-11-03,8,9,27.356,MIA,,NYJ,W 26-18,True,3,2,16,8.00,0,66.7%,5.33,0,0,0,0,0,0,0,0,30,43%,0,0%,1,3%,False,Allen Hurns
-2019,2019-11-10,9,10,27.363,MIA,@,IND,W 16-12,True,4,2,32,16.00,0,50.0%,8.00,0,0,0,0,0,0,0,0,58,89%,0,0%,0,0%,True,Allen Hurns
-2019,2019-11-17,10,11,28.005,MIA,,BUF,L 20-37,False,6,4,53,13.25,0,66.7%,8.83,0,0,1,1,0,0,0,0,60,86%,0,0%,0,0%,False,Allen Hurns
-2019,2019-11-24,11,12,28.012,MIA,@,CLE,L 24-41,True,7,4,42,10.50,1,57.1%,6.00,1,6,0,0,0,0,0,0,57,90%,0,0%,0,0%,True,Allen Hurns
-2019,2019-12-01,12,13,28.019,MIA,,PHI,W 37-31,True,4,3,33,11.00,0,75.0%,8.25,0,0,0,0,0,0,0,0,57,80%,0,0%,1,3%,False,Allen Hurns
-2019,2019-12-08,13,14,28.026,MIA,@,NYJ,L 21-22,True,8,5,68,13.60,0,62.5%,8.50,0,0,0,0,0,0,0,0,57,79%,0,0%,0,0%,True,Allen Hurns
-2019,2019-12-15,14,15,28.033,MIA,@,NYG,L 20-36,False,1,1,9,9.00,0,100.0%,9.00,0,0,0,0,0,0,0,0,33,46%,0,0%,0,0%,True,Allen Hurns
-2019,2019-12-22,15,16,28.040,MIA,,CIN,W 38-35,True,2,2,41,20.50,0,100.0%,20.50,0,0,0,0,0,0,0,0,32,36%,0,0%,0,0%,False,Allen Hurns
-2019,2019-12-29,16,17,,MIA,@,NWE,W 27-24,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Allen Hurns
-2021,2021-09-12,1,1,,MIA,@,NWE,W 17-16,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Allen Hurns
-2021,2021-09-19,2,2,,MIA,,BUF,L 0-35,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Allen Hurns
-2021,2021-09-26,3,3,,MIA,@,LVR,L 28-31,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Allen Hurns
-2021,2021-10-03,4,4,,MIA,,IND,L 17-27,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Allen Hurns
-2021,2021-10-10,5,5,,MIA,@,TAM,L 17-45,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Allen Hurns
-2021,2021-10-17,6,6,,MIA,@,JAX,L 20-23,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Allen Hurns
-2021,2021-10-24,7,7,,MIA,,ATL,L 28-30,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Allen Hurns
-2021,2021-10-31,8,8,,MIA,@,BUF,L 11-26,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Allen Hurns
-2021,2021-11-07,9,9,,MIA,,HOU,W 17-9,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Allen Hurns
-2021,2021-11-11,10,10,,MIA,,BAL,W 22-10,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Allen Hurns
-2021,2021-11-21,11,11,,MIA,@,NYJ,W 24-17,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Allen Hurns
-2021,2021-11-28,12,12,,MIA,,CAR,W 33-10,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Allen Hurns
-2021,2021-12-05,13,13,,MIA,,NYG,W 20-9,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Allen Hurns
-2021,2021-12-19,14,15,,MIA,,NYJ,W 31-24,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Allen Hurns
-2021,2021-12-27,15,16,,MIA,@,NOR,W 20-3,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Allen Hurns
-2021,2022-01-02,16,17,,MIA,@,TEN,L 3-34,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Allen Hurns
-2021,2022-01-09,17,18,,MIA,,NWE,W 33-24,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Allen Hurns
-,82 Games,,,,,,,30-52-0,False,416,241,3380,14.02,25,57.9%,8.13,25,150,5,2,0,3,0,0,,,,,,,False,Allen Hurns
+Year,Date,G#,Week,Age,Tm,Opp,Result,GS,Receiving_Tgt,Receiving_Rec,Receiving_Yds,Receiving_Y/R,Receiving_TD,Receiving_Ctch%,Receiving_Y/Tgt,Scoring_TD,Scoring_Pts,Fumbles_Fmb,Fumbles_FL,Fumbles_FF,Fumbles_FR,Fumbles_Yds,Fumbles_TD,Off. Snaps_Num,Off. Snaps_Pct,Def. Snaps_Num,Def. Snaps_Pct,ST Snaps_Num,ST Snaps_Pct,Away_status,Player,Win,Score,Opp Score
+2014.0,2014-09-07,1.0,1.0,22.299,JAX,PHI,L 17-34,True,9,4,110,27.50,2,44.4%,12.22,2,12,0,0,0,0,0,0,65,89%,0,0%,0,0%,True,Allen Hurns,False,17,34
+2014.0,2014-09-14,2.0,2.0,22.306,JAX,WAS,L 10-41,True,6,2,13,6.50,0,33.3%,2.17,0,0,0,0,0,0,0,0,48,96%,0,0%,0,0%,True,Allen Hurns,False,10,41
+2014.0,2014-09-21,3.0,3.0,22.313,JAX,IND,L 17-44,False,3,1,63,63.00,1,33.3%,21.00,1,6,0,0,0,0,0,0,52,87%,0,0%,0,0%,False,Allen Hurns,False,17,44
+2014.0,2014-09-28,4.0,4.0,22.32,JAX,SDG,L 14-33,True,6,5,68,13.60,0,83.3%,11.33,0,0,0,0,0,0,0,0,60,91%,0,0%,0,0%,True,Allen Hurns,False,14,33
+2014.0,2014-10-05,5.0,5.0,22.327,JAX,PIT,L 9-17,True,11,4,26,6.50,0,36.4%,2.36,0,0,0,0,0,0,0,0,55,98%,0,0%,0,0%,False,Allen Hurns,False,9,17
+2014.0,2014-10-12,6.0,6.0,22.334,JAX,TEN,L 14-16,False,4,2,18,9.00,0,50.0%,4.50,0,0,0,0,0,0,0,0,49,64%,0,0%,1,4%,True,Allen Hurns,False,14,16
+2014.0,2014-10-19,7.0,7.0,22.341,JAX,CLE,W 24-6,True,2,1,7,7.00,0,50.0%,3.50,0,0,0,0,0,0,0,0,38,52%,0,0%,0,0%,False,Allen Hurns,True,24,6
+2014.0,2014-10-26,8.0,8.0,22.348,JAX,MIA,L 13-27,False,4,3,49,16.33,0,75.0%,12.25,0,0,0,0,0,0,0,0,39,55%,0,0%,1,3%,False,Allen Hurns,False,13,27
+2014.0,2014-11-02,9.0,9.0,22.355,JAX,CIN,L 23-33,False,9,7,112,16.00,2,77.8%,12.44,2,12,0,0,0,0,0,0,54,86%,0,0%,0,0%,True,Allen Hurns,False,23,33
+2014.0,2014-11-09,10.0,10.0,22.362,JAX,DAL,L 17-31,False,2,1,9,9.00,0,50.0%,4.50,0,0,0,0,0,0,0,0,33,46%,0,0%,0,0%,False,Allen Hurns,False,17,31
+2014.0,2014-11-23,11.0,12.0,23.011,JAX,IND,L 3-23,True,4,1,13,13.00,0,25.0%,3.25,0,0,0,0,0,0,0,0,49,91%,0,0%,0,0%,True,Allen Hurns,False,3,23
+2014.0,2014-11-30,12.0,13.0,23.018,JAX,NYG,W 25-24,True,8,4,42,10.50,0,50.0%,5.25,0,0,0,0,0,0,0,0,61,90%,0,0%,0,0%,False,Allen Hurns,True,25,24
+2014.0,2014-12-07,13.0,14.0,23.025,JAX,HOU,L 13-27,False,10,5,36,7.20,1,50.0%,3.60,1,6,0,0,0,0,0,0,64,90%,0,0%,0,0%,False,Allen Hurns,False,13,27
+2014.0,2014-12-14,14.0,15.0,23.032,JAX,BAL,L 12-20,False,9,6,70,11.67,0,66.7%,7.78,0,0,0,0,0,0,0,0,53,78%,0,0%,0,0%,True,Allen Hurns,False,12,20
+2014.0,2014-12-18,15.0,16.0,23.036,JAX,TEN,W 21-13,False,6,3,26,8.67,0,50.0%,4.33,0,0,0,0,0,0,0,0,36,61%,0,0%,0,0%,False,Allen Hurns,True,21,13
+2014.0,2014-12-28,16.0,17.0,23.046,JAX,HOU,L 17-23,True,4,2,15,7.50,0,50.0%,3.75,0,0,0,0,0,0,0,0,32,56%,0,0%,0,0%,True,Allen Hurns,False,17,23
+2015.0,2015-09-13,1.0,1.0,23.305,JAX,CAR,L 9-20,True,7,5,60,12.00,0,71.4%,8.57,0,0,1,1,0,0,0,0,64,96%,0,0%,0,0%,False,Allen Hurns,False,9,20
+2015.0,2015-09-20,2.0,2.0,23.312,JAX,MIA,W 23-20,True,4,4,68,17.00,0,100.0%,17.00,0,0,0,0,0,0,0,0,58,79%,0,0%,0,0%,False,Allen Hurns,True,23,20
+2015.0,2015-09-27,3.0,3.0,23.319,JAX,NWE,L 17-51,True,4,2,70,35.00,1,50.0%,17.50,1,6,0,0,0,0,0,0,47,82%,0,0%,0,0%,True,Allen Hurns,False,17,51
+2015.0,2015-10-04,4.0,4.0,23.326,JAX,IND,L 13-16,True,15,11,116,10.55,1,73.3%,7.73,1,6,1,0,0,0,0,0,72,88%,0,0%,0,0%,True,Allen Hurns,False,13,16
+2015.0,2015-10-11,5.0,5.0,23.333,JAX,TAM,L 31-38,True,6,5,116,23.20,1,83.3%,19.33,1,6,0,0,0,0,0,0,58,98%,0,0%,0,0%,True,Allen Hurns,False,31,38
+2015.0,2015-10-18,6.0,6.0,23.34,JAX,HOU,L 20-31,False,7,2,30,15.00,1,28.6%,4.29,1,6,0,0,0,0,0,0,78,96%,0,0%,2,7%,False,Allen Hurns,False,20,31
+2015.0,2015-10-25,7.0,7.0,23.347,JAX,BUF,W 34-31,True,8,2,53,26.50,1,25.0%,6.63,1,6,0,0,0,0,0,0,59,88%,0,0%,1,3%,False,Allen Hurns,True,34,31
+2015.0,2015-11-08,8.0,9.0,23.361,JAX,NYJ,L 23-28,True,8,5,122,24.40,1,62.5%,15.25,1,6,0,0,0,0,0,0,66,100%,0,0%,1,3%,True,Allen Hurns,False,23,28
+2015.0,2015-11-15,9.0,10.0,24.003,JAX,BAL,W 22-20,True,9,5,62,12.40,1,55.6%,6.89,1,6,0,0,0,0,0,0,66,89%,0,0%,0,0%,True,Allen Hurns,True,22,20
+2015.0,2015-11-19,10.0,11.0,24.007,JAX,TEN,W 19-13,True,4,3,19,6.33,0,75.0%,4.75,0,0,0,0,0,0,0,0,42,70%,0,0%,0,0%,False,Allen Hurns,True,19,13
+2015.0,2015-11-29,11.0,12.0,24.017,JAX,SDG,L 25-31,True,9,4,42,10.50,0,44.4%,4.67,0,0,0,0,0,0,0,0,57,80%,0,0%,0,0%,False,Allen Hurns,False,25,31
+2015.0,2015-12-06,12.0,13.0,,JAX,TEN,L 39-42,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Allen Hurns,False,39,42
+2015.0,2015-12-13,13.0,14.0,24.031,JAX,IND,W 51-16,True,4,3,105,35.00,1,75.0%,26.25,1,6,0,0,0,0,0,0,42,65%,0,0%,0,0%,False,Allen Hurns,True,51,16
+2015.0,2015-12-20,14.0,15.0,24.038,JAX,ATL,L 17-23,True,5,2,44,22.00,0,40.0%,8.80,0,0,0,0,0,1,0,0,54,87%,0,0%,0,0%,False,Allen Hurns,False,17,23
+2015.0,2015-12-27,15.0,16.0,24.045,JAX,NOR,L 27-38,True,10,8,107,13.38,2,80.0%,10.70,2,12,0,0,0,0,0,0,51,89%,0,0%,0,0%,True,Allen Hurns,False,27,38
+2015.0,2016-01-03,16.0,17.0,24.052,JAX,HOU,L 6-30,True,5,3,17,5.67,0,60.0%,3.40,0,0,0,0,0,0,0,0,51,89%,0,0%,0,0%,True,Allen Hurns,False,6,30
+2016.0,2016-09-11,1.0,1.0,24.304,JAX,GNB,L 23-27,True,5,4,75,18.75,0,80.0%,15.00,0,0,0,0,0,0,0,0,63,88%,0,0%,0,0%,False,Allen Hurns,False,23,27
+2016.0,2016-09-18,2.0,2.0,24.311,JAX,SDG,L 14-38,True,10,5,64,12.80,0,50.0%,6.40,0,0,0,0,0,0,0,0,58,88%,0,0%,0,0%,True,Allen Hurns,False,14,38
+2016.0,2016-09-25,3.0,3.0,24.318,JAX,BAL,L 17-19,True,8,4,40,10.00,0,50.0%,5.00,0,0,0,0,0,0,0,0,58,88%,0,0%,0,0%,False,Allen Hurns,False,17,19
+2016.0,2016-10-02,4.0,4.0,24.325,JAX,IND,W 30-27,True,4,2,47,23.50,1,50.0%,11.75,1,6,0,0,0,0,0,0,64,89%,0,0%,1,3%,False,Allen Hurns,True,30,27
+2016.0,2016-10-16,5.0,6.0,24.339,JAX,CHI,W 17-16,True,11,5,74,14.80,0,45.5%,6.73,0,0,0,0,0,0,0,0,49,82%,0,0%,0,0%,True,Allen Hurns,True,17,16
+2016.0,2016-10-23,6.0,7.0,24.346,JAX,OAK,L 16-33,True,7,4,45,11.25,0,57.1%,6.43,0,0,0,0,0,0,0,0,57,84%,0,0%,0,0%,False,Allen Hurns,False,16,33
+2016.0,2016-10-27,7.0,8.0,24.35,JAX,TEN,L 22-36,True,11,7,98,14.00,1,63.6%,8.91,1,6,0,0,0,0,0,0,61,85%,0,0%,0,0%,True,Allen Hurns,False,22,36
+2016.0,2016-11-06,8.0,9.0,24.36,JAX,KAN,L 14-19,True,4,0,0,,0,0.0%,0.00,0,0,0,0,0,0,0,0,42,55%,0,0%,0,0%,True,Allen Hurns,False,14,19
+2016.0,2016-11-13,9.0,10.0,25.001,JAX,HOU,L 21-24,True,7,2,13,6.50,0,28.6%,1.86,0,0,1,0,0,1,0,0,72,92%,0,0%,0,0%,False,Allen Hurns,False,21,24
+2016.0,2016-11-20,10.0,11.0,25.008,JAX,DET,L 19-26,True,2,1,9,9.00,0,50.0%,4.50,0,0,0,0,0,0,0,0,59,89%,0,0%,0,0%,True,Allen Hurns,False,19,26
+2016.0,2016-11-27,11.0,12.0,25.015,JAX,BUF,L 21-28,True,7,1,12,12.00,1,14.3%,1.71,1,6,0,0,0,0,0,0,54,79%,0,0%,0,0%,True,Allen Hurns,False,21,28
+2016.0,2016-12-04,12.0,13.0,,JAX,DEN,L 10-20,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Allen Hurns,False,10,20
+2016.0,2016-12-11,13.0,14.0,,JAX,MIN,L 16-25,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Allen Hurns,False,16,25
+2016.0,2016-12-18,14.0,15.0,,JAX,HOU,L 20-21,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Allen Hurns,False,20,21
+2016.0,2016-12-24,15.0,16.0,,JAX,TEN,W 38-17,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Allen Hurns,True,38,17
+2016.0,2017-01-01,16.0,17.0,,JAX,IND,L 20-24,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Allen Hurns,False,20,24
+2017.0,2017-09-10,1.0,1.0,25.302,JAX,HOU,W 29-7,False,4,3,42,14.00,0,75.0%,10.50,0,0,0,0,0,0,0,0,51,80%,0,0%,0,0%,True,Allen Hurns,True,29,7
+2017.0,2017-09-17,2.0,2.0,25.309,JAX,TEN,L 16-37,True,7,6,82,13.67,1,85.7%,11.71,1,6,0,0,0,0,0,0,59,88%,0,0%,0,0%,False,Allen Hurns,False,16,37
+2017.0,2017-09-24,3.0,3.0,25.316,JAX,BAL,W 44-7,True,3,3,20,6.67,1,100.0%,6.67,1,6,0,0,0,0,0,0,44,60%,0,0%,1,3%,False,Allen Hurns,True,44,7
+2017.0,2017-10-01,4.0,4.0,25.323,JAX,NYJ,L 20-23,True,10,4,42,10.50,0,40.0%,4.20,0,0,0,0,0,0,0,0,60,77%,0,0%,0,0%,True,Allen Hurns,False,20,23
+2017.0,2017-10-08,5.0,5.0,25.33,JAX,PIT,W 30-9,True,3,2,21,10.50,0,66.7%,7.00,0,0,0,0,0,0,0,0,39,72%,0,0%,0,0%,True,Allen Hurns,True,30,9
+2017.0,2017-10-15,6.0,6.0,25.337,JAX,LAR,L 17-27,True,3,3,37,12.33,0,100.0%,12.33,0,0,0,0,0,0,0,0,56,81%,0,0%,0,0%,False,Allen Hurns,False,17,27
+2017.0,2017-10-22,7.0,7.0,25.344,JAX,IND,W 27-0,True,8,5,101,20.20,0,62.5%,12.63,0,0,0,0,0,0,0,0,50,74%,0,0%,0,0%,True,Allen Hurns,True,27,0
+2017.0,2017-11-05,8.0,9.0,25.358,JAX,CIN,W 23-7,True,4,3,31,10.33,0,75.0%,7.75,0,0,0,0,0,0,0,0,71,89%,0,0%,0,0%,False,Allen Hurns,True,23,7
+2017.0,2017-11-12,9.0,10.0,26.0,JAX,LAC,W 20-17,True,9,7,70,10.00,0,77.8%,7.78,0,0,0,0,0,0,0,0,60,71%,0,0%,0,0%,False,Allen Hurns,True,20,17
+2017.0,2017-11-19,10.0,11.0,,JAX,CLE,W 19-7,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Allen Hurns,True,19,7
+2017.0,2017-11-26,11.0,12.0,,JAX,ARI,L 24-27,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Allen Hurns,False,24,27
+2017.0,2017-12-03,12.0,13.0,,JAX,IND,W 30-10,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Allen Hurns,True,30,10
+2017.0,2017-12-10,13.0,14.0,,JAX,SEA,W 30-24,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Allen Hurns,True,30,24
+2017.0,2017-12-17,14.0,15.0,,JAX,HOU,W 45-7,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Allen Hurns,True,45,7
+2017.0,2017-12-24,15.0,16.0,,JAX,SFO,L 33-44,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Allen Hurns,False,33,44
+2017.0,2017-12-31,16.0,17.0,26.049,JAX,TEN,L 10-15,False,5,3,38,12.67,0,60.0%,7.60,0,0,0,0,0,0,0,0,47,78%,0,0%,0,0%,True,Allen Hurns,False,10,15
+2018.0,2018-09-09,1.0,1.0,26.301,DAL,CAR,L 8-16,False,3,1,20,20.00,0,33.3%,6.67,0,0,0,0,0,0,0,0,38,59%,0,0%,0,0%,True,Allen Hurns,False,8,16
+2018.0,2018-09-16,2.0,2.0,26.308,DAL,NYG,W 20-13,True,2,1,9,9.00,0,50.0%,4.50,0,0,0,0,0,0,0,0,27,51%,0,0%,2,8%,False,Allen Hurns,True,20,13
+2018.0,2018-09-23,3.0,3.0,26.315,DAL,SEA,L 13-24,False,4,2,22,11.00,0,50.0%,5.50,0,0,0,0,0,0,0,0,39,66%,0,0%,0,0%,True,Allen Hurns,False,13,24
+2018.0,2018-09-30,4.0,4.0,26.322,DAL,DET,W 26-24,True,5,3,30,10.00,0,60.0%,6.00,0,0,0,0,0,0,0,0,47,68%,0,0%,0,0%,False,Allen Hurns,True,26,24
+2018.0,2018-10-07,5.0,5.0,26.329,DAL,HOU,L 16-19,True,2,1,3,3.00,1,50.0%,1.50,1,6,0,0,0,0,0,0,38,61%,0,0%,0,0%,True,Allen Hurns,False,16,19
+2018.0,2018-10-14,6.0,6.0,26.336,DAL,JAX,W 40-7,True,5,0,0,,0,0.0%,0.00,0,0,0,0,0,0,0,0,57,78%,0,0%,0,0%,False,Allen Hurns,True,40,7
+2018.0,2018-10-21,7.0,7.0,26.343,DAL,WAS,L 17-20,True,6,5,74,14.80,0,83.3%,12.33,0,0,1,0,0,1,0,0,54,82%,0,0%,0,0%,True,Allen Hurns,False,17,20
+2018.0,2018-11-05,8.0,9.0,26.358,DAL,TEN,L 14-28,False,1,1,23,23.00,1,100.0%,23.00,1,6,0,0,0,0,0,0,18,31%,0,0%,0,0%,False,Allen Hurns,False,14,28
+2018.0,2018-11-11,9.0,10.0,26.364,DAL,PHI,W 27-20,False,2,2,40,20.00,0,100.0%,20.00,0,0,0,0,0,0,0,0,15,22%,0,0%,0,0%,True,Allen Hurns,True,27,20
+2018.0,2018-11-18,10.0,11.0,27.006,DAL,ATL,W 22-19,False,0,0,0,,0,0.0%,,0,0,0,0,0,0,0,0,8,12%,0,0%,0,0%,True,Allen Hurns,True,22,19
+2018.0,2018-11-22,11.0,12.0,27.01,DAL,WAS,W 31-23,True,1,1,7,7.00,0,100.0%,7.00,0,0,0,0,0,0,0,0,32,46%,0,0%,1,3%,False,Allen Hurns,True,31,23
+2018.0,2018-11-29,12.0,13.0,27.017,DAL,NOR,W 13-10,False,0,0,0,,0,0.0%,,0,0,0,0,0,0,0,0,16,23%,0,0%,0,0%,False,Allen Hurns,True,13,10
+2018.0,2018-12-09,13.0,14.0,27.027,DAL,PHI,W 29-23,True,1,1,9,9.00,0,100.0%,9.00,0,0,0,0,0,0,0,0,27,27%,0,0%,0,0%,False,Allen Hurns,True,29,23
+2018.0,2018-12-16,14.0,15.0,27.034,DAL,IND,L 0-23,False,2,1,9,9.00,0,50.0%,4.50,0,0,0,0,0,0,0,0,22,32%,0,0%,0,0%,True,Allen Hurns,False,0,23
+2018.0,2018-12-23,15.0,16.0,27.041,DAL,TAM,W 27-20,False,0,0,0,,0,0.0%,,0,0,0,0,0,0,0,0,4,8%,0,0%,0,0%,False,Allen Hurns,True,27,20
+2018.0,2018-12-30,16.0,17.0,27.048,DAL,NYG,W 36-35,False,1,1,49,49.00,0,100.0%,49.00,0,0,0,0,0,0,0,0,9,12%,0,0%,0,0%,True,Allen Hurns,True,36,35
+2019.0,2019-09-08,1.0,1.0,27.3,MIA,BAL,L 10-59,False,2,1,22,22.00,0,50.0%,11.00,0,0,0,0,0,0,0,0,34,69%,0,0%,0,0%,False,Allen Hurns,False,10,59
+2019.0,2019-09-15,2.0,2.0,27.307,MIA,NWE,L 0-43,False,2,1,13,13.00,0,50.0%,6.50,0,0,0,0,0,0,0,0,28,45%,0,0%,0,0%,False,Allen Hurns,False,0,43
+2019.0,2019-09-22,3.0,3.0,27.314,MIA,DAL,L 6-31,True,2,1,6,6.00,0,50.0%,3.00,0,0,0,0,0,0,0,0,5,7%,0,0%,0,0%,True,Allen Hurns,False,6,31
+2019.0,2019-09-29,4.0,4.0,,MIA,LAC,L 10-30,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,False,Allen Hurns,False,10,30
+2019.0,2019-10-13,5.0,6.0,27.335,MIA,WAS,L 16-17,False,2,2,16,8.00,0,100.0%,8.00,0,0,0,0,0,0,0,0,26,35%,0,0%,0,0%,False,Allen Hurns,False,16,17
+2019.0,2019-10-20,6.0,7.0,27.342,MIA,BUF,L 21-31,False,3,3,53,17.67,0,100.0%,17.67,0,0,0,0,0,0,0,0,26,36%,0,0%,0,0%,True,Allen Hurns,False,21,31
+2019.0,2019-10-28,7.0,8.0,27.35,MIA,PIT,L 14-27,False,1,1,12,12.00,1,100.0%,12.00,1,6,0,0,0,0,0,0,19,33%,0,0%,0,0%,True,Allen Hurns,False,14,27
+2019.0,2019-11-03,8.0,9.0,27.356,MIA,NYJ,W 26-18,True,3,2,16,8.00,0,66.7%,5.33,0,0,0,0,0,0,0,0,30,43%,0,0%,1,3%,False,Allen Hurns,True,26,18
+2019.0,2019-11-10,9.0,10.0,27.363,MIA,IND,W 16-12,True,4,2,32,16.00,0,50.0%,8.00,0,0,0,0,0,0,0,0,58,89%,0,0%,0,0%,True,Allen Hurns,True,16,12
+2019.0,2019-11-17,10.0,11.0,28.005,MIA,BUF,L 20-37,False,6,4,53,13.25,0,66.7%,8.83,0,0,1,1,0,0,0,0,60,86%,0,0%,0,0%,False,Allen Hurns,False,20,37
+2019.0,2019-11-24,11.0,12.0,28.012,MIA,CLE,L 24-41,True,7,4,42,10.50,1,57.1%,6.00,1,6,0,0,0,0,0,0,57,90%,0,0%,0,0%,True,Allen Hurns,False,24,41
+2019.0,2019-12-01,12.0,13.0,28.019,MIA,PHI,W 37-31,True,4,3,33,11.00,0,75.0%,8.25,0,0,0,0,0,0,0,0,57,80%,0,0%,1,3%,False,Allen Hurns,True,37,31
+2019.0,2019-12-08,13.0,14.0,28.026,MIA,NYJ,L 21-22,True,8,5,68,13.60,0,62.5%,8.50,0,0,0,0,0,0,0,0,57,79%,0,0%,0,0%,True,Allen Hurns,False,21,22
+2019.0,2019-12-15,14.0,15.0,28.033,MIA,NYG,L 20-36,False,1,1,9,9.00,0,100.0%,9.00,0,0,0,0,0,0,0,0,33,46%,0,0%,0,0%,True,Allen Hurns,False,20,36
+2019.0,2019-12-22,15.0,16.0,28.04,MIA,CIN,W 38-35,True,2,2,41,20.50,0,100.0%,20.50,0,0,0,0,0,0,0,0,32,36%,0,0%,0,0%,False,Allen Hurns,True,38,35
+2019.0,2019-12-29,16.0,17.0,,MIA,NWE,W 27-24,True,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,True,Allen Hurns,True,27,24
+2021.0,2021-09-12,1.0,1.0,,MIA,NWE,W 17-16,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Allen Hurns,True,17,16
+2021.0,2021-09-19,2.0,2.0,,MIA,BUF,L 0-35,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Allen Hurns,False,0,35
+2021.0,2021-09-26,3.0,3.0,,MIA,LVR,L 28-31,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Allen Hurns,False,28,31
+2021.0,2021-10-03,4.0,4.0,,MIA,IND,L 17-27,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Allen Hurns,False,17,27
+2021.0,2021-10-10,5.0,5.0,,MIA,TAM,L 17-45,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Allen Hurns,False,17,45
+2021.0,2021-10-17,6.0,6.0,,MIA,JAX,L 20-23,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Allen Hurns,False,20,23
+2021.0,2021-10-24,7.0,7.0,,MIA,ATL,L 28-30,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Allen Hurns,False,28,30
+2021.0,2021-10-31,8.0,8.0,,MIA,BUF,L 11-26,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Allen Hurns,False,11,26
+2021.0,2021-11-07,9.0,9.0,,MIA,HOU,W 17-9,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Allen Hurns,True,17,9
+2021.0,2021-11-11,10.0,10.0,,MIA,BAL,W 22-10,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Allen Hurns,True,22,10
+2021.0,2021-11-21,11.0,11.0,,MIA,NYJ,W 24-17,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Allen Hurns,True,24,17
+2021.0,2021-11-28,12.0,12.0,,MIA,CAR,W 33-10,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Allen Hurns,True,33,10
+2021.0,2021-12-05,13.0,13.0,,MIA,NYG,W 20-9,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Allen Hurns,True,20,9
+2021.0,2021-12-19,14.0,15.0,,MIA,NYJ,W 31-24,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Allen Hurns,True,31,24
+2021.0,2021-12-27,15.0,16.0,,MIA,NOR,W 20-3,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Allen Hurns,True,20,3
+2021.0,2022-01-02,16.0,17.0,,MIA,TEN,L 3-34,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,True,Allen Hurns,False,3,34
+2021.0,2022-01-09,17.0,18.0,,MIA,NWE,W 33-24,True,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,False,Allen Hurns,True,33,24
+,82 Games,,,,,,30-52-0,False,416,241,3380,14.02,25,57.9%,8.13,25,150,5,2,0,3,0,0,,,,,,,False,Allen Hurns,False,52,0
